@@ -187,13 +187,13 @@ export default function Home() {
                     Código: <span className='code'>{item.name}</span>
                   </p>
                   {/* <h5 className='north-america'>GLOBAL</h5> */}
-                  {/* {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            Buy Now on Amazon
-                          </a>
-                        </>
-                      )} */}
+                  {item.usalink && (
+                    <>
+                      <a href={item.usalink} target='_blank' className='custom-button'>
+                        Buy Now on Amazon
+                      </a>
+                    </>
+                  )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -256,13 +256,13 @@ export default function Home() {
                         Código: <span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
-                      {/* {item.usalink && (
+                      {item.usalink && (
                         <>
                           <a href={item.usalink} target='_blank' className='custom-button'>
                             Buy Now on Amazon
                           </a>
                         </>
-                      )} */}
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
