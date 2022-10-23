@@ -1,0 +1,10 @@
+.container {
+  padding: 0 1rem;
+}
+
+.program-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 110%;
+}
