@@ -139,6 +139,7 @@ export default function Home() {
       <div className='search-bar'>
         <div className='content-title'>
           <p className='pb-05'>Por favor, insira o código do produto no rolo na caixa de pesquisa</p>
+          <p className='pb-05'>Please enter the product code in the search box</p>
         </div>
         <div className='input-content'>
           <input
@@ -186,6 +187,13 @@ export default function Home() {
                   <p>
                     Código: <span className='code'>{item.name}</span>
                   </p>
+                  {item.aliexpress && (
+                    <>
+                      <a href={item.aliexpress} target='_blank' className='custom-button'>
+                        Buy Now on Aliexpress
+                      </a>
+                    </>
+                  )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -255,6 +263,13 @@ export default function Home() {
                         Código: <span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
+                      {item.aliexpress && (
+                        <>
+                          <a href={item.aliexpress} target='_blank' className='custom-button'>
+                            Buy Now on Aliexpress
+                          </a>
+                        </>
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
