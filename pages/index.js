@@ -145,7 +145,7 @@ export default function Home() {
           <input
             className='input-search'
             type='text'
-            placeholder='Insira o código aqui, exemplo: 3'
+            placeholder='Enter code here, example: 3'
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
@@ -260,7 +260,7 @@ export default function Home() {
                     <div className='product-text'>
                       {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
                       <p>
-                        Código: <span className='code'>{item.name}</span>
+                        Código/Code:<span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
                       {item.aliexpress && (
