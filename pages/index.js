@@ -102,7 +102,8 @@ export default function Home() {
     if (inputSearch === '' && index) {
       return item;
     } else if (inputSearch !== '') {
-      return item.name.toLowerCase().includes(inputSearch);
+      // return item.name.toLowerCase().includes(inputSearch);
+      return [item].find((e) => e.name == inputSearch);
     }
   });
   const replaceArea = (string, area) => {
