@@ -141,12 +141,13 @@ export default function Home() {
         <div className='content-title'>
           <p className='pb-05'>Por favor, insira o código do produto no rolo na caixa de pesquisa</p>
           <p className='pb-05'>Please enter the product code in the search box</p>
+          <p className='pb-05'>Пожалуйста, введите код продукта в поле поиска</p>
         </div>
         <div className='input-content'>
           <input
             className='input-search'
             type='text'
-            placeholder='Enter code here, example: 3'
+            placeholder='Here here, aqui aqui, здесь здесь'
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
@@ -186,7 +187,7 @@ export default function Home() {
                 <div className='product-text'>
                   {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
                   <p>
-                    Código: <span className='code'>{item.name}</span>
+                    Código/code:<span className='code'>{item.name}</span>
                   </p>
                   {item.aliexpress && (
                     <>
@@ -199,6 +200,13 @@ export default function Home() {
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Compre agora no Aliexpress
+                      </a>
+                    </>
+                  )}
+                  {item.aliexpress && (
+                    <>
+                      <a href={item.aliexpress} target='_blank' className='custom-button'>
+                        Купить сейчас на Aliexpress
                       </a>
                     </>
                   )}
@@ -275,6 +283,13 @@ export default function Home() {
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                             Compre agora no Aliexpress
+                          </a>
+                        </>
+                      )}
+                      {item.aliexpress && (
+                        <>
+                          <a href={item.aliexpress} target='_blank' className='custom-button'>
+                            Купить сейчас на Aliexpress
                           </a>
                         </>
                       )}
