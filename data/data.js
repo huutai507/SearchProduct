@@ -1,5 +1,12 @@
 export const data = [
   {
+    name: '367',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DnCZPvd',
+    usalink: '',
+    imglink: '//ae01.alicdn.com/kf/S475dbc884b194cadb3aa05e9bc3612a4W.jpg_350x350.jpg',
+    shortlink: 'https://s.click.aliexpress.com/e/_DnCZPvd'
+  },
+  {
     name: '366',
     aliexpress: 'https://s.click.aliexpress.com/e/_DEJhibz',
     usalink: '',
