@@ -260,10 +260,11 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button aliexpress'>
+                  <h5 className='north-america'>Special program</h5>
+                  <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button '>
                     Free 30-Day Audible
                   </a>
-                  <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button aliexpress'>
+                  <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button '>
                     Free 30-Day Amazon Prime
                   </a>
                 </div>
@@ -354,10 +355,11 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button aliexpress'>
+                      <h5 className='north-america'>Special program</h5>
+                      <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button '>
                         Free 30-Day Audible
                       </a>
-                      <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button aliexpress'>
+                      <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button '>
                         Free 30-Day Amazon Prime
                       </a>
                     </div>
