@@ -233,6 +233,12 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
+                  <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button'>
+                    Free 30-Day Audible
+                  </a>
+                  <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button'>
+                    Free 30-Day Amazon Prime
+                  </a>
                   {item.usalink && (
                     <>
                       <h5 className='north-america'>SELECT COUNTRY</h5>
@@ -319,14 +325,13 @@ export default function Home() {
                             Brazil - Compre agora na Amazon
                           </a>
                         </>
-                      )}
-                      {item.usalink && (
-                        <>
-                          <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
-                            India - Buy Now on Amazon
-                          </a>
-                        </>
                       )} */}
+                      <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button'>
+                        Free 30-Day Audible
+                      </a>
+                      <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button'>
+                        Free 30-Day Amazon Prime
+                      </a>
 
                       {item.usalink && (
                         <>
