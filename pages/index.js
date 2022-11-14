@@ -8,87 +8,109 @@ import { data } from '../data/data';
 
 const COUNTRIES = [
   {
+    area: 'amazon.com',
+    name: 'USA',
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
+  },
+  {
     area: 'amazon.ca',
     name: 'Canada',
-    checked: false
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
   },
   {
     area: 'amazon.com.br',
     name: 'Brazil',
-    checked: false
+    checked: false,
+    paragraph: 'Compre agora na Amazon'
   },
   {
     area: 'amazon.com.mx',
     name: 'Mexico',
-    checked: false
+    checked: false,
+    paragraph: 'Comprar ahora en Amazon'
   },
   {
     area: 'amazon.in',
     name: 'India',
-    checked: false
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
   },
   {
     area: 'amazon.co.jp',
     name: 'Japan',
-    checked: false
+    checked: false,
+    paragraph: '今すぐ購入 Amazon'
   },
   {
     area: 'amazon.sg',
     name: 'Singapore',
-    checked: false
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
   },
   {
     area: 'amazon.com.au',
     name: 'Australia',
-    checked: false
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
   },
   {
     area: 'amazon.co.uk',
     name: 'UK',
-    checked: false
+    checked: false,
+    paragraph: 'Buy Now on Amazon'
   },
   {
     area: 'amazon.de',
     name: 'Germany',
-    checked: false
+    checked: false,
+    paragraph: 'Kaufen Sie jetzt auf Amazon'
   },
   {
     area: 'amazon.it',
     name: 'Italia',
-    checked: false
+    checked: false,
+    paragraph: 'Acquista ora su Amazon'
   },
   {
     area: 'amazon.fr',
     name: 'France',
-    checked: false
+    checked: false,
+    paragraph: 'Achetez maintenant sur Amazon'
   },
   {
     area: 'amazon.es',
     name: 'Spain',
-    checked: false
+    checked: false,
+    paragraph: 'Compra ahora en Amazon'
   },
   {
     area: 'amazon.se',
     name: 'Sweden',
-    checked: false
+    checked: false,
+    paragraph: 'Köp nu på Amazon'
   },
   {
     area: 'amazon.tr',
     name: 'Turkey',
-    checked: false
+    checked: false,
+    paragraph: 'Şimdi Satın Al Amazon'
   },
   {
     area: 'amazon.nl',
     name: 'Netherlands',
-    checked: false
+    checked: false,
+    paragraph: 'Koop nu op Amazon'
   }
 ];
 
 export default function Home() {
   const [inputSearch, setInputSearch] = useState('');
   const [listProduct, setListProduct] = useState(data);
-  const [country, setCountry] = useState('amazon.in');
-  const [nameCountry, setNameCountry] = useState('India');
+  const [country, setCountry] = useState('amazon.com');
+  const [nameCountry, setNameCountry] = useState('USA');
+  const [title, setTitle] = useState('Buy Now on Amazon');
   const inputHandler = (e) => {
     let lowerCase = e.target.value.toLowerCase();
     setInputSearch(lowerCase);
@@ -118,6 +140,8 @@ export default function Home() {
     const prevCountry = 'amazon.com';
     let index = e.nativeEvent.target.selectedIndex;
     const currentCountry = e.nativeEvent.target[index].text;
+    const titleCountry = COUNTRIES.find((e) => e.name == currentCountry);
+    setTitle(titleCountry.paragraph);
     setNameCountry(currentCountry);
     setCountry(e.target.value);
   };
@@ -139,15 +163,14 @@ export default function Home() {
       </Head>
       <div className='search-bar'>
         <div className='content-title'>
-          <p className='pb-05'>Por favor, insira o código do produto no rolo na caixa de pesquisa</p>
-          <p className='pb-05'>Please enter the product code in the search box</p>
-          <p className='pb-05'>Пожалуйста, введите код продукта в поле поиска</p>
+          <p className='pb-05'>Please enter the product code in the search box and select your country</p>
+          <p className='pb-05'>Insira o código do produto na caixa de pesquisa e selecione seu país</p>
         </div>
         <div className='input-content'>
           <input
             className='input-search'
             type='text'
-            placeholder='Here here, aqui aqui, здесь здесь'
+            placeholder='Enter code here, Entre com o código aqui '
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
@@ -191,7 +214,7 @@ export default function Home() {
                   </p>
                   {item.aliexpress && (
                     <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button'>
+                      <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Buy Now on Aliexpress
                       </a>
                     </>
@@ -203,20 +226,13 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  {item.aliexpress && (
-                    <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button'>
-                        Купить сейчас на Aliexpress
-                      </a>
-                    </>
-                  )}
-                  {item.usalink && (
+                  {/* {item.usalink && (
                     <>
                       <a href={item.usalink} target='_blank' className='custom-button'>
-                        Buy Now on Amazon
+                        USA - Buy Now on Amazon
                       </a>
                     </>
-                  )}
+                  )} */}
                   {item.usalink && (
                     <>
                       <h5 className='north-america'>SELECT COUNTRY</h5>
@@ -229,7 +245,7 @@ export default function Home() {
                           onChange={handleChangeSelected}
                         >
                           <option value='amazon.com' disabled>
-                            Select
+                            USA
                           </option>
                           {COUNTRIES.map((item, index) => (
                             <option value={item.area} key={index}>
@@ -239,7 +255,7 @@ export default function Home() {
                         </select>
                       </div>
                       <a href={replaceArea(item.usalink, country)} target='_blank' className='custom-button'>
-                        {nameCountry} - Buy Now on Amazon
+                        {nameCountry} - {title}
                       </a>
                     </>
                   )}
@@ -274,7 +290,7 @@ export default function Home() {
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
                       {item.aliexpress && (
                         <>
-                          <a href={item.aliexpress} target='_blank' className='custom-button'>
+                          <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                             Buy Now on Aliexpress
                           </a>
                         </>
@@ -286,20 +302,31 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      {item.aliexpress && (
+                      {/* {item.usalink && (
                         <>
-                          <a href={item.aliexpress} target='_blank' className='custom-button'>
-                            Купить сейчас на Aliexpress
+                          <a href={item.usalink} target='_blank' className='custom-button'>
+                            USA - Buy Now on Amazon
                           </a>
                         </>
                       )}
                       {item.usalink && (
                         <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            Buy Now on Amazon
+                          <a
+                            href={replaceArea(item.usalink, 'amazon.com.br')}
+                            target='_blank'
+                            className='custom-button'
+                          >
+                            Brazil - Compre agora na Amazon
                           </a>
                         </>
                       )}
+                      {item.usalink && (
+                        <>
+                          <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
+                            India - Buy Now on Amazon
+                          </a>
+                        </>
+                      )} */}
 
                       {item.usalink && (
                         <>
@@ -313,7 +340,7 @@ export default function Home() {
                               onChange={handleChangeSelected}
                             >
                               <option value='amazon.com' disabled>
-                                Select
+                                USA
                               </option>
                               {COUNTRIES.map((item, index) => (
                                 <option value={item.area} key={index}>
@@ -323,7 +350,7 @@ export default function Home() {
                             </select>
                           </div>
                           <a href={replaceArea(item.usalink, country)} target='_blank' className='custom-button'>
-                            {nameCountry} - Buy Now on Amazon
+                            {nameCountry} - {title}
                           </a>
                         </>
                       )}
