@@ -108,7 +108,7 @@ const COUNTRIES = [
 export default function Home() {
   const [inputSearch, setInputSearch] = useState('');
   const [listProduct, setListProduct] = useState(data);
-  const [country, setCountry] = useState('amazon.com.br');
+  const [country, setCountry] = useState('amazon.in');
   const [nameCountry, setNameCountry] = useState('India');
   const [title, setTitle] = useState('Buy Now on Amazon');
   const inputHandler = (e) => {
