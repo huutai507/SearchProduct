@@ -108,8 +108,8 @@ const COUNTRIES = [
 export default function Home() {
   const [inputSearch, setInputSearch] = useState('');
   const [listProduct, setListProduct] = useState(data);
-  const [country, setCountry] = useState('amazon.com');
-  const [nameCountry, setNameCountry] = useState('USA');
+  const [country, setCountry] = useState('amazon.com.br');
+  const [nameCountry, setNameCountry] = useState('India');
   const [title, setTitle] = useState('Buy Now on Amazon');
   const inputHandler = (e) => {
     let lowerCase = e.target.value.toLowerCase();
@@ -233,7 +233,27 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
-
+                  {item.usalink && (
+                    <>
+                      <a href={replaceArea(item.usalink, 'amazon.com.br')} target='_blank' className='custom-button'>
+                        Brazil - Compre agora na Amazon
+                      </a>
+                    </>
+                  )}
+                  {item.usalink && (
+                    <>
+                      <a href={item.usalink} target='_blank' className='custom-button'>
+                        USA - Buy Now on Amazon
+                      </a>
+                    </>
+                  )}
+                  {/* {item.usalink && (
+                    <>
+                      <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
+                        India - Buy Now on Amazon
+                      </a>
+                    </>
+                  )} */}
                   {item.usalink && (
                     <>
                       <h5 className='north-america'>SELECT COUNTRY</h5>
@@ -310,13 +330,6 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      {/* {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            USA - Buy Now on Amazon
-                          </a>
-                        </>
-                      )}
                       {item.usalink && (
                         <>
                           <a
@@ -325,6 +338,20 @@ export default function Home() {
                             className='custom-button'
                           >
                             Brazil - Compre agora na Amazon
+                          </a>
+                        </>
+                      )}
+                      {item.usalink && (
+                        <>
+                          <a href={item.usalink} target='_blank' className='custom-button'>
+                            USA - Buy Now on Amazon
+                          </a>
+                        </>
+                      )}
+                      {/* {item.usalink && (
+                        <>
+                          <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
+                            India - Buy Now on Amazon
                           </a>
                         </>
                       )} */}
