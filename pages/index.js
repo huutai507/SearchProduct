@@ -163,14 +163,14 @@ export default function Home() {
       </Head>
       <div className='search-bar'>
         <div className='content-title'>
-          <p className='pb-05'>Please enter the product code in the search box and select your country</p>
-          <p className='pb-05'>Insira o código do produto na caixa de pesquisa e selecione seu país</p>
+          <p className='pb-05'>Digite o código do produto na caixa de pesquisa</p>
+          <p className='pb-05'>Please enter the product code in the search box</p>
         </div>
         <div className='input-content'>
           <input
             className='input-search'
             type='text'
-            placeholder='Enter code here, Entre com o código aqui '
+            placeholder=' Entre com o código aqui, Enter code here,'
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
@@ -215,17 +215,18 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Buy Now on Aliexpress
+                        Compre agora no Aliexpress
                       </a>
                     </>
                   )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Compre agora no Aliexpress
+                        Buy Now on Aliexpress
                       </a>
                     </>
                   )}
+
                   {/* {item.usalink && (
                     <>
                       <a href={item.usalink} target='_blank' className='custom-button'>
@@ -280,13 +281,6 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  <h5 className='north-america'>Special program</h5>
-                  <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button '>
-                    Free 30-Day Audible
-                  </a>
-                  <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button '>
-                    Free 30-Day Amazon Prime
-                  </a>
                 </div>
               </div>
             ))}
@@ -319,17 +313,18 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Buy Now on Aliexpress
+                            Compre agora no Aliexpress
                           </a>
                         </>
                       )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Compre agora no Aliexpress
+                            Buy Now on Aliexpress
                           </a>
                         </>
                       )}
+
                       {item.usalink && (
                         <>
                           <a
@@ -382,13 +377,6 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      <h5 className='north-america'>Special program</h5>
-                      <a href='https://amzn.to/3EtBL7O' target='_blank' className='custom-button '>
-                        Free 30-Day Audible
-                      </a>
-                      <a href='https://amzn.to/3X0kKt9' target='_blank' className='custom-button '>
-                        Free 30-Day Amazon Prime
-                      </a>
                     </div>
                   </div>
                 ))}
