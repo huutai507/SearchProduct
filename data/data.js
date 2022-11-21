@@ -39,7 +39,7 @@ export const data = [
     usalink: '',
     aliexpress: 'https://s.click.aliexpress.com/e/_DchjWF9',
     imglink:
-      'https://ae01.alicdn.com/kf/S31d04ff5b9b34838832c101e48434a29i/Dumpling-Maker-Machine-Kitchen-Gadget-Accessories-Double-Head-Press-Dumplings-Mold-DIY-Empanadas-Ravioli-Mould-Home.jpg_50x50.jpg_.webp',
+      'https://ae01.alicdn.com/kf/S31d04ff5b9b34838832c101e48434a29i/Dumpling-Maker-Machine-Kitchen-Gadget-Accessories-Double-Head-Press-Dumplings-Mold-DIY-Empanadas-Ravioli-Mould-Home.jpg_350x350.jpg_.webp',
     shortlink: 'https://s.click.aliexpress.com/e/_DchjWF9'
   },
   {
