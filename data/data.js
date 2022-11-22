@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: '430',
+    name: '429',
     usalink: '',
     aliexpress: 'https://s.click.aliexpress.com/e/_DD0YoB5',
     imglink: '//ae01.alicdn.com/kf/Sf37b079ccb8c459a98a2e970bf4cd982y.jpg_350x350.jpg',
