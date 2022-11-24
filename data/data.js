@@ -1,61 +1,5 @@
 export const data = [
   {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DDTiGmn',
-    imglink: '//ae01.alicdn.com/kf/H40f5c7f873a2430c97fada777808267c1.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DDTiGmn'
-  },
-  {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DEfmyp5',
-    imglink: '//ae01.alicdn.com/kf/H3ed434f9016440f996c58077561a83fbd.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DEfmyp5'
-  },
-  {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DdxAlIL',
-    imglink: '//ae01.alicdn.com/kf/H7c158366dd3843b7a6d1575fbd885fc8N.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DdxAlIL'
-  },
-  {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DeNIHbH',
-    imglink: '//ae01.alicdn.com/kf/S9c451bd1e999408390bc685c053d21458.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DeNIHbH'
-  },
-  {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DkQY0rh',
-    imglink: '//ae01.alicdn.com/kf/S7fda9d7815ed44d28bb8b53354790889I.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DkQY0rh'
-  },
-  {
-    name: '430',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DBMBk8T',
-    imglink: '//ae01.alicdn.com/kf/S0b376b6e193a4cc3abf02c18a1452828b.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DBMBk8T'
-  },
-  {
-    name: '429',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DD0YoB5',
-    imglink: '//ae01.alicdn.com/kf/Sf37b079ccb8c459a98a2e970bf4cd982y.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DD0YoB5'
-  },
-  {
-    name: '429',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DEsgyZD',
-    imglink: '//ae01.alicdn.com/kf/Hd0ad75b6267e43a9a11a577bc4771795W.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DEsgyZD'
-  },
-  {
     name: '428',
     usalink: '',
     aliexpress: 'https://s.click.aliexpress.com/e/_DFwKgw7',
@@ -64,10 +8,11 @@ export const data = [
   },
   {
     name: '427',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DD3QX3p',
+    usalink:
+      'https://www.amazon.com/s?k=Arched+Cuddle+Pillow%2CCouples+Pillow+with+Slow+Rebound+and+Breathable+Memory+Foam&crid=1Y5P2L92X1IAX&sprefix=pillow+couple%2Caps%2C388&linkCode=ll2&tag=taiphantmt-20&linkId=0a272145319935959b3bed23169d9d23&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/H7ab4fe3d9f684d3baf4125ce8766ef2aW.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DD3QX3p'
+    shortlink: 'https://amzn.to/3OACgAh'
   },
   {
     name: '426',
