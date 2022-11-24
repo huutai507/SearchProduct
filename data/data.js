@@ -66,11 +66,11 @@ export const data = [
   },
   {
     name: '419',
-    usalink: 'https://amzn.to/3VpG7m5',
+    usalink:
+      'https://www.amazon.com/s?k=Sleeve+Stars+Knee+Compression+Sleeve+for+Women+%26+Men&linkCode=ll2&tag=taiphantmt-20&linkId=fe9397c2b9a967cf3de914be9cd53996&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/517GZU8za6S._SL350_.jpg',
-    shortlink:
-      'https://www.amazon.com/s?k=Sleeve+Stars+Knee+Compression+Sleeve+for+Women+%26+Men&linkCode=ll2&tag=taiphantmt-20&linkId=fe9397c2b9a967cf3de914be9cd53996&language=en_US&ref_=as_li_ss_tl'
+    shortlink: 'https://amzn.to/3VpG7m5'
   },
   {
     name: '418',
