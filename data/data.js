@@ -88,17 +88,19 @@ export const data = [
   },
   {
     name: '416',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_Dka8Fvl',
-    imglink: '//ae01.alicdn.com/kf/S88499470d92342ff97398b7dbb6454524.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_Dka8Fvl'
+    usalink:
+      'https://www.amazon.com/s?k=Sleeve+Stars+Knee+Compression+Sleeve+for+Women+%26+Men&linkCode=ll2&tag=taiphantmt-20&linkId=fe9397c2b9a967cf3de914be9cd53996&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/517GZU8za6S._SL350_.jpg',
+    shortlink: 'https://amzn.to/3VpG7m5'
   },
   {
     name: '415',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DlaSHZd',
+    usalink:
+      'https://www.amazon.com/s?k=ACEBON+Car+Safety+Hammer+Window+Glass+Breaker&crid=26FOYF1TDI8UW&sprefix=acebon+car+safety+hammer+window+glass+breaker+%2Caps%2C312&linkCode=ll2&tag=taiphantmt-20&linkId=03201d8a919ac34b9354cb06000db526&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/Sda83aef7e6734d65ad5df4822fa012a4Z.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DlaSHZd'
+    shortlink: 'https://amzn.to/3ODgxYO'
   },
   {
     name: '414',
