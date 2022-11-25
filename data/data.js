@@ -67,10 +67,10 @@ export const data = [
   {
     name: '419',
     usalink:
-      'https://www.amazon.com/s?k=Sleeve+Stars+Knee+Compression+Sleeve+for+Women+%26+Men&linkCode=ll2&tag=taiphantmt-20&linkId=fe9397c2b9a967cf3de914be9cd53996&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=ASZX+1800W+High-Fire+Household+Electric+Grill+Pan&i=garden&crid=3FKSE1JFI3JB2&sprefix=%2Cgarden%2C295&linkCode=ll2&tag=taiphantmt-20&linkId=74522fb75345bebfc6ccee4d190777b5&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/517GZU8za6S._SL350_.jpg',
-    shortlink: 'https://amzn.to/3VpG7m5'
+    imglink: 'https://m.media-amazon.com/images/I/51FfHfobk3L._SL350_.jpg',
+    shortlink: 'https://amzn.to/3OzjZDy'
   },
   {
     name: '418',
