@@ -230,13 +230,13 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  {/* {item.aliexpress && (
+                  {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Buy Now on Aliexpress
                       </a>
                     </>
-                  )} */}
+                  )}
 
                   {/* {item.usalink && (
                     <>
@@ -327,13 +327,13 @@ export default function Home() {
                         Código/code:<span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
-                      {/* {item.aliexpress && (
+                      {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                             Buy Now on Aliexpress
                           </a>
                         </>
-                      )} */}
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
