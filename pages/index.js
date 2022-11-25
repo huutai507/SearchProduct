@@ -330,18 +330,24 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Compre agora no Aliexpress
+                            Buy Now on Aliexpress
                           </a>
                         </>
                       )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Buy Now on Aliexpress
+                            Compre agora no Aliexpress
                           </a>
                         </>
                       )}
-
+                      {item.usalink && (
+                        <>
+                          <a href={item.usalink} target='_blank' className='custom-button'>
+                            USA - Buy Now on Amazon
+                          </a>
+                        </>
+                      )}
                       {item.usalink && (
                         <>
                           <a
@@ -350,13 +356,6 @@ export default function Home() {
                             className='custom-button'
                           >
                             Brazil - Compre agora na Amazon
-                          </a>
-                        </>
-                      )}
-                      {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            USA - Buy Now on Amazon
                           </a>
                         </>
                       )}
