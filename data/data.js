@@ -102,10 +102,11 @@ export const data = [
   },
   {
     name: '414',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DBxxm4R',
+    usalink:
+      'https://www.amazon.com/s?k=automatic+print+nail&crid=20V95H5L70W1W&sprefix=automatic+print+nail%2Caps%2C536&linkCode=ll2&tag=taiphantmt-20&linkId=05450a12da1715951017a4418a323551&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/H5518ab84f22049b1a3c519a4d1396698e.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DBxxm4R'
+    shortlink: 'https://amzn.to/3Vkiifo'
   },
   {
     name: '413',
