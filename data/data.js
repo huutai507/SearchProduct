@@ -81,10 +81,11 @@ export const data = [
   },
   {
     name: '417',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DEo03OP',
+    usalink:
+      'https://www.amazon.com/s?k=Now+Clean+By+Room+With+Smart+Mapping&i=garden&linkCode=ll2&tag=taiphantmt-20&linkId=baa4a9339092aa038290775cd9167109&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S1a4d7b669b4c48b0ba58270751fb49942.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DEo03OP'
+    shortlink: 'https://amzn.to/3tYT0ba'
   },
   {
     name: '416',
