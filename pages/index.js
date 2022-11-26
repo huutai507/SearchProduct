@@ -240,7 +240,7 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Comprar ahora en aliexpress
+                        Comprar ahora en Aliexpress
                       </a>
                     </>
                   )}
@@ -350,7 +350,7 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Comprar ahora en aliexpress
+                            Comprar ahora en Aliexpress
                           </a>
                         </>
                       )}
