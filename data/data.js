@@ -8,11 +8,10 @@ export const data = [
   },
   {
     name: '427',
-    usalink:
-      'https://www.amazon.com/s?k=Arched+Cuddle+Pillow%2CCouples+Pillow+with+Slow+Rebound+and+Breathable+Memory+Foam&crid=1Y5P2L92X1IAX&sprefix=pillow+couple%2Caps%2C388&linkCode=ll2&tag=taiphantmt-20&linkId=0a272145319935959b3bed23169d9d23&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DeXJCYj',
     imglink: '//ae01.alicdn.com/kf/H7ab4fe3d9f684d3baf4125ce8766ef2aW.jpg_350x350.jpg',
-    shortlink: 'https://amzn.to/3OACgAh'
+    shortlink: 'https://s.click.aliexpress.com/e/_DeXJCYj'
   },
   {
     name: '426',
@@ -66,11 +65,10 @@ export const data = [
   },
   {
     name: '419',
-    usalink:
-      'https://www.amazon.com/s?k=ASZX+1800W+High-Fire+Household+Electric+Grill+Pan&i=garden&crid=3FKSE1JFI3JB2&sprefix=%2Cgarden%2C295&linkCode=ll2&tag=taiphantmt-20&linkId=74522fb75345bebfc6ccee4d190777b5&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DEDbgD5',
     imglink: 'https://m.media-amazon.com/images/I/51FfHfobk3L._SL350_.jpg',
-    shortlink: 'https://amzn.to/3OzjZDy'
+    shortlink: 'https://s.click.aliexpress.com/e/_DEDbgD5'
   },
   {
     name: '418',
@@ -81,35 +79,31 @@ export const data = [
   },
   {
     name: '417',
-    usalink:
-      'https://www.amazon.com/s?k=Now+Clean+By+Room+With+Smart+Mapping&i=garden&linkCode=ll2&tag=taiphantmt-20&linkId=baa4a9339092aa038290775cd9167109&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DFQaVZD',
     imglink: '//ae01.alicdn.com/kf/S1a4d7b669b4c48b0ba58270751fb49942.jpg_350x350.jpg',
-    shortlink: 'https://amzn.to/3tYT0ba'
+    shortlink: 'https://s.click.aliexpress.com/e/_DFQaVZD'
   },
   {
     name: '416',
-    usalink:
-      'https://www.amazon.com/s?k=Sleeve+Stars+Knee+Compression+Sleeve+for+Women+%26+Men&linkCode=ll2&tag=taiphantmt-20&linkId=fe9397c2b9a967cf3de914be9cd53996&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_Dlt1JRH',
     imglink: 'https://m.media-amazon.com/images/I/517GZU8za6S._SL350_.jpg',
-    shortlink: 'https://amzn.to/3VpG7m5'
+    shortlink: 'https://s.click.aliexpress.com/e/_Dlt1JRH'
   },
   {
     name: '415',
-    usalink:
-      'https://www.amazon.com/s?k=ACEBON+Car+Safety+Hammer+Window+Glass+Breaker&crid=26FOYF1TDI8UW&sprefix=acebon+car+safety+hammer+window+glass+breaker+%2Caps%2C312&linkCode=ll2&tag=taiphantmt-20&linkId=03201d8a919ac34b9354cb06000db526&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_De4kCoL',
     imglink: '//ae01.alicdn.com/kf/Sda83aef7e6734d65ad5df4822fa012a4Z.jpg_350x350.jpg',
-    shortlink: 'https://amzn.to/3ODgxYO'
+    shortlink: 'https://s.click.aliexpress.com/e/_De4kCoL'
   },
   {
     name: '414',
-    usalink:
-      'https://www.amazon.com/s?k=automatic+print+nail&crid=20V95H5L70W1W&sprefix=automatic+print+nail%2Caps%2C536&linkCode=ll2&tag=taiphantmt-20&linkId=05450a12da1715951017a4418a323551&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DnsLYUL',
     imglink: '//ae01.alicdn.com/kf/H5518ab84f22049b1a3c519a4d1396698e.jpg_350x350.jpg',
-    shortlink: 'https://amzn.to/3Vkiifo'
+    shortlink: 'https://s.click.aliexpress.com/e/_DnsLYUL'
   },
   {
     name: '413',
