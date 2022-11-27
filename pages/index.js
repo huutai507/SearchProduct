@@ -92,7 +92,7 @@ const COUNTRIES = [
     paragraph: 'Köp nu på Amazon'
   },
   {
-    area: 'amazon.tr',
+    area: 'amazon.com.tr',
     name: 'Turkey',
     checked: false,
     paragraph: 'Şimdi Satın Al Amazon'
