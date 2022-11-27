@@ -34,15 +34,15 @@ export const data = [
   {
     name: '439',
     usalink:
-      'https://www.amazon.com/s?k=Portable+Washing+Machine+with+Effective+Steri-lizing+Function&i=appliances&crid=2GZDD7K5KAL1X&sprefix=%2Cappliances%2C672&linkCode=ll2&tag=taiphantmt-20&linkId=f8924488ae29ef1c82dd2878ac86d540&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=Portable+Washing+Machine+mini&i=appliances&crid=2XZEZKGUHX1QY&sprefix=portable+washing+machine+min%2Cappliances%2C374&linkCode=ll2&tag=taiphantmt-20&linkId=11898a81b612b79a326c0fb6c6b67ea8&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/31fa2G6QAdS._SL350_.jpg',
-    shortlink: 'https://amzn.to/3GPw3i5'
+    shortlink: 'https://amzn.to/3gEL8sh'
   },
   {
     name: '438',
     usalink:
-      'https://www.amazon.com/s?k=KimDaro+Pinking+Shears+Set&i=arts-crafts&crid=395DORLN1I5FR&sprefix=kimdaro+pinking+shears+set%2Carts-crafts%2C317&linkCode=ll2&tag=taiphantmt-20&linkId=d55904a2d72b8f1b6d4b6e6d020a22e5&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=prinking+scissor&linkCode=ll2&tag=taiphantmt-20&linkId=70a6049e92ff4935d691f8ca539e2d8b&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41sBAMMYoML._SL350_.jpg',
     shortlink: 'https://amzn.to/3UangdG'
