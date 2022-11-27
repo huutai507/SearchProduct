@@ -100,7 +100,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=Stainless+Steel+Fried+Steak+Clamp+Tong+Gripper+Bread+Clip&i=garden&crid=2E07KOK2LGI1C&sprefix=%2Cgarden%2C577&linkCode=ll2&tag=taiphantmt-20&linkId=b888a7bfb28ce035aaaab3ba718da4f8&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/314FhH3t1CL._SL350_.jpg',
+    imglink: 'https://m.media-amazon.com/images/I/31TJzWjVqLL._SL350_.jpg',
     shortlink: 'https://amzn.to/3Xzf6P4'
   },
   {
