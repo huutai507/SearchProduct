@@ -202,7 +202,7 @@ export default function Home() {
       <div className='container-list'>
         {inputSearch ? (
           <div className='product-list'>
-            <div className='banner-search'>
+            {/* <div className='banner-search'>
               <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
                 FREE 30 Day Audible Plus - Click here
               </a>
@@ -212,7 +212,7 @@ export default function Home() {
               <a href='https://amzn.to/3OGKWp6' target='_blank' className='custom-button banner'>
                 FREE 30 Day Amazon Prime - Click here
               </a>
-            </div>
+            </div> */}
             {filterData.reverse().map((item, index) => (
               <div className='product-item' key={index}>
                 <a href={item.shortlink} target='_blank'>
@@ -305,7 +305,7 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
+            {/* <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
               FREE 30 Day Audible Plus - Click here
             </a>
             <a href='https://amzn.to/3OC0Och' target='_blank' className='custom-button banner'>
@@ -313,7 +313,7 @@ export default function Home() {
             </a>
             <a href='https://amzn.to/3OGKWp6' target='_blank' className='custom-button banner'>
               FREE 30 Day Amazon Prime - Click here
-            </a>
+            </a> */}
             {
               <InfiniteScroll
                 dataLength={listProduct.length}
