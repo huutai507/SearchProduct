@@ -163,14 +163,14 @@ export default function Home() {
       </Head>
       <div className='search-bar'>
         <div className='content-title'>
-          <p className='pb-05'>Digite o código do produto na caixa de pesquisa</p>
           <p className='pb-05'>Please enter the product code in the search box</p>
+          <p className='pb-05'>Digite o código do produto na caixa de pesquisa</p>
         </div>
         <div className='input-content'>
           <input
             className='input-search'
             type='text'
-            placeholder=' Entre com o código aqui, Enter code here,'
+            placeholder='Enter code here, Entre com o código aqui, '
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
@@ -202,7 +202,7 @@ export default function Home() {
       <div className='container-list'>
         {inputSearch ? (
           <div className='product-list'>
-            {/* <div className='banner-search'>
+            <div className='banner-search'>
               <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
                 FREE 30 Day Audible Plus - Click here
               </a>
@@ -212,7 +212,7 @@ export default function Home() {
               <a href='https://amzn.to/3OGKWp6' target='_blank' className='custom-button banner'>
                 FREE 30 Day Amazon Prime - Click here
               </a>
-            </div> */}
+            </div>
             {filterData.reverse().map((item, index) => (
               <div className='product-item' key={index}>
                 <a href={item.shortlink} target='_blank'>
@@ -221,8 +221,15 @@ export default function Home() {
                 <div className='product-text'>
                   {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
                   <p>
-                    Código/code:<span className='code'>{item.name}</span>
+                    Code:<span className='code'>{item.name}</span>
                   </p>
+                  {item.usalink && (
+                    <>
+                      <a href={item.usalink} target='_blank' className='custom-button'>
+                        Buy Now on Amazon
+                      </a>
+                    </>
+                  )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -258,13 +265,7 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
-                  {item.usalink && (
-                    <>
-                      <a href={item.usalink} target='_blank' className='custom-button'>
-                        USA - Buy Now on Amazon
-                      </a>
-                    </>
-                  )}
+
                   {/* {item.usalink && (
                     <>
                       <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
@@ -272,7 +273,7 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
-                  {item.usalink && (
+                  {/* {item.usalink && (
                     <>
                       <h5 className='north-america'>SELECT COUNTRY</h5>
                       <div className='selected-country'>
@@ -297,7 +298,7 @@ export default function Home() {
                         {nameCountry} - {title}
                       </a>
                     </>
-                  )}
+                  )} */}
                 </div>
               </div>
             ))}
@@ -305,7 +306,7 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            {/* <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
+            <a href='https://amzn.to/3GKmYaC' target='_blank' className='custom-button banner'>
               FREE 30 Day Audible Plus - Click here
             </a>
             <a href='https://amzn.to/3OC0Och' target='_blank' className='custom-button banner'>
@@ -313,7 +314,7 @@ export default function Home() {
             </a>
             <a href='https://amzn.to/3OGKWp6' target='_blank' className='custom-button banner'>
               FREE 30 Day Amazon Prime - Click here
-            </a> */}
+            </a>
             {
               <InfiniteScroll
                 dataLength={listProduct.length}
@@ -330,9 +331,16 @@ export default function Home() {
                     <div className='product-text'>
                       {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
                       <p>
-                        Código/code:<span className='code'>{item.name}</span>
+                        Code:<span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
+                      {item.usalink && (
+                        <>
+                          <a href={item.usalink} target='_blank' className='custom-button'>
+                            Buy Now on Amazon
+                          </a>
+                        </>
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -354,13 +362,7 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            USA - Buy Now on Amazon
-                          </a>
-                        </>
-                      )}
+
                       {/* {item.usalink && (
                         <>
                           <a
@@ -380,7 +382,7 @@ export default function Home() {
                         </>
                       )} */}
 
-                      {item.usalink && (
+                      {/* {item.usalink && (
                         <>
                           <h5 className='north-america'>SELECT COUNTRY</h5>
                           <div className='selected-country'>
@@ -405,7 +407,7 @@ export default function Home() {
                             {nameCountry} - {title}
                           </a>
                         </>
-                      )}
+                      )} */}
                     </div>
                   </div>
                 ))}
