@@ -164,13 +164,12 @@ export default function Home() {
       <div className='search-bar'>
         <div className='content-title'>
           <p className='pb-05'>Please enter the product code in the search box</p>
-          <p className='pb-05'>Digite o código do produto na caixa de pesquisa</p>
         </div>
         <div className='input-content'>
           <input
             className='input-search'
             type='text'
-            placeholder='Enter code here, Entre com o código aqui, '
+            placeholder='Enter code here'
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
