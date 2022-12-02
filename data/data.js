@@ -220,11 +220,10 @@ export const data = [
   },
   {
     name: '415',
-    usalink:
-      'https://www.amazon.com/s?k=XUDEJUN+Car+Safety+Hammer+Window+Breaker&crid=1BKH2MOKLFEQQ&sprefix=swiss+safe+5-in-1+car+safety+hammer%2Caps%2C369&linkCode=ll2&tag=taiphantmt-20&linkId=17b8a6322a35c1e84615b92b441ceed1&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_De4kCoL',
     imglink: '//ae01.alicdn.com/kf/Sda83aef7e6734d65ad5df4822fa012a4Z.jpg_350x350.jpg',
-    shortlink: 'https://amzn.to/3VliqvK'
+    shortlink: 'https://s.click.aliexpress.com/e/_De4kCoL'
   },
   {
     name: '414',
