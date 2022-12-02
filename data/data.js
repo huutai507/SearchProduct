@@ -1,59 +1,67 @@
 export const data = [
   {
     name: '449',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DcQ1Uox',
+    usalink:
+      'https://www.amazon.com/s?k=magic+stick&crid=2OHX5O761VNWW&sprefix=cover+sofa+ruffled+pink%2Caps%2C377&linkCode=ll2&tag=taiphantmt-20&linkId=58c0d0c8e4a40f08181fe0d6636f7e4d&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41sXR4tXzcL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DcQ1Uox'
+    shortlink: 'https://amzn.to/3udzqYC'
   },
   {
     name: '448',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DdiWScj',
+    usalink:
+      'https://www.amazon.com/s?k=knee+cover&crid=107QCF95ZZ6RZ&sprefix=knee+c%2Caps%2C545&linkCode=ll2&tag=taiphantmt-20&linkId=9e576345a0916e4d4074cdbbd4c8efb3&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/517GZU8za6S._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DdiWScj'
+    shortlink: 'https://amzn.to/3B40td3'
   },
   {
     name: '447',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DmfSuZ5',
+    usalink:
+      'https://www.amazon.com/s?k=Cell+Phone+Lock+Box+with+Timer&crid=6WDLROERZXJX&sprefix=shoe+dryer%2Caps%2C330&linkCode=ll2&tag=taiphantmt-20&linkId=a92840a632cb4502a1cacac915878dba&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41jpCYW4MKS._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DmfSuZ5'
+    shortlink: 'https://amzn.to/3FeAXEa'
   },
   {
     name: '446',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_Deh0HFH',
+    usalink:
+      'https://www.amazon.com/s?k=Shoe+Dryer&linkCode=ll2&tag=taiphantmt-20&linkId=586aa2a84ab4c9b60ed712ac074924df&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/31PHhO0BycL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_Deh0HFH'
+    shortlink: 'https://amzn.to/3VFMhyz'
   },
   {
     name: '445',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DdzbC07',
+    usalink:
+      'https://www.amazon.com/iPad-10-2-inch-2021-2020/dp/B086SSZKCC?crid=1WZDVACQMT931&keywords=iPad+Case+with+Keyboard&qid=1669879964&sprefix=ipad+case+with+keyboard%2Caps%2C364&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExT1lLNzZXRVgwMkRSJmVuY3J5cHRlZElkPUEwMTQ3MTIzWjlGNVVSUlk3SDFLJmVuY3J5cHRlZEFkSWQ9QTAzMDM4Njc1REUwN1ZWV1hEUlEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=ll1&tag=taiphantmt-20&linkId=b6d5216ef656da390ea79ee451ffff5a&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41IcL21phoL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DdzbC07'
+    shortlink: 'https://amzn.to/3H4plF9'
   },
   {
     name: '444',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DmXUlOL',
+    usalink:
+      'https://www.amazon.com/Magnetic-Levitating-Floating-Wireless-Unique/dp/B07Q7W5CLK?crid=TFY1KPCL6S81&keywords=Levitating+Light+Bulb&qid=1669879837&sprefix=levitating+light+bulb%2Caps%2C346&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJU0s1TklKRFJUVUYmZW5jcnlwdGVkSWQ9QTA0NTg3NTVNSlVCRkRPQ1NBTiZlbmNyeXB0ZWRBZElkPUEwOTkwNjIxMVBRM0JNQjlZUVFPUiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=taiphantmt-20&linkId=db032a3ed09179be197ab9e4beca460e&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41kWa7so3QL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DmXUlOL'
+    shortlink: 'https://amzn.to/3XPCesP'
   },
   {
     name: '443',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DlSLMx1',
+    usalink:
+      'https://www.amazon.com/Universal-Replacement-Removable-Jackets-Backpacks/dp/B08VFYDY9S?crid=2O468WOPRBHLP&keywords=Universal+Zipper+Replacement+Kit&qid=1669879711&sprefix=universal+zipper+replacement+kit%2Caps%2C467&sr=8-2&linkCode=ll1&tag=taiphantmt-20&linkId=2921e50496f34eb1b02acb15a22fb2d5&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/51SP9l1CjyL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DlSLMx1'
+    shortlink: 'https://amzn.to/3H1nS2r'
   },
   {
     name: '442',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DkZDjxd',
+    usalink:
+      'https://www.amazon.com/Stirring-Stainless-Chocolate-Kitchen-gift%EF%BC%88blue%EF%BC%89/dp/B094YQMKZ2?crid=2YO2XY6EIN8QW&keywords=Self%2BStirring%2BMug&qid=1669879633&sprefix=self%2Bstirring%2Bmug%2Caps%2C530&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUUtFSktTQ09JRUZCJmVuY3J5cHRlZElkPUEwMzAxOTkwMjA0WVBRNkpBSVA5MiZlbmNyeXB0ZWRBZElkPUEwODI4OTE3MzY0M0YyWEoxWTZZSCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1&linkCode=ll1&tag=taiphantmt-20&linkId=a233784cbc1d2ac416e552b286b65cd2&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41fw0D57zlL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DkZDjxd'
+    shortlink: 'https://amzn.to/3FgUUu0'
   },
   {
     name: '441',
@@ -65,10 +73,11 @@ export const data = [
   },
   {
     name: '440',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DmtLpa7',
+    usalink:
+      'https://www.amazon.com/s?k=Heyup+Boxe+Smart+Projector&linkCode=ll2&tag=taiphantmt-20&linkId=b6bcdd238248004ed013de1998fa268a&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/51eu5YrME5L._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DmtLpa7'
+    shortlink: 'https://amzn.to/3gMJXqW'
   },
   {
     name: '439',
@@ -79,10 +88,10 @@ export const data = [
   },
   {
     name: '438',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DkQCTBd',
+    usalink: 'https://amzn.to/3UnV1Z0',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/612FNdMnc8S._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DkQCTBd'
+    shortlink: 'https://amzn.to/3UnV1Z0'
   },
   {
     name: '437',
@@ -93,10 +102,10 @@ export const data = [
   },
   {
     name: '436',
-    usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DFQWO6f',
+    usalink: 'https://amzn.to/3Bmy5TF',
+    aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/41jFVeiDDTL._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DFQWO6f'
+    shortlink: 'https://amzn.to/3Bmy5TF'
   },
   {
     name: '432',
