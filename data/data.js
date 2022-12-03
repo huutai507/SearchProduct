@@ -106,10 +106,10 @@ export const data = [
   {
     name: '440',
     usalink:
-      'https://www.amazon.com/s?k=Heyup+Boxe+Smart+Projector&linkCode=ll2&tag=taiphantmt-20&linkId=b6bcdd238248004ed013de1998fa268a&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=Heyup+Boxe+Projector&crid=KFK0V1CU60CS&sprefix=heyup+boxe+projector%2Caps%2C393&linkCode=ll2&tag=taiphantmt-20&linkId=6db591e6e67e9014a5ad3be6ee92055d&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/51eu5YrME5L._SL350_.jpg',
-    shortlink: 'https://amzn.to/3gMJXqW'
+    imglink: 'https://m.media-amazon.com/images/I/411OAKQBlTL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3iv9mFY'
   },
   {
     name: '439',
