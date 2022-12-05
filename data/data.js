@@ -1,5 +1,29 @@
 export const data = [
   {
+    name: '454',
+    usalink:
+      'https://www.amazon.com/Scorpion-Knuckle-Activity-Halloween-Accessories/dp/B09WK4FPW4?keywords=ring+scorpion&qid=1670200991&sprefix=ring+scor%2Caps%2C343&sr=8-3&linkCode=ll1&tag=taiphantmt-20&linkId=fec04147e32313b27e8c92b8cf92e496&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/41HZJXv0R4L._SL350_.jpg',
+    shortlink: 'https://amzn.to/3P2l1rO'
+  },
+  {
+    name: '454',
+    usalink:
+      'https://www.amazon.com/Adjustable-Geometric-Stainless-Opening-Multifunctional/dp/B0B56HZ9WQ?crid=U4Z3CQ45OYYW&keywords=ring+blade&qid=1670200886&sprefix=ring+blad%2Caps%2C332&sr=8-14&linkCode=ll1&tag=taiphantmt-20&linkId=24fa63106f67aa570d2ab3c1e5404b2e&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/31zG2rhZjxL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3UqsTVr'
+  },
+  {
+    name: '454',
+    usalink:
+      'https://www.amazon.com/GYFCYGG-Stainless-Adjustable-Titanium-Platinum/dp/B09Y2D3331?crid=U4Z3CQ45OYYW&keywords=ring+blade&qid=1670200886&sprefix=ring+blad%2Caps%2C332&sr=8-15&linkCode=ll1&tag=taiphantmt-20&linkId=4c99ce0d735c6c1c943ce63a5a7e5509&language=en_US&ref_=as_li_ss_tl',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/31OeMC8IngL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3iAPZLR'
+  },
+  {
     name: '453',
     usalink:
       'https://www.amazon.com/s?k=Crystal+Christmas+Three-Dimensional+Card&i=office-products&linkCode=ll2&tag=taiphantmt-20&linkId=b971bfe1814d376acd7ef2ed29476bfd&language=en_US&ref_=as_li_ss_tl',
