@@ -229,13 +229,13 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  {item.aliexpress && (
+                  {/* {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Compre agora no Aliexpress
                       </a>
                     </>
-                  )}
+                  )} */}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -243,7 +243,7 @@ export default function Home() {
                       </a>
                     </>
                   )}
-                  {item.aliexpress && (
+                  {/* {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Comprar ahora en Aliexpress
@@ -256,7 +256,7 @@ export default function Home() {
                         지금 구매 Aliexpress
                       </a>
                     </>
-                  )}
+                  )} */}
                   {/* {item.usalink && (
                     <>
                       <a href={item.usalink} target='_blank' className='custom-button'>
@@ -354,7 +354,7 @@ export default function Home() {
                           </a>
                         </>
                       )}
-                      {item.aliexpress && (
+                      {/* {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                             Compre agora no Aliexpress
@@ -374,7 +374,7 @@ export default function Home() {
                             지금 구매 Aliexpress
                           </a>
                         </>
-                      )}
+                      )} */}
 
                       {/* {item.usalink && (
                         <>
