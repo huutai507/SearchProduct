@@ -1,5 +1,19 @@
 export const data = [
   {
+    name: '481',
+    usalink: 'https://amzn.to/3US21hm',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/41y-QbDc1fL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3US21hm'
+  },
+  {
+    name: '480',
+    usalink: 'https://amzn.to/3hdFduA',
+    aliexpress: '',
+    imglink: 'https://m.media-amazon.com/images/I/41OODxEeOEL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3hdFduA'
+  },
+  {
     name: '479',
     usalink: 'https://amzn.to/3VClHqC',
     aliexpress: '',
