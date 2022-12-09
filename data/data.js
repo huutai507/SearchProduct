@@ -8,10 +8,10 @@ export const data = [
   },
   {
     name: '480',
-    usalink: 'https://amzn.to/3hdFduA',
+    usalink: 'https://amzn.to/3VU7LYK',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/41OODxEeOEL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3hdFduA'
+    imglink: 'https://m.media-amazon.com/images/I/41I8VVcbfEL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3VU7LYK'
   },
   {
     name: '479',
