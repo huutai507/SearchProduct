@@ -186,10 +186,10 @@ export const data = [
   {
     name: '484',
     usalink:
-      'https://www.amazon.com/s?k=Homesnew+Electric+Scalp+Massager+Head+Massager%2C+Cordless+Hair+Scalp+Scratcher+with+IPX7+Waterproof+Level%2C&crid=3JWZILYPWDFRX&sprefix=cat+massage+head%2Caps%2C379&linkCode=ll2&tag=taiphantmt-20&linkId=1b5cb2dae940b9e25a390069b2a68365&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=Armor+All+Car+Wash+and+Car+Interior+Cleaner+Kit&crid=1HUOIKAN5A9R7&sprefix=foam+cleaning+car%2Caps%2C416&linkCode=ll2&tag=taiphantmt-20&linkId=4e54e1045c475931003e41b5dbd3db12&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/41dHMbU3EGL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3Fj85tu'
+    imglink: 'https://m.media-amazon.com/images/I/51O2xY33tWL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3HxtrWz'
   },
   {
     name: '484',
