@@ -84,7 +84,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=Xinart+Mini+Heat+Press+Small+Heat+Press+Machine+for+T-Shirts&crid=QW0XGBUYVLZZ&sprefix=mini+ironing+machine%2Caps%2C469&linkCode=ll2&tag=taiphantmt-20&linkId=0394fea16742f6ea653d2adbcf06d460&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/41EIBG1ISgL._SL350_.jpg',
+    imglink: 'https://m.media-amazon.com/images/I/41eMgl6xwjL._SL350_.jpg',
     shortlink: 'https://amzn.to/3ZpV2zl'
   },
   {
