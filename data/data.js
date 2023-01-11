@@ -546,10 +546,10 @@ export const data = [
   {
     name: '533',
     usalink:
-      'https://www.amazon.com/s?k=underwear+cleaning+soap+and+remove+stain+clothes&crid=1F6GWIPG8LWB2&sprefix=underwear+cleaning+soap+and+remove+stain+clo%2Caps%2C386&linkCode=ll2&tag=taiphantmt-20&linkId=dc515d99b5173a5c26e1fddd1dff62f9&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=HATE+STAINS+CO+Stain+Remover+for+Clothes&crid=LF2MIX37BB0A&sprefix=underwear+cleaning+soap+and+remove+stain+clothes%2Caps%2C386&linkCode=ll2&tag=taiphantmt-20&linkId=797360cd1a42ca45bb1e57f823a8581d&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/411mxaBDivL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3CteNw3'
+    imglink: 'https://m.media-amazon.com/images/I/41ycHe7zYiL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3CHXpnz'
   },
   {
     name: '532',
