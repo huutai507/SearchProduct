@@ -82,10 +82,10 @@ export const data = [
   {
     name: '591',
     usalink:
-      'https://www.amazon.com/s?k=Xinart+Mini+Heat+Press+Small+Heat+Press+Machine+for+T-Shirts&crid=QW0XGBUYVLZZ&sprefix=mini+ironing+machine%2Caps%2C469&linkCode=ll2&tag=taiphantmt-20&linkId=0394fea16742f6ea653d2adbcf06d460&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/Cricut-EasyPress-Heat-Pressing-Ceramic-Coated-Lightweight/dp/B07VKPZS24?crid=QW0XGBUYVLZZ&keywords=Xinart%2BMini%2BHeat%2BPress%2BSmall%2BHeat%2BPress%2BMachine%2Bfor%2BT-Shirts&qid=1673456833&sprefix=mini%2Bironing%2Bmachine%2Caps%2C469&sr=8-7&th=1&linkCode=ll1&tag=taiphantmt-20&linkId=bc5a88dc54121c2c1d649a30d1d3e502&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
-    imglink: 'https://m.media-amazon.com/images/I/41eMgl6xwjL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3ZpV2zl'
+    imglink: 'https://m.media-amazon.com/images/I/311N8Zu3RwL._SL350_.jpg',
+    shortlink: 'https://amzn.to/3Xjpr0A'
   },
   {
     name: '590',
