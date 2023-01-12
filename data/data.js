@@ -98,10 +98,10 @@ export const data = [
   {
     name: '589',
     usalink:
-      'https://www.amazon.com/s?k=Living+Proof+Dry+Shampoo%2C+Perfect+hair+Day&crid=A6RA1HSPQO8G&sprefix=living+proof+dry+shampoo%2C+perfect+hair+day%2C%2Caps%2C408&linkCode=ll2&tag=taiphantmt-20&linkId=2fee697f14c6156ebede087f736eec5d&language=en_US&ref_=as_li_ss_tl',
+      'https://www.amazon.com/s?k=dry+shampoo&sprefix=dry+%2Caps%2C367&linkCode=ll2&tag=taiphantmt-20&linkId=bc21fa30364822befdd1a2b3bca57b5a&language=en_US&ref_=as_li_ss_tl',
     aliexpress: '',
     imglink: 'https://m.media-amazon.com/images/I/21aTlBOQOeL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3VZPbhl'
+    shortlink: 'https://amzn.to/3X3RwcH'
   },
   {
     name: '588',
