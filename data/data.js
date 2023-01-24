@@ -385,9 +385,8 @@ export const data = [
   },
   {
     name: '553',
-    usalink:
-      'https://www.amazon.com/kanglifen-disinfecting-Disinfectant-Disinfection-sanitizing/dp/B086FJ25KH?crid=LC5UZQEISWHN&keywords=multifunctional+cleaning+foot+pad&qid=1672479187&sprefix=multifunctional+cleaning+foot+p%2Caps%2C551&sr=8-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&linkCode=ll1&tag=pyramideo-20&linkId=07e4a901c07cc5ca3434c64bd2d73544&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DlPdShl',
     imglink: 'https://m.media-amazon.com/images/I/41DmEk7pwML._SL350_.jpg',
     shortlink: 'https://amzn.to/3WV6bq1'
   },
