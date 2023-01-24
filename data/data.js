@@ -33,9 +33,8 @@ export const data = [
   },
   {
     name: '597',
-    usalink:
-      'https://www.amazon.com/s?k=QIYIHOME+8-Pack+Toy+Blocker%2C+Gap+Bumper+for+Under+Furniture&crid=2WOFSS2HWWI0I&sprefix=pvc+dust+proof+partition%2Caps%2C371&linkCode=ll2&tag=pyramideo-20&linkId=8f05e1ebc3eced2049f207f6cc5413e5&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DFvPc87',
     imglink: 'https://m.media-amazon.com/images/I/41JxwX2f1fL._SL350_.jpg',
     shortlink: 'https://amzn.to/3Xkprxu'
   },
@@ -386,9 +385,9 @@ export const data = [
   {
     name: '553',
     usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DlPdShl',
+    aliexpress: 'https://s.click.aliexpress.com/e/_Dknb6iR',
     imglink: 'https://m.media-amazon.com/images/I/41DmEk7pwML._SL350_.jpg',
-    shortlink: 'https://amzn.to/3WV6bq1'
+    shortlink: 'https://s.click.aliexpress.com/e/_Dknb6iR'
   },
   {
     name: '552',
@@ -504,11 +503,10 @@ export const data = [
   },
   {
     name: '538',
-    usalink:
-      'https://www.amazon.com/s?k=wall+repair+ointment&crid=66O5ZN2D1CFP&sprefix=wall+repair+oin%2Caps%2C579&linkCode=ll2&tag=pyramideo-20&linkId=b1b0d5c7081b3dad075f1116fcfac571&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DFHExt1',
     imglink: 'https://m.media-amazon.com/images/I/51qvIOk9IvL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3jvW50q'
+    shortlink: 'https://s.click.aliexpress.com/e/_DFHExt1'
   },
   {
     name: '537',
@@ -544,11 +542,10 @@ export const data = [
   },
   {
     name: '533',
-    usalink:
-      'https://www.amazon.com/s?k=Stain+Remover+clean&crid=1AI192G6H6GNV&sprefix=stain+remover+cleaner%2Caps%2C478&linkCode=ll2&tag=pyramideo-20&linkId=b9f814579b89e795dc28b0d0033daab1&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DddeVDt',
     imglink: 'https://m.media-amazon.com/images/I/41ycHe7zYiL._SL350_.jpg',
-    shortlink: 'https://amzn.to/3IEKy9u'
+    shortlink: 'https://s.click.aliexpress.com/e/_DddeVDt'
   },
   {
     name: '532',
@@ -978,10 +975,10 @@ export const data = [
   },
   {
     name: '476',
-    usalink: 'https://amzn.to/3UClm5I',
-    aliexpress: '',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DFjWaaJ',
     imglink: 'https://m.media-amazon.com/images/I/41mX72wDV9L._SL350_.jpg',
-    shortlink: 'https://amzn.to/3UClm5I'
+    shortlink: 'https://s.click.aliexpress.com/e/_DFjWaaJ'
   },
   {
     name: '475',
