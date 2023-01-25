@@ -979,7 +979,8 @@ export const data = [
   },
   {
     name: '476',
-    usalink: '',
+    usalink:
+      'https://www.amazon.com/s?k=Electric+Tab+Tension+Floor+Rising+Screen&crid=36NGHI5GGGMX0&sprefix=electric+tab+tension+floor+rising+screen+%2Caps%2C410&linkCode=ll2&tag=phtmt-20&linkId=2c1e6e8ab7b2de5cd4420910a848d7cf&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DFjWaaJ',
     imglink: 'https://m.media-amazon.com/images/I/41mX72wDV9L._SL350_.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DFjWaaJ'
