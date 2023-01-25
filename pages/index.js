@@ -212,13 +212,7 @@ export default function Home() {
                   <p>
                     Code:<span className='code'>{item.name}</span>
                   </p>
-                  {/* {item.usalink && (
-                    <>
-                      <a href={item.usalink} target='_blank' className='custom-button'>
-                        Buy Now on Amazon
-                      </a>
-                    </>
-                  )} */}
+
                   {/* {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -229,7 +223,14 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Buy Now on Aliexpress
+                        Good Prices on Aliexpress
+                      </a>
+                    </>
+                  )}
+                  {item.usalink && (
+                    <>
+                      <a href={item.usalink} target='_blank' className='custom-button'>
+                        Amazon
                       </a>
                     </>
                   )}
@@ -321,17 +322,18 @@ export default function Home() {
                         Code:<span className='code'>{item.name}</span>
                       </p>
                       {/* <h5 className='north-america'>GLOBAL</h5> */}
-                      {/* {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            Buy Now on Amazon
-                          </a>
-                        </>
-                      )} */}
+
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Buy Now on Aliexpress
+                            Good Prices on Aliexpress
+                          </a>
+                        </>
+                      )}
+                      {item.usalink && (
+                        <>
+                          <a href={item.usalink} target='_blank' className='custom-button'>
+                            Amazon
                           </a>
                         </>
                       )}
