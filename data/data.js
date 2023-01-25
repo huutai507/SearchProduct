@@ -385,9 +385,9 @@ export const data = [
   {
     name: '553',
     usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_Dknb6iR',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DcY9Qk3',
     imglink: 'https://m.media-amazon.com/images/I/41DmEk7pwML._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_Dknb6iR'
+    shortlink: 'https://s.click.aliexpress.com/e/_DcY9Qk3'
   },
   {
     name: '552',
