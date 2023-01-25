@@ -505,7 +505,8 @@ export const data = [
   },
   {
     name: '538',
-    usalink: '',
+    usalink:
+      'https://www.amazon.com/s?k=Wall+Repair+Cream+Waterproof&crid=30ESSL4OQ1N76&sprefix=wall+repair+cream+waterproof+%2Caps%2C436&linkCode=ll2&tag=phtmt-20&linkId=18de1c87ff5f1266ec1f86d8bee503bb&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DFHExt1',
     imglink: 'https://m.media-amazon.com/images/I/51qvIOk9IvL._SL350_.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DFHExt1'
@@ -544,7 +545,8 @@ export const data = [
   },
   {
     name: '533',
-    usalink: '',
+    usalink:
+      'https://www.amazon.com/s?k=soap+cleaning&crid=RLGVL9AINXCD&sprefix=soap+cleani%2Caps%2C426&linkCode=ll2&tag=phtmt-20&linkId=d6bc05a8acc0ae285fa88c1bafc7acb8&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DddeVDt',
     imglink: 'https://ae01.alicdn.com/kf/Seb5e0e43a697488790461171c7a9a5b2g.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DddeVDt'
