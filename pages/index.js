@@ -199,6 +199,8 @@ export default function Home() {
         </div>
       </div>
       <div className='container-list'>
+        <p className='banner'>AS AN AMAZON ASSOCIATE I EARN FROM QUALIFYING PURCHASES. THANK YOU!</p>
+
         {inputSearch ? (
           <div className='product-list'>
             <div className='banner-search'></div>
