@@ -4,7 +4,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/Absorbent-Bathroom-Doormat-Barrier-Cushion/dp/B09JNHZDP6?crid=2SJ98IE1TM06Y&keywords=long+kitchen+foot+mats&qid=1673338329&sprefix=long+kitchen+foot+m%C3%A1t%2Caps%2C380&sr=8-52&linkCode=ll1&tag=phtmt-20&linkId=cf8ae1e702998e7946ebbf758ccd4e04&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DmCItXH',
-    imglink: 'https://m.media-amazon.com/images/I/51KlBC9q-NL._SL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/S601938c89da34a04b3e30984796e468en.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DmCItXH'
   },
   {
@@ -12,7 +12,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=screen+cleaning+brush&linkCode=ll2&tag=phtmt-20&linkId=475249253793542de0572e2b97a1218d&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DCUCvSL',
-    imglink: 'https://m.media-amazon.com/images/I/61lEnQK7z6L._SL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sf499e0bb1ef04c45909114c30e055491Q.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DCUCvSL'
   },
   {
@@ -20,7 +20,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=glass+repair+fluid&crid=16SJC6THO7ZZG&sprefix=excellent+glass+repair+fluid%2Caps%2C390&linkCode=ll2&tag=phtmt-20&linkId=926b2af91360365ef0f5f0f0c3ffcd73&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DFEvx6F',
-    imglink: 'https://m.media-amazon.com/images/I/51jEDcPwp3L._SL350_.jpg',
+    imglink: 'https://ae01.alicdn.com/kf/Sf807b8e148ef4656a65bb5ccbf9be3a4Z.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DFEvx6F'
   },
   {
@@ -28,7 +28,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=Drop+Stop+-+The+Original+Patented+Car+Seat+Gap+Filler&crid=2UON1HLS1FSL8&sprefix=car+seat+gap+filler%2Caps%2C376&linkCode=ll2&tag=phtmt-20&linkId=76a4ec3ecb2d6cf704e761f1e4d55df1&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DlgCQ7v',
-    imglink: 'https://m.media-amazon.com/images/I/51vr49XwDlL._SL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/H102f900121a146d4ac3965b6b6a6a14fj.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DlgCQ7v'
   },
   {
@@ -36,7 +36,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/BOWERBIRD-Clear-Toy-Blockers-Furniture/dp/B07J4Q2PRV?crid=1Z0TXOVSYPXGT&keywords=Under%2BCouch%2BBlocker%2BSofa&qid=1674668642&sprefix=disinfecting%2Bdoormat%2Bsanitizing%2Bfloor%2Caps%2C388&sr=8-5&th=1&linkCode=ll1&tag=phtmt-20&linkId=84bfbc64858a1dfe311ec60dd97189b0&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DFvPc87',
-    imglink: 'https://m.media-amazon.com/images/I/41JxwX2f1fL._SL350_.jpg',
+    imglink: 'https://ae03.alicdn.com/kf/Sc837a00d017e4cd88d1821fffdb94356u.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DFvPc87'
   },
   {
@@ -44,7 +44,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=pedicure+tool+peeling+knife&crid=QYOP73U8KUH6&sprefix=pedicure+tool+peel%2Caps%2C382&linkCode=ll2&tag=phtmt-20&linkId=4eef30e9c143d038b31908de34b831e7&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DlabFOb',
-    imglink: 'https://m.media-amazon.com/images/I/41MZy6QeWpL._AC_UL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/Se4a5a36cdc09484882caa628b95497b2K.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DlabFOb'
   },
   {
@@ -52,7 +52,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=floor+cleaner&crid=FU5XTA9K5F0U&sprefix=floor+cleane%2Caps%2C670&linkCode=ll2&tag=phtmt-20&linkId=54b3717db8dabe17d021fd2e6607807b&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_DknsAAf',
-    imglink: 'https://m.media-amazon.com/images/I/41ZYqjuhauL._SL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/S6ee7f9990ac04248a9ace727128dd2b0x.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_DknsAAf'
   },
   {
@@ -60,7 +60,7 @@ export const data = [
     usalink:
       'https://www.amazon.com/s?k=vasaline&crid=3U9W4S0NEGMOF&sprefix=vasali%2Caps%2C417&linkCode=ll2&tag=phtmt-20&linkId=66f1091d08ad136550ada8cc993c9979&language=en_US&ref_=as_li_ss_tl',
     aliexpress: 'https://s.click.aliexpress.com/e/_Dl74659',
-    imglink: 'https://m.media-amazon.com/images/I/51P64ziPfGL._SL350_.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sc9a2219342274a909045a23badf25665F.jpg_350x350.jpg',
     shortlink: 'https://s.click.aliexpress.com/e/_Dl74659'
   },
   {
