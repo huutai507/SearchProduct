@@ -1,5 +1,20 @@
 export const data = [
   {
+    name: '603',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DnacsmP',
+    imglink: '//ae01.alicdn.com/kf/S5ddc0db7b31d4844a7b88160cb30cf4dW.jpg_350x350.jpg',
+    shortlink: 'https://s.click.aliexpress.com/e/_DnacsmP'
+  },
+  {
+    name: '602',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_Dn3F1cf',
+    imglink:
+      'https://ae01.alicdn.com/kf/S59579fc2276148d6a785e702724e2d9cC/Miffy-X-MIPOW-380ML-Cool-Mist-Humidifier-Cute-With-Night-Light-USB-Portable-Air-Humidifier-Freeshipping.jpg_350x350.jpg_.webp',
+    shortlink: 'https://s.click.aliexpress.com/e/_Dn3F1cf'
+  },
+  {
     name: '601',
     usalink:
       'https://www.amazon.com/Absorbent-Bathroom-Doormat-Barrier-Cushion/dp/B09JNHZDP6?crid=2SJ98IE1TM06Y&keywords=long+kitchen+foot+mats&qid=1673338329&sprefix=long+kitchen+foot+m%C3%A1t%2Caps%2C380&sr=8-52&linkCode=ll1&tag=phtmt-20&linkId=cf8ae1e702998e7946ebbf758ccd4e04&language=en_US&ref_=as_li_ss_tl',
