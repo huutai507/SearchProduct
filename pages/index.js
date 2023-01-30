@@ -222,17 +222,17 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
-                  {/* {item.aliexpress && (
+                  {item.aliexpress && (
                     <>
                       <a
-                        href='https://s.click.aliexpress.com/e/_DCzw4Z5'
+                        href='https://s.click.aliexpress.com/e/_DBR2iCL'
                         target='_blank'
                         className='custom-button aliexpress'
                       >
                         Super Deals - 1 to 5 USD
                       </a>
                     </>
-                  )} */}
+                  )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -335,17 +335,17 @@ export default function Home() {
                         Code:<span className='code'>{item.name}</span>
                       </p>
 
-                      {/* {item.aliexpress && (
+                      {item.aliexpress && (
                         <>
                           <a
-                            href='https://s.click.aliexpress.com/e/_DCzw4Z5'
+                            href='https://s.click.aliexpress.com/e/_DBR2iCL'
                             target='_blank'
                             className='custom-button aliexpress'
                           >
                             Super Deals - 1 to 5 USD
                           </a>
                         </>
-                      )} */}
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
