@@ -224,6 +224,17 @@ export default function Home() {
                   )} */}
                   {item.aliexpress && (
                     <>
+                      <a
+                        href='https://s.click.aliexpress.com/e/_Dd6NEqP'
+                        target='_blank'
+                        className='custom-button aliexpress'
+                      >
+                        Super Deals - 1 to 5 USD
+                      </a>
+                    </>
+                  )}
+                  {item.aliexpress && (
+                    <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
                         Check Price Aliexpress
                       </a>
@@ -324,6 +335,17 @@ export default function Home() {
                         Code:<span className='code'>{item.name}</span>
                       </p>
 
+                      {item.aliexpress && (
+                        <>
+                          <a
+                            href='https://s.click.aliexpress.com/e/_Dd6NEqP'
+                            target='_blank'
+                            className='custom-button aliexpress'
+                          >
+                            Super Deals - 1 to 5 USD
+                          </a>
+                        </>
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
