@@ -225,7 +225,7 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a
-                        href='https://s.click.aliexpress.com/e/_Dd6NEqP'
+                        href='https://s.click.aliexpress.com/e/_DFMiHfl'
                         target='_blank'
                         className='custom-button aliexpress'
                       >
@@ -338,7 +338,7 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a
-                            href='https://s.click.aliexpress.com/e/_Dd6NEqP'
+                            href='https://s.click.aliexpress.com/e/_DFMiHfl'
                             target='_blank'
                             className='custom-button aliexpress'
                           >
