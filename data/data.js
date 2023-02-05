@@ -1,5 +1,19 @@
 export const data = [
   {
+    name: '607',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DlbKXX7',
+    imglink: '//ae01.alicdn.com/kf/Hacda6dc4d9a24d40972de5aa7e081648V.jpg_350x350.jpg',
+    shortlink: 'https://s.click.aliexpress.com/e/_DlbKXX7'
+  },
+  {
+    name: '606',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DlXPN2h',
+    imglink: '//ae01.alicdn.com/kf/S223c2a2e453e4f8194b53d5cca524ca2D.jpg_350x350.jpg',
+    shortlink: 'https://s.click.aliexpress.com/e/_DlXPN2h'
+  },
+  {
     name: '605',
     usalink: '',
     aliexpress: 'https://s.click.aliexpress.com/e/_Dm7bxlf',
