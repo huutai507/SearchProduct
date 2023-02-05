@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 import InfiniteScroll from 'react-infinite-scroll-component';
+import { CopyToClipboard } from 'react-copy-to-clipboard';
 import axios from 'axios';
 import { data } from '../data/data';
 
@@ -212,7 +213,7 @@ export default function Home() {
                 </a>
                 <div className='product-text'>
                   <p>
-                    Code:<span className='code'>{item.name}</span>
+                    <span className='code'>{item.name}</span>
                   </p>
 
                   {/* {item.aliexpress && (
@@ -225,14 +226,14 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Check Price Aliexpress
+                        AliExpress
                       </a>
                     </>
                   )}
                   {item.usalink && (
                     <>
                       <a href={item.usalink} target='_blank' className='custom-button'>
-                        Check Price Amazon
+                        Amazon
                       </a>
                     </>
                   )}
@@ -321,19 +322,20 @@ export default function Home() {
                     <div className='product-text'>
                       {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
                       <p>
-                        Code:<span className='code'>{item.name}</span>
+                        <span className='code'>{item.name}</span>
                       </p>
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
-                            Check Price Aliexpress
+                            AliExpress
                           </a>
                         </>
                       )}
+
                       {item.usalink && (
                         <>
                           <a href={item.usalink} target='_blank' className='custom-button'>
-                            Check Price Amazon
+                            Amazon
                           </a>
                         </>
                       )}

@@ -2,9 +2,9 @@ export const data = [
   {
     name: '603',
     usalink: '',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DnacsmP',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DFxvf4X',
     imglink: '//ae01.alicdn.com/kf/S5ddc0db7b31d4844a7b88160cb30cf4dW.jpg_350x350.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DnacsmP'
+    shortlink: 'https://s.click.aliexpress.com/e/_DFxvf4X'
   },
   {
     name: '602',
