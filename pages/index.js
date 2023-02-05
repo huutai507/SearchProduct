@@ -306,6 +306,7 @@ export default function Home() {
           </div>
         ) : (
           <div>
+            <p className='banner'>Sometimes will some products only have similar products as reels. Thank you</p>
             {
               <InfiniteScroll
                 dataLength={listProduct.length}
