@@ -1,5 +1,13 @@
 export const data = [
   {
+    name: '608',
+    usalink: '',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DBmSVln',
+    imglink:
+      'https://ae01.alicdn.com/kf/S2dc6f3d2a74d484b8746d18961907ea9G/Women-Winter-Lining-Velvet-Thicken-Knitted-Loose-Poncho-Capes-Tassel-Cloak-With-Hat-Fur-Collar-Warm.jpg_350x350.jpg_.webp',
+    shortlink: 'https://s.click.aliexpress.com/e/_DBmSVln'
+  },
+  {
     name: '607',
     usalink: '',
     aliexpress: 'https://s.click.aliexpress.com/e/_DlbKXX7',
