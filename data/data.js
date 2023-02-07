@@ -592,9 +592,9 @@ export const data = [
     name: '553',
     usalink:
       'https://www.amazon.com/s?k=Disinfecting+Doormat+Sanitizing+Floor&linkCode=ll2&tag=pyramideo-20&linkId=07e5961932bcade2f786b3cf441a4e62&language=en_US&ref_=as_li_ss_tl',
-    aliexpress: 'https://s.click.aliexpress.com/e/_DcY9Qk3',
+    aliexpress: 'https://s.click.aliexpress.com/e/_DerSUrf',
     imglink: 'https://m.media-amazon.com/images/I/41DmEk7pwML._SL350_.jpg',
-    shortlink: 'https://s.click.aliexpress.com/e/_DcY9Qk3'
+    shortlink: 'https://s.click.aliexpress.com/e/_DerSUrf'
   },
   {
     name: '552',
