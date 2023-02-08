@@ -226,14 +226,14 @@ export default function Home() {
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        AliExpress
+                        Buy Now Link 1
                       </a>
                     </>
                   )}
                   {item.usalink && (
                     <>
                       <a href={item.usalink} target='_blank' className='custom-button'>
-                        Amazon
+                        Buy Now Link 2
                       </a>
                     </>
                   )}
@@ -328,7 +328,7 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
-                            AliExpress
+                            Buy Now Link 1
                           </a>
                         </>
                       )}
@@ -336,7 +336,7 @@ export default function Home() {
                       {item.usalink && (
                         <>
                           <a href={item.usalink} target='_blank' className='custom-button'>
-                            Amazon
+                            Buy Now Link 2
                           </a>
                         </>
                       )}
