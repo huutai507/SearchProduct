@@ -158,7 +158,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Cool Gadgets From Amazon You Must Have</title>
+        <title>Cool Gadgets You Must Have</title>
         <meta
           name='description'
           content={`Our mission is to help you find the perfect gift for your loved ones (or yourself) whether it's birthdays, holidays or surprise days in life's moments.`}
