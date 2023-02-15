@@ -1,5 +1,37 @@
 export const data = [
   {
+    name: '672',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16764445996c76ac3cfe.gif',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/adhesive-punch-free-socket-holder'
+  },
+  {
+    name: '671',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676443939b88e4f4b4d.gif',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/men-s-gear-turning-ring'
+  },
+  {
+    name: '670',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16764315925dc799b9b4.gif',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/anti-skid-car-steering-wheel-cover'
+  },
+  {
+    name: '669',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16764277255fefbcbb01.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/1000w-handheld-steam-iron-220v'
+  },
+  {
     name: '668',
     usalink: '',
     aliexpress: '',
