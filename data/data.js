@@ -1,5 +1,37 @@
 export const data = [
   {
+    name: '675',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@167651279949260c9746.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/double-sided-magnetic-glass-case-for-samsung'
+  },
+  {
+    name: '675',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@167651400493fda86470.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/360-double-glass-shell-magnetic-adsorption-phone-case'
+  },
+  {
+    name: '674',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1676521446a7c6816b06.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/dead-skin-remover'
+  },
+  {
+    name: '673',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@16765296306c2fb6d6d6.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/nordic-led-golden'
+  },
+  {
     name: '672',
     usalink: '',
     aliexpress: '',
