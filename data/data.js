@@ -1,5 +1,37 @@
 export const data = [
   {
+    name: '679',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1676623339e7f5b89beb.gif',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/ultimate-deep-ultrasonic-cleaner'
+  },
+  {
+    name: '678',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@167662362651698d8779.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/refrigerator-spice-rack'
+  },
+  {
+    name: '677',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16766250084f8cc10be4.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/magnetic-toothbrush-holder-automatic-toothpaste'
+  },
+  {
+    name: '676',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16766280968d7b7e8375.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/automatic-high-pressure-glass-rinser-for-every-shape'
+  },
+  {
     name: '675',
     usalink: '',
     aliexpress: '',
