@@ -1,5 +1,21 @@
 export const data = [
   {
+    name: '682',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16767157151b36e6c57e.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/electric-wine-aerator-dispenser-1'
+  },
+  {
+    name: '681',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16767061458c1398557c.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/electric-can-opener-automatic'
+  },
+  {
     name: '680',
     usalink: '',
     aliexpress: '',
