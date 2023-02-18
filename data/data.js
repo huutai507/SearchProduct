@@ -1,5 +1,13 @@
 export const data = [
   {
+    name: '680',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676702952a04694cb28.gif',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/driving-steering-wheel-toy-1'
+  },
+  {
     name: '679',
     usalink: '',
     aliexpress: '',
