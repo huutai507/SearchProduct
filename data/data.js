@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '685',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S695c3e4a782e468e8522f444750fe2ac5/100g-Magic-Repair-Glue-AB-Metal-Cast-Iron-Repairing-Adhesive-Heat-Resistance-Cold-Weld-Metal-Repair.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/all-purpose-magic-repair-glue'
+  },
+  {
     name: '684',
     usalink: '',
     aliexpress: '',
@@ -11,7 +20,8 @@ export const data = [
     name: '683',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16767705168dff95cd7d.gif',
+    imglink:
+      'https://ae01.alicdn.com/kf/Se962451250914dbda4e970c0a241a354M/7-in-1-Computer-Keyboard-Cleaning-Brush-Kit-Earphone-Cleaning-Pen-Tool-Electronics-Cleaner-for-Headset.jpg_350x350.jpg_.webp',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/dust-cleaning-mechanical-keyboard-brush'
   },
@@ -35,7 +45,7 @@ export const data = [
     name: '680',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676702952a04694cb28.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@167670295216c6f4309c.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/driving-steering-wheel-toy-1'
   },
@@ -43,7 +53,8 @@ export const data = [
     name: '679',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1676623339e7f5b89beb.gif',
+    imglink:
+      'https://ae01.alicdn.com/kf/S6000de050df54a088f43eaa074d530a4g/Ultrasonic-Cleaning-Machine-45000Hz-High-Frequency-Vibration-Wash-Cleaner-Washing-Jewelry-Glasses-Watch-Ring-Dentures-Cleaner.jpg_350x350.jpg_.webp',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/ultimate-deep-ultrasonic-cleaner'
   },
@@ -107,7 +118,8 @@ export const data = [
     name: '672',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16764445996c76ac3cfe.gif',
+    imglink:
+      'https://img.thttps://ae01.alicdn.com/kf/Sf3ce2c7d822342adba5f41d2896840b1k/4-Pcs-Self-Adhesive-Desktop-Socket-Fixer-Adhesive-Punch-Free-Holder-Cable-Management-Surge-Protector-Mountable.jpg_350x350.jpg_.webphesitebase.net/10395/10395860/products/ver_1/0x540@16764445996c76ac3cfe.gif',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/adhesive-punch-free-socket-holder'
   },
@@ -115,7 +127,7 @@ export const data = [
     name: '671',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676443939b88e4f4b4d.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16764439392f24e9789b.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/men-s-gear-turning-ring'
   },
@@ -139,7 +151,7 @@ export const data = [
     name: '668',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676374910f312174239.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@1676374910df2cf65293.jpeg',
     shortlink: '',
     customlink:
       'https://www.alenascarlets.com/products/ultrasonic-portable-lymphatic-soothing-body-shaping-neck-instrument'
@@ -148,7 +160,8 @@ export const data = [
     name: '667',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1676375241d16566835f.gif',
+    imglink:
+      'https://ae01.alicdn.com/kf/S700dfdbe7ca74f568c2b0ee468485afd7/LED-Galaxy-Projector-7-in-1-Planetarium-Projector-Night-Light-Star-Projector-Lamp-for-Kids-Baby.jpg_350x350.jpg_.webp',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/7-in-1-star-galaxy-projector'
   },
@@ -164,7 +177,7 @@ export const data = [
     name: '665',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676376874b15741c672.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@1676376874f5ec343c2b.png',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/mini-wifi-wide-angle-camera'
   },
@@ -188,7 +201,7 @@ export const data = [
     name: '662',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022930e5f77f22a8.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@16760229305c18a82859.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/magnetic-usb-charging-cable-and-data-cable'
   },
@@ -196,7 +209,7 @@ export const data = [
     name: '661',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022930ca967c29ea.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760229305214054211.png',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/usb-cable-charging-bracelet-for-iphone-android-type-c'
   },
@@ -204,7 +217,7 @@ export const data = [
     name: '660',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022931adea5c5c5d.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760229319fc0330042.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/2-in-1-smart-watch-with-wireless-earphones'
   },
@@ -228,7 +241,7 @@ export const data = [
     name: '657',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16760229327cbf3c360a.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@1676022932d29db61fb8.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/multifunctional-bluetooth-talk-men-s-casual-smart-watch'
   },
@@ -252,7 +265,7 @@ export const data = [
     name: '654',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022969ba815a487d.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@1676022969653a7af7a6.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/snatch-seamless-bra-with-corset'
   },
@@ -260,7 +273,7 @@ export const data = [
     name: '653',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16760229696217758330.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@1676022969f91a54e006.png',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/touchscreen-winter-thermal-warm-gloves'
   },
@@ -268,7 +281,7 @@ export const data = [
     name: '652',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022970b2b6f61d3b.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@167602297094eadd2e1d.png',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/waterproof-large-capacity-foldable-storage-bag-handbag'
   },
@@ -292,7 +305,7 @@ export const data = [
     name: '649',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16760230223f218a9f64.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@167602302228e9d3181d.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/slimmer-women-bodysuit-shapewear'
   },
@@ -317,7 +330,7 @@ export const data = [
     name: '646',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@167602302521235a7231.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@1676023025df73f8425a.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/reusable-self-adhesive-natural-looking-eyelashes'
   },
@@ -333,7 +346,7 @@ export const data = [
     name: '644',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676023024dd4bf5e33a.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@167602302437034c902a.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/magnetic-swiveling-bit-drill-tip-holder'
   },
@@ -349,7 +362,8 @@ export const data = [
     name: '642',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1676023054ea1abb211a.gif',
+    imglink:
+      'https://ae01.alicdn.com/kf/S59cca299e63e4891bde342f30b1cb1fa0/New-Universal-1080-Rotation-Extender-Faucet-Aerator-Plastic-Splash-Filter-Kitchen-Washbasin-Faucets-Bubbler-Nozzle-Robotic.jpg_350x350.jpg_.webp',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/rotating-1080-robotic-arm-faucet'
   },
@@ -357,7 +371,7 @@ export const data = [
     name: '641',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676023054a3c380c1aa.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@1676023054aa63e245f7.jpe',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/plunging-backless-body-shaping-seamless-bra'
   },
@@ -373,7 +387,7 @@ export const data = [
     name: '639',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16760230568ba98656ff.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@167602305633dd84463c.png',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/portable-foldable-multi-slot-travel-eyeglasses-organizer'
   },
@@ -381,7 +395,7 @@ export const data = [
     name: '638',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676023055fcb5fdea05.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/106x106@167602305431a297814d.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/large-front-pouch-pet-lovers-hoodie'
   },
@@ -405,7 +419,7 @@ export const data = [
     name: '635',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760230575976c5c93d.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760230574bd9586dc0.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/hip-pelvis-trainer'
   },
@@ -421,7 +435,7 @@ export const data = [
     name: '633',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@1676023070daf5f38125.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760230702bb0f3e92e.jpeg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/collections/trending-now/products/1296p-hd-otoscope-wifi-visible-earwax'
   },
@@ -429,7 +443,7 @@ export const data = [
     name: '632',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@1676023056336870ae1e.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760230567d69e3c9d1.jpeg',
     shortlink: '',
     customlink:
       'https://www.alenascarlets.com/collections/trending-now/products/3d-projection-alarm-clock-makeup-led-mirror'
@@ -438,7 +452,7 @@ export const data = [
     name: '631',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@167602285106ffe4bab8.gif',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/110x110@16760228516d0e018ee1.png',
     shortlink: '',
     customlink:
       'https://www.alenascarlets.com/collections/trending-now/products/negative-ion-hair-straightener-styling-comb'
