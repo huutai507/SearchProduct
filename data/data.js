@@ -1,5 +1,13 @@
 export const data = [
   {
+    name: '686',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676891239a24c9cac45.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/waterproof-bicycle-balls-light'
+  },
+  {
     name: '685',
     usalink: '',
     aliexpress: '',
