@@ -1,5 +1,22 @@
 export const data = [
   {
+    name: '692',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S45c571850bea4c84b1ad616b89f8161an/800ML-Anti-Gravity-USB-Air-Humidifier-Ultrasonic-Air-Purifier-Levitating-Water-Drops-Mist-Maker-Fogger-Perfume.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/800ml-anti-gravity-usb-air-humidifier'
+  },
+  {
+    name: '691',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1677072413b0392b64d0.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/electronic-kitchen-scale-500g-0-1g-lcd-digital-measuring-food'
+  },
+  {
     name: '690',
     usalink: '',
     aliexpress: '',
