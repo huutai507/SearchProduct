@@ -1,5 +1,13 @@
 export const data = [
   {
+    name: '690',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16770648371b68093d7d.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/creative-pendant-light-mo'
+  },
+  {
     name: '689',
     usalink: '',
     aliexpress: '',
