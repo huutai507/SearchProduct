@@ -1,5 +1,13 @@
 export const data = [
   {
+    name: '694',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16771595810c0da0c9a4.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/strong-suction-powerful-speaker'
+  },
+  {
     name: '693',
     usalink: '',
     aliexpress: '',
