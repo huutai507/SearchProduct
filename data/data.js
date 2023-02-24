@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '695',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sda735f9ba7b64616a8d393bf78c87418Q/3-16-Colors-LED-Crystal-Table-Lamp-Rose-Light-Projector-Touch-Romantic-Diamond-Atmosphere-Light-USB.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/touching-control-rose-crystal-lamp'
+  },
+  {
     name: '694',
     usalink: '',
     aliexpress: '',
