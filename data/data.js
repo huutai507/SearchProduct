@@ -1,5 +1,21 @@
 export const data = [
   {
+    name: '697',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@16773164760d171abdd4.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/wooden-gear-business-reversible-open-closed-sign'
+  },
+  {
+    name: '696',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677316916e0d1ba3f58.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/watch-iron-ball'
+  },
+  {
     name: '695',
     usalink: '',
     aliexpress: '',
