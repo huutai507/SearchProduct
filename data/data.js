@@ -1,5 +1,22 @@
 export const data = [
   {
+    name: '699',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677396625343958efec.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/furniture-lift-mover-tool-set'
+  },
+  {
+    name: '698',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://img.thesitebase.net/sbase-odoo/product_template_1381185/4512cb3d3cb70da4b698e4ee8473b90fd0ccfd54.jpg?access_token=3382a3fd-e911-40f7-8d55-bed031d54f41',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/furniture-lift-mover-tool-set'
+  },
+  {
     name: '697',
     usalink: '',
     aliexpress: '',
