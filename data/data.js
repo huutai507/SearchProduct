@@ -228,7 +228,7 @@ export const data = [
     aliexpress: '',
     imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@16765296306c2fb6d6d6.jpg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/nordic-led-golden'
+    customlink: 'https://www.alenascarlets.com/products/bird-led-golden-creative'
   },
   {
     name: '672',
