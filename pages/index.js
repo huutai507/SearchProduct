@@ -223,6 +223,13 @@ export default function Home() {
                       </a>
                     </>
                   )} */}
+                  {item.podlink && (
+                    <>
+                      <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
+                        Create Your Own Custom Art
+                      </a>
+                    </>
+                  )}
                   {item.aliexpress && (
                     <>
                       <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
@@ -332,6 +339,13 @@ export default function Home() {
                       <p>
                         <span className='code'>{item.name}</span>
                       </p>
+                      {item.podlink && (
+                        <>
+                          <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
+                            Create Your Own Custom Art
+                          </a>
+                        </>
+                      )}
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
