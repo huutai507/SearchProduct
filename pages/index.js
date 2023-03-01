@@ -226,7 +226,7 @@ export default function Home() {
                   {item.podlink && (
                     <>
                       <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
-                        Create Your Own Custom Art
+                        Family Gifts for All Your Loved Ones
                       </a>
                     </>
                   )}
@@ -342,7 +342,7 @@ export default function Home() {
                       {item.podlink && (
                         <>
                           <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
-                            Create Your Own Custom Art
+                            Family Gifts for All Your Loved Ones
                           </a>
                         </>
                       )}
