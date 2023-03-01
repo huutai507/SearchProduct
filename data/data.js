@@ -1,5 +1,21 @@
 export const data = [
   {
+    name: '701',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@167763266750f36f68a7.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/v17-jet-fighter-stunt-rc-airplane'
+  },
+  {
+    name: '700',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@167763256107148024d6.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/best-gesture-rc-car-toy-car'
+  },
+  {
     name: '699',
     usalink: '',
     aliexpress: '',
