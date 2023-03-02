@@ -1,5 +1,43 @@
 export const data = [
   {
+    name: '707',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S08009832ac5047e49184451709c2d6943/Electric-foot-grinder-removing-dead-skin-machine-automatic-foot-rub-callus-pedicure-pedicure-tool-Pedicure-pedicure.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/pedicure-tool-callus-remover'
+  },
+  {
+    name: '706',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@1677718966568c8b02e9.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/tv-computer-top-storage-rack-stand-organizer'
+  },
+  {
+    name: '705',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677718997d9d6a0237e.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/wardrobe-clothes-storage-organizer'
+  },
+  {
+    name: '704',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677719275c01568f703.jpeg',
+    shortlink: '',
+    customlink:
+      'https://www.alenascarlets.com/products/neck-shoulder-stretcher-relaxer-chiropractic-traction-pillow-for-pain-relief'
+  },
+  {
     name: '703',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
