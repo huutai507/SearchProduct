@@ -168,6 +168,10 @@ export default function Home() {
       <div className='search-bar'>
         <div className='content-title'>
           <p className='pb-05'>Please enter the product code in the search box</p>
+          <p className='pb-05-notify'>
+            Some special products such as too large, fragile, high shipping costs, ... will not have a code in reels.
+            Thank you
+          </p>
         </div>
         <div className='input-content'>
           <input
@@ -321,7 +325,6 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            <p className='banner'>Sometimes will some products only have similar products as reels. Thank you</p>
             {
               <InfiniteScroll
                 dataLength={listProduct.length}

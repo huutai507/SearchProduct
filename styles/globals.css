@@ -14,6 +14,11 @@ body {
 
 .pb-05 {
   padding-bottom: 0.5rem;
+  color: #ff0000b3;
+}
+.pb-05-notify {
+  font-style: italic;
+  font-size: 14px;
 }
 .pt-10 {
   padding-top: 10px;
@@ -71,7 +76,7 @@ img {
   height: 1.5rem;
 }
 .container-list {
-  padding-top: 9rem;
+  padding-top: 13rem;
 }
 
 .product-list {
@@ -306,7 +311,7 @@ img {
 .banner {
   width: 100%;
   display: block;
-  padding: 16px 4px;
+  padding: 16px 10px;
   border-radius: 5px;
   text-align: center;
   font-size: 12px;
