@@ -170,7 +170,8 @@ export default function Home() {
           <p className='pb-05'>Please enter the product code in the search box</p>
           <p className='pb-05-notify'>
             Some special products such as too large, fragile, high shipping costs, ... will not have a code in reels.
-            Thank you
+            <br />
+            Hope you sympathize. Thank you!
           </p>
         </div>
         <div className='input-content'>
