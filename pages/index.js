@@ -169,7 +169,7 @@ export default function Home() {
         <div className='content-title'>
           <p className='pb-05'>Please enter the product code in the search box</p>
           <p className='pb-05-notify'>
-            Some special products such as too large, fragile, high shipping costs, ... will not have a code in reels.
+            Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos.
             <br />
             Hope you sympathize. Thank you!
           </p>
