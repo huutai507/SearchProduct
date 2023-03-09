@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '713',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Seb81bd64d90e4c679beda92e7fc51e23Y/4In1-Electric-Vegetable-Cutter-Set-Handheld-Wireless-Electric-Garlic-Masher-Food-Chopper-Meat-Grinder-Machine-Food.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/4-in-1-handheld-electric-garlic-cutter-set'
+  },
+  {
     name: '712',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
