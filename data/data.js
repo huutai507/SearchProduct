@@ -144,7 +144,7 @@ export const data = [
     aliexpress: '',
     imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677396625343958efec.jpeg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/furniture-lift-mover-tool-set'
+    customlink: 'https://www.alenascarlets.com/products/vegetable-cutter-multifunctional-vegetable-cutter'
   },
   {
     name: '698',
