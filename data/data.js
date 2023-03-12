@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '715',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://ae01.alicdn.com/kf/Se2d2fc2808d241c0ab18327009ffdec1Z.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/mini-foldable-washing-machine'
+  },
+  {
     name: '714',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
