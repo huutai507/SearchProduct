@@ -4,9 +4,10 @@ export const data = [
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S53f00a52f3834e6ba8002d587c70ec53B.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sa81fff2c85ac47ceacce973ce04a745ak.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/electric-warm-heating-belt'
+    customlink:
+      'https://www.alenascarlets.com/products/claw-hammer-multitool-stainless-steel-knife-plier-outdoor-survival-tool'
   },
   {
     name: '718',
