@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '719',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S53f00a52f3834e6ba8002d587c70ec53B.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/electric-warm-heating-belt'
+  },
+  {
+    name: '718',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S7f4123fca19f421e93a9f4971308ecf7N.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/baby-automatic-nails-trimmer'
+  },
+  {
     name: '717',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
