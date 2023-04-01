@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '731',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S76baaf1061df4a1a9a404c58a73c20c6M/Bluetooth-Speaker-LED-Alarm-Clock-RGB-Colorful-Atmosphere-Night-Light-Lamp-Sunrise-Simulation-Wake-Up-15W.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/intelligent-atmosphere-lamp-bluetooth-speaker'
+  },
+  {
     name: '730',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
