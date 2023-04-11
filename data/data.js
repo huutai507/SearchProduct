@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: '734',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink:
+      'https://www.alenascarlets.com/products/portable-usb-orange-juicer-rechargeable-multifunctional-household'
+  },
+  {
     name: '733',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
