@@ -4,9 +4,10 @@ export const data = [
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
     aliexpress: '',
-    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022929196f8e9b91.png',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sbe0df6b6ddec45d7a73a62b3e2ae0546b/200W-3-in-1-Magnetic-Wireless-Charger-Pad-Foldable-for-iPhone-14-13-12-11-XS.jpg_350x350.jpg_.webp',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/fast-wireless-charger-stand-for-iphone'
+    customlink: 'https://www.alenascarlets.com/products/3-in-1-charger-devices-phone-charger?variant=1000010364547377'
   },
   {
     name: '734',
