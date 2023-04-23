@@ -65,7 +65,7 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S7e87e2cc0c6447a089e7f23cfffef04b2.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/shower-for-bathroom-toilet'
+    customlink: 'https://www.alenascarlets.com/products/shower-head-double-outlet-angle-valve'
   },
   {
     name: '728',
