@@ -332,8 +332,13 @@ img {
 }
 
 .banner.img-review {
-  max-width: 250px;
+  max-width: 300px;
   padding: 5px 0;
+}
+
+.banner .aliexpress {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .tip-search {
