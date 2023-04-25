@@ -330,6 +330,7 @@ export default function Home() {
               <p className='pb-05 pb-05-notify t-1'>
                 If your feet are often tired and achy, this product is for you. Best Gift! Top Selling
               </p>
+
               <a
                 href='https://www.alenascarlets.com/products/360-foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device-2022'
                 target='_blank'
@@ -338,6 +339,7 @@ export default function Home() {
                   src='https://ae01.alicdn.com/kf/A2b89642ff8764e10b7ea69da4aad68c7E/360-Foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device.jpg_350x350.jpg_.webp'
                   alt=''
                 />
+                <img className='banner img-review' src='/review.png' alt='' />
                 <p className='custom-button aliexpress'>Buy Now</p>
               </a>
             </div>

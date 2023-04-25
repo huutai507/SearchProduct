@@ -331,6 +331,11 @@ img {
   border-radius: 25px;
 }
 
+.banner.img-review {
+  max-width: 250px;
+  padding: 5px 0;
+}
+
 .tip-search {
   width: 300px;
   max-width: 375px;
