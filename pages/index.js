@@ -336,7 +336,7 @@ export default function Home() {
                 target='_blank'
               >
                 <img
-                  src='https://ae01.alicdn.com/kf/A2b89642ff8764e10b7ea69da4aad68c7E/360-Foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device.jpg_350x350.jpg_.webp'
+                  src='https://ae01.alicdn.com/kf/A2b89642ff8764e10b7ea69da4aad68c7E/360-Foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device.jpg_350x350.jpg'
                   alt=''
                 />
                 <img className='banner img-review' src='/review.png' alt='' />

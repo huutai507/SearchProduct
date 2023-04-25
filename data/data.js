@@ -5,7 +5,7 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink:
-      'https://ae01.alicdn.com/kf/Sbe0df6b6ddec45d7a73a62b3e2ae0546b/200W-3-in-1-Magnetic-Wireless-Charger-Pad-Foldable-for-iPhone-14-13-12-11-XS.jpg_350x350.jpg_.webp',
+      'https://ae01.alicdn.com/kf/Sbe0df6b6ddec45d7a73a62b3e2ae0546b/200W-3-in-1-Magnetic-Wireless-Charger-Pad-Foldable-for-iPhone-14-13-12-11-XS.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/3-in-1-charger-devices-phone-charger?variant=1000010364547377'
   },
@@ -15,7 +15,7 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink:
-      'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg_.webp',
+      'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg',
     shortlink: '',
     customlink:
       'https://www.alenascarlets.com/products/portable-usb-orange-juicer-rechargeable-multifunctional-household'
@@ -45,7 +45,7 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink:
-      'https://ae01.alicdn.com/kf/S76baaf1061df4a1a9a404c58a73c20c6M/Bluetooth-Speaker-LED-Alarm-Clock-RGB-Colorful-Atmosphere-Night-Light-Lamp-Sunrise-Simulation-Wake-Up-15W.jpg_350x350.jpg_.webp',
+      'https://ae01.alicdn.com/kf/S76baaf1061df4a1a9a404c58a73c20c6M/Bluetooth-Speaker-LED-Alarm-Clock-RGB-Colorful-Atmosphere-Night-Light-Lamp-Sunrise-Simulation-Wake-Up-15W.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://www.alenascarlets.com/products/intelligent-atmosphere-lamp-bluetooth-speaker'
   },
