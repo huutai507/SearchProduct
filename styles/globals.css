@@ -29,6 +29,10 @@ body {
 .pt-32 {
   padding-top: 32px;
 }
+.t-1 {
+  font-size: 18px;
+  font-weight: 500;
+}
 
 a {
   color: inherit;
@@ -317,6 +321,7 @@ img {
   font-size: 12px;
   font-weight: 500;
   color: #2e2f35;
+  background-color: white;
 }
 
 .banner img {
