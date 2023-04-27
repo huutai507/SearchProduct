@@ -326,7 +326,7 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            <div className='banner'>
+            {/* <div className='banner'>
               <p className='pb-05 pb-05-notify t-1'>
                 If your feet are often tired and achy, this product is for you. Best Gift! Top Selling
               </p>
@@ -342,7 +342,7 @@ export default function Home() {
                 <img className='banner img-review' src='/review.png' alt='' />
                 <p className='custom-button aliexpress'>Buy Now</p>
               </a>
-            </div>
+            </div> */}
             {
               <InfiniteScroll
                 dataLength={listProduct.length}
