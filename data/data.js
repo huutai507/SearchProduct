@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '740',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sa2fd6b5331db467ebdd844b586cbb892S.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutadiscover.com/2023/05/02/household-cleaning-set-for-kitchen-and-low-areas/'
+  },
+  {
     name: '739',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
