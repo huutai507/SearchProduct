@@ -6,7 +6,7 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/Sa2fd6b5331db467ebdd844b586cbb892S.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/new-portable-mini-squeeze-mop'
+    customlink: 'https://hutadiscover.com/2023/05/02/household-cleaning-set-for-kitchen-and-low-areas/'
   },
   {
     name: '738',
