@@ -6581,6 +6581,15 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/HTB1z.mTM7voK1RjSZPfq6xPKFXa1.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutadiscover.com/2023/05/07/403/'
+    customlink: 'https://hutadiscover.com/403/'
+  },
+  {
+    name: '2001',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S40135700de3c4da9948494455724fd54q.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutadiscover.com/multi-purpose-storage-cabinet/'
   }
 ];
