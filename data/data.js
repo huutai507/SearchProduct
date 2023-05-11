@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '743',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4bfbed3c366b4c559fef2e34475bae42K/Car-Ceramic-Nano-Coating-Liquid-Coatin-Nano-Hydrophobic-Layer-Polishing-Paint-Coating-Agent-Car-polish-Nanos.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/car-ceramic-nano-coating-liquid'
+  },
+  {
     name: '742',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
