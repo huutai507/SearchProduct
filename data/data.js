@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '742',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@167662362651698d8779.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/refrigerator-spice-rack'
+  },
+  {
     name: '741',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
