@@ -6,7 +6,7 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S1b04f1861f7a4a3ca43039fcaecfb7d3v.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://bit.ly/3BqiT7f'
+    customlink: 'https://www.alenascarlets.com/products/4-in-1-flat-braided-anti-tangle-charger-cord-with-velcro'
   },
   {
     name: '744',
@@ -15,7 +15,8 @@ export const data = [
     aliexpress: '',
     imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@16771368013615647c66.jpeg',
     shortlink: '',
-    customlink: 'https://bit.ly/3px0vqX'
+    customlink:
+      'https://www.alenascarlets.com/products/50cm-3d-hologram-projector-advertise-display-fan-wifi-led-sign-holographic-lamp-shop-christmas-halloween-party-logo-light'
   },
   {
     name: '743',
@@ -25,7 +26,7 @@ export const data = [
     imglink:
       'https://ae01.alicdn.com/kf/S4bfbed3c366b4c559fef2e34475bae42K/Car-Ceramic-Nano-Coating-Liquid-Coatin-Nano-Hydrophobic-Layer-Polishing-Paint-Coating-Agent-Car-polish-Nanos.jpg_350x350.jpg_.webp',
     shortlink: '',
-    customlink: 'https://bit.ly/44UfPOn'
+    customlink: 'https://www.alenascarlets.com/products/car-ceramic-nano-coating-liquid'
   },
   {
     name: '742',
