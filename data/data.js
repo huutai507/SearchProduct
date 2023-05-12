@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '747',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@167651279949260c9746.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/double-sided-magnetic-glass-case-for-samsung'
+  },
+  {
+    name: '747',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x720@167651400493fda86470.png',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/360-double-glass-shell-magnetic-adsorption-phone-case'
+  },
+  {
     name: '746',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
