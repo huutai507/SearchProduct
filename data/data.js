@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '748',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S6000de050df54a088f43eaa074d530a4g/Ultrasonic-Cleaning-Machine-45000Hz-High-Frequency-Vibration-Wash-Cleaner-Washing-Jewelry-Glasses-Watch-Ring-Dentures-Cleaner.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/ultimate-deep-ultrasonic-cleaner'
+  },
+  {
     name: '747',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
