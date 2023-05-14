@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '750',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S7405b59911e04b32b99278441b2a8d2ah.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/automatic-self-stirring-magnetic'
+  },
+  {
+    name: '749',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S286766008d3f4211b8ac1c3ec1eefc1cP/Pink-Magic-Broom-Cleaning-Bathroom-Glass-One-Piece-Wipe-Mop-Household-Small-Broom-Splicing-Broom.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/magic-broom-cleaning'
+  },
+  {
     name: '748',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
