@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '751',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S22b9405d16674f53a8c28b3bd95df465Q/Car-Plastic-Restore-Coating-Agent-Auto-Plastic-Rubber-Exterior-Repair-Clean-Refresh-Restoration-Agent-Black-Shine.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/car-plastic-restore-coating'
+  },
+  {
     name: '750',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
