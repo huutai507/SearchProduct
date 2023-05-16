@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: '754',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/H1adcaf6afc6843d791590dad4fe8105cz/360-Foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink:
+      'https://www.alenascarlets.com/products/360-foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device-2022'
+  },
+  {
     name: '753',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
