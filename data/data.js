@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: '757',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S35734c2107b44937b9059dff321ebc33T/USLION-540-Rotate-5A-Magnetic-Cable-Fast-Charging-Micro-USB-Type-C-Cable-For-iPhone-Xiaomi.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/magnetic-usb-charging-cable-and-data-cable'
+  },
+  {
+    name: '756',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S35734c2107b44937b9059dff321ebc33T/USLION-540-Rotate-5A-Magnetic-Cable-Fast-Charging-Micro-USB-Type-C-Cable-For-iPhone-Xiaomi.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/magnetic-usb-charging-cable-and-data-cable'
+  },
+  {
     name: '755',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
