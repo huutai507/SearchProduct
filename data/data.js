@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '760',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S2df7df1f0c254fd983c28e7b036e016dg/1080P-HD-Mini-Camera-Pen-Portable-Recorder-Outdoor-Sports-Photography-Pen-Night-Vision-Camera-180-Rotating.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/mini-portable-video-recorder-camera'
+  },
+  {
     name: '759',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
