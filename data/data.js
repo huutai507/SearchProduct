@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '766',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S1d6a9567de334200884153c34e9826f7V/1-PCS-Compression-Knee-Pads-Support-Sleeve-Protector-Elastic-Kneepad-Brace-Spring-Support-Volleyball-Running-Silicone.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/knee-compression-sleeve-sport-band'
+  },
+  {
+    name: '765',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1676022932227526b130.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/3-in-1-charger-devices-phone-charger'
+  },
+  {
     name: '764',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
