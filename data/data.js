@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '764',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sb3337d81dbfe4e4d92a1d168eee8e069D/5G-Wifi-E27-Bulb-Night-Vision-Camera-Surveillance-Full-Color-Automatic-Human-Tracking-4X-Digital-Zoom.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/wireless-wifi-light-bulb-camera-security-camera'
+  },
+  {
     name: '763',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
