@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '769',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sc350d1d6cec240a2adae782589139f698/Laundry-Soap-Bar-Skin-Care-Underwear-Cleaning-Soap-Cleaning-Soap-Bar-To-Remove-Stains-From-Clothing.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/grand-canal-underwear-cleaning-soap'
+  },
+  {
     name: '768',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
