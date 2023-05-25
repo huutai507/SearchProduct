@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '768',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://img.thesitebase.net/10395/10395860/products/ver_1/0x540@1677396625343958efec.jpeg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/vegetable-cutter-multifunctional-vegetable-cutter'
+  },
+  {
+    name: '767',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://ae01.alicdn.com/kf/Se2d2fc2808d241c0ab18327009ffdec1Z.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/mini-foldable-washing-machine'
+  },
+  {
     name: '766',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
