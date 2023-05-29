@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '774',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink: 'https://ae01.alicdn.com/kf/Sf4d2c6e403b741c895bdd06b6b60c9fc2.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/squeeze-broom-sweeping-water-and-pet-hair'
+  },
+  {
     name: '773',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
@@ -232,10 +241,9 @@ export const data = [
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
     aliexpress: '',
-    imglink:
-      'https://ae01.alicdn.com/kf/S286766008d3f4211b8ac1c3ec1eefc1cP/Pink-Magic-Broom-Cleaning-Bathroom-Glass-One-Piece-Wipe-Mop-Household-Small-Broom-Splicing-Broom.jpg_350x350.jpg_.webp',
+    imglink: 'https://ae01.alicdn.com/kf/Sf4d2c6e403b741c895bdd06b6b60c9fc2.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://www.alenascarlets.com/products/magic-broom-cleaning'
+    customlink: 'https://www.alenascarlets.com/products/squeeze-broom-sweeping-water-and-pet-hair'
   },
   {
     name: '748',
