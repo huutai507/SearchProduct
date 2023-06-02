@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '776',
+    podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://www.alenascarlets.com/products/portable-juicer-usb-rechargeable-blender-orange-squeezer'
+  },
+  {
     name: '775',
     podlink: 'https://www.alenascarlets.com/collections/create-your-own-custom-art',
     usalink: '',
@@ -223,8 +233,7 @@ export const data = [
     imglink:
       'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg',
     shortlink: '',
-    customlink:
-      'https://www.alenascarlets.com/products/portable-usb-orange-juicer-rechargeable-multifunctional-household'
+    customlink: 'https://www.alenascarlets.com/products/portable-juicer-usb-rechargeable-blender-orange-squeezer'
   },
   {
     name: '751',
@@ -401,8 +410,7 @@ export const data = [
     imglink:
       'https://ae01.alicdn.com/kf/Sb208ec28999846d79d9285e92cc143b1x/Portable-USB-Orange-Juicer-Rechargeable-Multifunctional-Household-Juice-Machine-Mini-Juicer-Cup-Electric-Juicer-45W-Wireless.jpg_350x350.jpg',
     shortlink: '',
-    customlink:
-      'https://www.alenascarlets.com/products/portable-usb-orange-juicer-rechargeable-multifunctional-household'
+    customlink: 'https://www.alenascarlets.com/products/portable-juicer-usb-rechargeable-blender-orange-squeezer'
   },
   {
     name: '733',
