@@ -365,7 +365,7 @@ export default function Home() {
                       {item.aliexpress && (
                         <>
                           <a href={item.aliexpress} className='custom-button aliexpress'>
-                            Buy Now Link 1
+                            Buy Now
                           </a>
                         </>
                       )}
