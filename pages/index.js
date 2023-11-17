@@ -169,9 +169,9 @@ export default function Home() {
         <div className='content-title'>
           <p className='pb-05'>Please enter the product code in the search box</p>
           <p className='pb-05-notify'>
-            Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos.
+            {/* Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos. */}
             <br />
-            Hope you sympathize. Thank you!
+            {/* Hope you sympathize. Thank you! */}
           </p>
         </div>
         <div className='input-content'>
@@ -326,17 +326,6 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            <div className='banner'>
-              {/* <p className='pb-05 pb-05-notify t-1'>
-                If your feet are often tired and achy, this product is for you. Best Gift! Top Selling
-              </p> */}
-
-              <a href='' target='_blank'>
-                <img src='https://ae01.alicdn.com/kf/Sff57b288a25b4d7898b235c714c884eaO/240x168.png' alt='' />
-                {/* <img className='banner img-review' src='/review.png' alt='' /> */}
-                <p className=''>Download Aliexpress App on Play Store Android, App Store IOS</p>
-              </a>
-            </div>
             {
               <InfiniteScroll
                 dataLength={listProduct.length}
