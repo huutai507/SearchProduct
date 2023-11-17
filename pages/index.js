@@ -213,8 +213,8 @@ export default function Home() {
             <div className='banner-search'></div>
             {filterData.reverse().map((item, index) => (
               <div className='product-item' key={index}>
-                <a href={item.usalink} target='_blank'>
-                  <img src={item.imglink} className='imglink' />
+                <a href={item.customlink} target='_blank'>
+                  <img src={item.customlink} className='imglink' />
                 </a>
                 <div className='product-text'>
                   <p>
