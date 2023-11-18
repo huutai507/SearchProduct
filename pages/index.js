@@ -167,7 +167,7 @@ export default function Home() {
       </Head>
       <div className='search-bar'>
         <div className='content-title'>
-          <p className='pb-05'>Please enter the product code in the search box</p>
+          <p className='pb-05'>Please enter code below</p>
           <p className='pb-05-notify'>
             {/* Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos. */}
             <br />
@@ -214,112 +214,22 @@ export default function Home() {
             {filterData.reverse().map((item, index) => (
               <div className='product-item' key={index}>
                 <a href={item.customlink} target='_blank'>
-                  <img src={item.customlink} className='imglink' />
+                  <a href={item.customlink} target='_blank'>
+                    <img src={item.imglink} className='imglink' />
+                  </a>
+                  <div className='product-text'>
+                    <p>
+                      <span className='code'>{item.name}</span>
+                    </p>
+                    {item.customlink && (
+                      <>
+                        <a href={item.customlink} target='_blank' className='custom-button aliexpress'>
+                          {item.name}
+                        </a>
+                      </>
+                    )}
+                  </div>
                 </a>
-                <div className='product-text'>
-                  <p>
-                    <span className='code'>{item.name}</span>
-                  </p>
-
-                  {/* {item.aliexpress && (
-                    <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Compre agora no Aliexpress
-                      </a>
-                    </>
-                  )} */}
-
-                  {item.aliexpress && (
-                    <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Buy Now
-                      </a>
-                    </>
-                  )}
-                  {item.usalink && (
-                    <>
-                      <a href={item.usalink} target='_blank' className='custom-button'>
-                        Buy Now Link 2
-                      </a>
-                    </>
-                  )}
-                  {item.customlink && (
-                    <>
-                      <a href={item.customlink} target='_blank' className='custom-button aliexpress'>
-                        Buy Now
-                      </a>
-                    </>
-                  )}
-                  {/* {item.podlink && (
-                    <>
-                      <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
-                        Family Gifts for All Your Loved Ones
-                      </a>
-                    </>
-                  )} */}
-                  {/* {item.aliexpress && (
-                    <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        Comprar ahora en Aliexpress
-                      </a>
-                    </>
-                  )}
-                  {item.aliexpress && (
-                    <>
-                      <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                        지금 구매 Aliexpress
-                      </a>
-                    </>
-                  )} */}
-                  {/* {item.usalink && (
-                    <>
-                      <a href={item.usalink} target='_blank' className='custom-button'>
-                        USA - Buy Now on Amazon
-                      </a>
-                    </>
-                  )} */}
-                  {/* {item.usalink && (
-                    <>
-                      <a href={replaceArea(item.usalink, 'amazon.com.br')} target='_blank' className='custom-button'>
-                        Brazil - Compre agora na Amazon
-                      </a>
-                    </>
-                  )} */}
-
-                  {/* {item.usalink && (
-                    <>
-                      <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
-                        India - Buy Now on Amazon
-                      </a>
-                    </>
-                  )} */}
-                  {/* {item.usalink && (
-                    <>
-                      <h5 className='north-america'>SELECT COUNTRY</h5>
-                      <div className='selected-country'>
-                        <select
-                          name=''
-                          className='custom-selected'
-                          value={country}
-                          id='countries'
-                          onChange={handleChangeSelected}
-                        >
-                          <option value='amazon.com' disabled>
-                            USA
-                          </option>
-                          {COUNTRIES.map((item, index) => (
-                            <option value={item.area} key={index}>
-                              {item.name}
-                            </option>
-                          ))}
-                        </select>
-                      </div>
-                      <a href={replaceArea(item.usalink, country)} target='_blank' className='custom-button'>
-                        {nameCountry} - {title}
-                      </a>
-                    </>
-                  )} */}
-                </div>
               </div>
             ))}
             <div>{!filterData.length ? <p>No matching results. Please search again</p> : <p></p>}</div>
@@ -336,112 +246,24 @@ export default function Home() {
               >
                 {listProduct.map((item, index) => (
                   <div className='product-item' key={index}>
-                    <a href={item.usalink} target='_blank'>
-                      <img src={item.imglink} className='imglink' />
+                    <a href={item.customlink} target='_blank'>
+                      <a href={item.customlink} target='_blank'>
+                        <img src={item.imglink} className='imglink' />
+                      </a>
+                      <div className='product-text'>
+                        {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
+                        <p>
+                          <span className='code'>{item.name}</span>
+                        </p>
+                        {item.customlink && (
+                          <>
+                            <a href={item.customlink} target='_blank' className='custom-button aliexpress'>
+                              {item.name}
+                            </a>
+                          </>
+                        )}
+                      </div>
                     </a>
-                    <div className='product-text'>
-                      {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
-                      <p>
-                        <span className='code'>{item.name}</span>
-                      </p>
-
-                      {item.aliexpress && (
-                        <>
-                          <a href={item.aliexpress} className='custom-button aliexpress'>
-                            Buy Now
-                          </a>
-                        </>
-                      )}
-
-                      {item.usalink && (
-                        <>
-                          <a href={item.usalink} target='_blank' className='custom-button'>
-                            Buy Now Link 2
-                          </a>
-                        </>
-                      )}
-                      {item.customlink && (
-                        <>
-                          <a href={item.customlink} target='_blank' className='custom-button aliexpress'>
-                            Buy Now
-                          </a>
-                        </>
-                      )}
-                      {/* {item.podlink && (
-                        <>
-                          <a href={item.podlink} target='_blank' className='custom-button aliexpress'>
-                            Family Gifts for All Your Loved Ones
-                          </a>
-                        </>
-                      )} */}
-                      {/* {item.aliexpress && (
-                        <>
-                          <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Compre agora no Aliexpress
-                          </a>
-                        </>
-                      )}
-                      {item.aliexpress && (
-                        <>
-                          <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            Comprar ahora en Aliexpress
-                          </a>
-                        </>
-                      )}
-                      {item.aliexpress && (
-                        <>
-                          <a href={item.aliexpress} target='_blank' className='custom-button aliexpress'>
-                            지금 구매 Aliexpress
-                          </a>
-                        </>
-                      )} */}
-
-                      {/* {item.usalink && (
-                        <>
-                          <a
-                            href={replaceArea(item.usalink, 'amazon.com.br')}
-                            target='_blank'
-                            className='custom-button'
-                          >
-                            Brazil - Compre agora na Amazon
-                          </a>
-                        </>
-                      )} */}
-                      {/* {item.usalink && (
-                        <>
-                          <a href={replaceArea(item.usalink, 'amazon.in')} target='_blank' className='custom-button'>
-                            India - Buy Now on Amazon
-                          </a>
-                        </>
-                      )} */}
-
-                      {/* {item.usalink && (
-                        <>
-                          <h5 className='north-america'>SELECT COUNTRY</h5>
-                          <div className='selected-country'>
-                            <select
-                              name=''
-                              className='custom-selected'
-                              value={country}
-                              id='countries'
-                              onChange={handleChangeSelected}
-                            >
-                              <option value='amazon.com' disabled>
-                                USA
-                              </option>
-                              {COUNTRIES.map((item, index) => (
-                                <option value={item.area} key={index}>
-                                  {item.name}
-                                </option>
-                              ))}
-                            </select>
-                          </div>
-                          <a href={replaceArea(item.usalink, country)} target='_blank' className='custom-button'>
-                            {nameCountry} - {title}
-                          </a>
-                        </>
-                      )} */}
-                    </div>
                   </div>
                 ))}
               </InfiniteScroll>
