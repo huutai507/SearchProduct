@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '59',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S40e4e18c653144c6a9d95abd3801eb57n.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/automatic-smart-toothpick'
+  },
+  {
     name: '58',
     podlink: '',
     usalink: '',
