@@ -9,6 +9,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
+    name: '60',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S82e6fb71da2b434eab90c586634674aea.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/self-stirring-coffee-mug'
+  },
+  {
     name: '59',
     podlink: '',
     usalink: '',
