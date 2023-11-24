@@ -18,6 +18,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '62',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S306f4897901a4ba3808ce014bf9ebaf2b.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/portable-lint-remover-manual-clothes-brush-tool'
+  },
+  {
     name: '61',
     podlink: '',
     usalink: '',
