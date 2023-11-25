@@ -18,6 +18,16 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '63',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4af67a03b15e46ed9ef23b69e64a7d43k/4k-Glasses-Mini-Camera-Outdoor-Sport-DVR-Sunglasses-Camcorder-Bike-Surveillance-Video-Recorder-Body-Photograph-Action.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/4k-glasses-mini-camera-outdoor-sport'
+  },
+  {
     name: '62',
     podlink: '',
     usalink: '',
