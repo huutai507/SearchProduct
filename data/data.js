@@ -22,8 +22,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink:
-      'https://ae01.alicdn.com/kf/S4af67a03b15e46ed9ef23b69e64a7d43k/4k-Glasses-Mini-Camera-Outdoor-Sport-DVR-Sunglasses-Camcorder-Bike-Surveillance-Video-Recorder-Body-Photograph-Action.jpg_350x350.jpg_.webp',
+    imglink: '//ae01.alicdn.com/kf/S952dfcbdea444e89b5e0bbe3e2a3b6fbQ.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/4k-glasses-mini-camera-outdoor-sport'
   },
