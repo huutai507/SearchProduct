@@ -18,6 +18,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '64',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S8ad1c462c17f4b518ebb697d57757cf5r.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/wireless-ergonomics-metal-mouse'
+  },
+  {
     name: '63',
     podlink: '',
     usalink: '',
