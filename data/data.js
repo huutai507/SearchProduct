@@ -9,6 +9,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
+    name: '13',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
+  },
+  {
     name: '19',
     podlink: '',
     usalink: '',
