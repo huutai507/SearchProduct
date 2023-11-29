@@ -18,13 +18,14 @@ export const data = [
     customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
   },
   {
-    name: '19',
+    name: '65',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    imglink:
+      'https://ae01.alicdn.com/kf/S9a66ab2a24e040da89cf795746776629l/Solar-Ultraviolet-Toothbrush-Holder-Automatic-Toothpaste-Squeezer-Dispenser-Toothbrush-Disinfector-Home-Bathroom-Accessories-Set.jpg_350x350.jpg_.webp',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+    customlink: 'https://hutaw.com/products/toothbrush-holder-automatic'
   },
   {
     name: '64',
@@ -416,6 +417,15 @@ export const data = [
     imglink: '//ae01.alicdn.com/kf/Sff1a5eea80eb4b9bb7e6c904bea9b32a2.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/mini-foldable-washing-machine-1'
+  },
+  {
+    name: '19',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
     name: '19',
