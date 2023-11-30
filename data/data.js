@@ -18,6 +18,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
   },
   {
+    name: '66',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+  },
+  {
     name: '65',
     podlink: '',
     usalink: '',
