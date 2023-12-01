@@ -9,13 +9,31 @@ export const data = [
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
-    name: '13',
+    name: '19',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+  },
+  {
+    name: '69',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sc619a1214eca49689b00dd489c7a2ce4l.png_350x350.png',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/magnetic-levitation-lamp-creativity'
+  },
+  {
+    name: '68',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S02ba0e588fb24bf5ad38a782e67e7d70h.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/diy-garden-sprayer-kit-20m'
   },
   {
     name: '67',
