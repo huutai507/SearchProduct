@@ -25,7 +25,7 @@ export const data = [
     imglink: '//ae01.alicdn.com/kf/S7de20e067c9741bbb171e3729d1a46adk.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/creative-automatic-page-turning-clock'
-  }
+  },
   {
     name: '66',
     podlink: '',
