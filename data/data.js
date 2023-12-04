@@ -18,6 +18,26 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '70',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S2c474351393b4996882ed6438260e1a9S/Waterfall-Temperature-Digital-Display-Basin-Faucet-Lift-Up-Down-Stream-Sprayer-Hot-Cold-Water-Sink-Mixer.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/waterfall-temperature-display-faucet-hot-cold-water'
+  },
+  {
+    name: '70',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S6cfd7946720243139eaed4d364edc6586.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/winter-thick-plush-sofa-cushion'
+  },
+
+  {
     name: '69',
     podlink: '',
     usalink: '',
