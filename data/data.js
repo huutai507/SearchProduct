@@ -4,10 +4,9 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink:
-      'https://img.thesitebase.net/10395/10395860/products/ver_1c6b31c0815bc9b06cc4119538e94b0bf/0x360@16887934546dacbe40ac.gif',
+    imglink: '',
     shortlink: '',
-    gif: '',
+    gif: 'printer.webp',
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
   {
@@ -25,7 +24,8 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S272fe14cc28d4382bbf306e64c5935a3m.jpg_350x350.jpg',
+    imglink: '',
+    gif: 'vacuum.webp',
     shortlink: '',
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
