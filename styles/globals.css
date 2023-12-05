@@ -13,7 +13,6 @@ body {
 }
 
 .pb-05 {
-  padding-bottom: 0.5rem;
   color: #ff0000b3;
 }
 .pb-05-notify {
@@ -80,7 +79,7 @@ img {
   height: 1.5rem;
 }
 .container-list {
-  padding-top: 10rem;
+  padding-top: 7rem;
 }
 
 .product-list {
@@ -139,7 +138,6 @@ img {
 }
 .content-title {
   font-size: 18px;
-  margin-bottom: 0.5rem;
   font-weight: 500;
   color: rgb(31, 31, 31);
   text-align: center;
