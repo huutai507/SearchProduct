@@ -15,8 +15,9 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    imglink: '',
     shortlink: '',
+    gif: 'handgif.webp',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
