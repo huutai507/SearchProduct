@@ -5,9 +5,9 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink: '',
+    gif: 'vacuum.webp',
     shortlink: '',
-    gif: 'printer.webp',
-    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
     name: '19',
@@ -25,11 +25,20 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink: '',
-    gif: 'vacuum.webp',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
 
+  {
+    name: '71',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S2b963c987be84d36b80e5d5974f5ff62E.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/retractable-gap-dust-cleaner'
+  },
   {
     name: '70',
     podlink: '',
