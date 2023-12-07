@@ -29,7 +29,15 @@ export const data = [
     gif: 'printer.webp',
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
-
+  {
+    name: '72',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/bathroom-suction-cup-storage-rack'
+  },
   {
     name: '71',
     podlink: '',
