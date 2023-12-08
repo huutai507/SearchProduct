@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
   {
+    name: '73',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd52d88c2595747c4ba389e568114b490n.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/appliance-cord-winder'
+  },
+  {
     name: '72',
     podlink: '',
     usalink: '',
@@ -504,15 +513,7 @@ export const data = [
     shortlink: '',
     customlink: 'https://hutaw.com/products/mini-foldable-washing-machine-1'
   },
-  {
-    name: '19',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
-    shortlink: '',
-    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
-  },
+
   {
     name: '19',
     podlink: '',
