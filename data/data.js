@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
   {
+    name: '75',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sff1a5eea80eb4b9bb7e6c904bea9b32a2.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/mini-foldable-washing-machine-1'
+  },
+  {
     name: '74',
     podlink: '',
     usalink: '',
