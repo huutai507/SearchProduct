@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
   {
+    name: '74',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S5a1a001df7854042a3345f7c9c66b1f0n.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/forklift-design-multi-device-wireless-charging-dock-station'
+  },
+  {
     name: '73',
     podlink: '',
     usalink: '',
