@@ -19,15 +19,16 @@ export const data = [
     gif: 'handgif.webp',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
+
   {
-    name: '16',
+    name: '78',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S67ed3799aa0e44e2b560b4537e6ddbecT/Double-Sided-Adhesive-Wall-Hooks-Hanger-Strong-Transparent-Hooks-Suction-Cup-Sucker-Wall-Storage-Holder-For.jpg_350x350.jpg_.webp',
     shortlink: '',
-    gif: 'printer.webp',
-    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+    customlink: 'https://hutaw.com/products/double-sided-adhesive-wall-hooks-hanger'
   },
   {
     name: '77',
@@ -577,7 +578,16 @@ export const data = [
     shortlink: '',
     customlink: 'https://hutaw.com/products/automatic-multifunctional-detachable-juicer-cup'
   },
-
+  {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
   {
     name: '15',
     podlink: '',
