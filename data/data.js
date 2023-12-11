@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
   },
   {
+    name: '77',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S25b38a4773834498854cee77e60abec6e.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/creative-touch-magnetic-levitation-moon-lamps-3-colors'
+  },
+  {
     name: '76',
     podlink: '',
     usalink: '',
