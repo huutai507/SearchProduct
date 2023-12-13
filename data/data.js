@@ -20,6 +20,24 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '81',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se27674d83e5f481ab54687dc426cbc682.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/chicken-meat-shredder-kitchen-cutting-tool'
+  },
+  {
+    name: '80',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sc3f7353e051440b7aba0129bb28d9c668.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/wireless-wood-stick-night-light-motion-sensor-light'
+  },
+  {
     name: '79',
     podlink: '',
     usalink: '',
