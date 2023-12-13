@@ -19,7 +19,15 @@ export const data = [
     gif: 'handgif.webp',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
-
+  {
+    name: '79',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S2bd96da814ba4beaac774d83ae5c1dd9f.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/advanced-simulated-stones-private-garden-key-box-hidden'
+  },
   {
     name: '78',
     podlink: '',
