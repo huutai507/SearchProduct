@@ -20,6 +20,25 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '83',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S14a6da9dd2024fb79b2d2537dcfb2b2dx.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/magnetic-toothbrush-holder-automatic-toothpaste'
+  },
+  {
+    name: '82',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4ebbe86da6b446dd96cb6546668794bdX/3-In-1-Glass-Cleaning-with-Spray-Bottle-Wipe-Shower-Screen-Clean-Window-Cleaning-Tool-Multi.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-in-1-glass-cleaning-with-spray-bottle'
+  },
+  {
     name: '81',
     podlink: '',
     usalink: '',
