@@ -26,7 +26,17 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
+    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks
+    '
+  },
+  {
+    name: '84',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S49868cf8cdb84096bc31dde83e69e39fV.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/multi-functional-mini-mop'
   },
   {
     name: '83',
