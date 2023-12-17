@@ -26,8 +26,7 @@ export const data = [
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks
-    '
+    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
   },
   {
     name: '84',
