@@ -20,6 +20,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '86',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S3b9c7dd6d41947c2a90d5af74f439e11z.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/12-in-1-multifunctional-vegetable-slicer-cutter-shredder-with-basket'
+  },
+  {
     name: '85',
     podlink: '',
     usalink: '',
