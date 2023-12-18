@@ -20,6 +20,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '87',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S3442f061dcd54910ad4966d535c8a269D.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/car-seat-gap-plug-cover'
+  },
+  {
     name: '86',
     podlink: '',
     usalink: '',
