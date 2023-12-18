@@ -20,14 +20,13 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
-    name: '58',
+    name: '13',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg',
+    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
     shortlink: '',
-    customlink:
-      'https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic'
+    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
   },
   {
     name: '87',
