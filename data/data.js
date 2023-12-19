@@ -1,34 +1,5 @@
 export const data = [
   {
-    name: '16',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '',
-    gif: 'vacuum.webp',
-    shortlink: '',
-    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
-  },
-  {
-    name: '19',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
-    shortlink: '',
-    gif: 'handgif.webp',
-    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
-  },
-  {
-    name: '13',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
-    shortlink: '',
-    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
-  },
-  {
     name: '87',
     podlink: '',
     usalink: '',
@@ -640,7 +611,6 @@ export const data = [
     shortlink: '',
     customlink: 'https://hutaw.com/products/mini-foldable-washing-machine-1'
   },
-
   {
     name: '19',
     podlink: '',
