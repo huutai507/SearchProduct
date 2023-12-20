@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '89',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S647eb5868e514cc286b08dc0f1ef1ff2I.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/mini-portable-thermal-printer'
+  },
+  {
     name: '88',
     podlink: '',
     usalink: '',
