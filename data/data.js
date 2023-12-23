@@ -1,5 +1,35 @@
 export const data = [
   {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
+  {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'vacuum.webp',
+    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
+  },
+  {
+    name: '19',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    gif: 'handgif.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+  },
+  {
     name: '91',
     podlink: '',
     usalink: '',
