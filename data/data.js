@@ -30,6 +30,16 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '92',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S90ca72901a7d4f008959e447788f1d84q/New-36mm-Wavy-Hair-Curlers-Curling-Iron-Wave-Volumizing-Hair-Lasting-Styling-Tools-Egg-Roll-Head.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/new-36mm-wavy-hair-curlers'
+  },
+  {
     name: '91',
     podlink: '',
     usalink: '',
