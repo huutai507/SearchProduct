@@ -30,6 +30,16 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '94',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/H6065f7406a394afdbbae374ce11cc85fV/Pet-Hair-Broom-Rubber-Broom-Hand-Push-Sweeper-Broom-Floor-Wiper-Squeegee-for-Floor-Cleaning-Floor.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/squeeze-broom-sweeping-water-and-pet-hair'
+  },
+  {
     name: '93',
     podlink: '',
     usalink: '',
