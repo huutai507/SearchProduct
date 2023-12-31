@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '95',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S3e9d1743a2ce476b8717c057c41eab31z.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/automatic-multifunctional-detachable-juicer-cup'
+  },
+  {
     name: '94',
     podlink: '',
     usalink: '',
