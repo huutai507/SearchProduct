@@ -30,6 +30,15 @@ export const data = [
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
+    name: '98',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S269a34e019fc4b9596e50dc4ea39b480W.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/press-type-sink-wash-basin-water-plug-drain'
+  },
+  {
     name: '97',
     podlink: '',
     usalink: '',
