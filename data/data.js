@@ -19,15 +19,24 @@ export const data = [
     gif: 'vacuum.webp',
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
+
   {
-    name: '19',
+    name: '100',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '',
-    gif: 'handgif.webp',
+    imglink: '//ae01.alicdn.com/kf/S8b271b6a0ce74e0682530db8b64e8fa2J.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+    customlink: 'https://hutaw.com/products/solar-powered-firefly-light'
+  },
+  {
+    name: '99',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S0288e19510ed48c698a596f2539990f3R.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/stainless-steel-finger-protector-anti-cut-finger'
   },
   {
     name: '98',
@@ -750,6 +759,16 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+  },
+  {
+    name: '19',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    gif: 'handgif.webp',
     shortlink: '',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
