@@ -1,25 +1,13 @@
 export const data = [
   {
-    name: '16',
+    name: '85',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '',
+    imglink: '//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg',
     shortlink: '',
-    gif: 'printer.webp',
-    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
   },
-  {
-    name: '16',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '',
-    shortlink: '',
-    gif: 'vacuum.webp',
-    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
-  },
-
   {
     name: '100',
     podlink: '',
@@ -790,6 +778,27 @@ export const data = [
     shortlink: '',
     customlink: 'https://hutaw.com/products/automatic-multifunctional-detachable-juicer-cup'
   },
+  {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
+  {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'vacuum.webp',
+    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
+  },
+
   {
     name: '16',
     podlink: '',
