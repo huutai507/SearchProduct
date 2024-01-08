@@ -1,12 +1,21 @@
 export const data = [
   {
-    name: '85',
+    name: '102',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S6b64147a46fe42f49f50b61478aebd6eA.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
+    customlink: 'https://hutaw.com/products/diy-toy-hand-invented-robot-creative-wind-energy-powered'
+  },
+  {
+    name: '101',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/precision-electric-screwdriver-multifunctional'
   },
   {
     name: '100',
