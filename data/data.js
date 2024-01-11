@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '104',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S06303fae1f6f4b049459f54a5c5203016.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-in-1-charger-devices-phone-charger'
+  },
+  {
     name: '103',
     podlink: '',
     usalink: '',
