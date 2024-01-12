@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '107',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S4f7b00dd7afe40818ebccfd961617e110.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/pedicure-knife-foot-dead-skin-remover'
+  },
+  {
     name: '106',
     podlink: '',
     usalink: '',
