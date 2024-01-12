@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '106',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S85ba0ab5c2e94dfd8ec385ea5757d940D/Antibacterial-Wall-Paint-Waterbased-Repair-Net-with-Rollinsmell-Household-Latex-Paint-White-Small-Roller.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/antibacterial-wall-paint-waterbased-repair'
+  },
+  {
+    name: '105',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S8811728959884ff38587d0c02fd5ade1x.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/5d-massage-memory-foam-insoles-for-shoes'
+  },
+  {
     name: '104',
     podlink: '',
     usalink: '',
