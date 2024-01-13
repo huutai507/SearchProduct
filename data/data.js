@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '108',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S17042669314347fa9308c55208e71139j.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/bathroom-shelves-holder-punch'
+  },
+  {
     name: '107',
     podlink: '',
     usalink: '',
