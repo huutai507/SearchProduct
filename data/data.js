@@ -838,8 +838,8 @@ export const data = [
     usalink: '',
     aliexpress: '',
     imglink: '',
-    gif: 'handgif.webp',
     shortlink: '',
+    gif: 'handgif.webp',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
   },
   {
