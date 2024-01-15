@@ -215,7 +215,7 @@ export default function Home() {
               <div className='product-item' key={index}>
                 <a href={item.customlink} target='_blank'>
                   <a href={item.customlink} target='_blank'>
-                    <img src={item.imglink} className='imglink' />
+                    <img src={item.imglink || item.gif} className='imglink' />
                   </a>
                   <div className='product-text'>
                     <p>
