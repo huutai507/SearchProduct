@@ -14,7 +14,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S82e6fb71da2b434eab90c586634674aea.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S9b4db7213a064128a85a91d19dfee4a7c.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/self-stirring-coffee-mug'
   },
@@ -492,7 +492,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S82e6fb71da2b434eab90c586634674aea.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S9b4db7213a064128a85a91d19dfee4a7c.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/self-stirring-coffee-mug'
   },
