@@ -1,12 +1,12 @@
 export const data = [
   {
-    name: '96',
+    name: '111',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sb7bb1dcd61b94be4a5253872a654c5e44.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
+    customlink: 'https://hutaw.com/products/12-in-1-vegetable-cutter-grater'
   },
   {
     name: '110',
