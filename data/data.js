@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '114',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd95aa73a443f4e6b929063564f8604cfU.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/claw-hammer-multitool-stainless-steel-knife-plier-outdoor-survival-tool'
+  },
+  {
     name: '113',
     podlink: '',
     usalink: '',
