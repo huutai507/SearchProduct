@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '115',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S88499470d92342ff97398b7dbb6454524.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/knee-compression-sleeve-sport-band'
+  },
+  {
     name: '114',
     podlink: '',
     usalink: '',
