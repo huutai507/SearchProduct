@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '117',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S93df7967c1464fe3abea0350b08c67f4x.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/folding-sock-drying-hanger-wall-mount'
+  },
+  {
     name: '116',
     podlink: '',
     usalink: '',
