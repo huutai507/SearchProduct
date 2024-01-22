@@ -4,7 +4,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sce07cb75ed7f40c28c5b510387f397e6m.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sb8bc679f86b04a1c82934605e5168b32f.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/razor-rechargeable-bald-head-shaving-machine-lcd-display'
   },
