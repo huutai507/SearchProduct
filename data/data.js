@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '125',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S292a6e85df9c47eba5e54011ef4131ab3.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/car-window-emergency-breaking-hammer'
+  },
+  {
     name: '124',
     podlink: '',
     usalink: '',
