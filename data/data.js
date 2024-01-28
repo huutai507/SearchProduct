@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '126',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/HTB1EPTyaBv0gK0jSZKbq6zK2FXaS/Foldable-Camping-lamp-Touch-Dimmable-LED-Portable-Lantern-Light-USB-Rechargeable-Tent-Read-Outdoor-Camping-Lantern.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/foldable-touch-dimmable-reading-led-night-light'
+  },
+  {
     name: '125',
     podlink: '',
     usalink: '',
