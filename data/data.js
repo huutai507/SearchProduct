@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '85',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
+  },
+  {
     name: '126',
     podlink: '',
     usalink: '',
