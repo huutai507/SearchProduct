@@ -9,6 +9,24 @@ export const data = [
     customlink: 'https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks'
   },
   {
+    name: '128',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S5da76983e99047d78ff3ae7070d585a4I.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/home-cinema-mini-projetor'
+  },
+  {
+    name: '127',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/A63b3134fb1b44ffc82857aaa32f8ab90V.jpeg_350x350.jpeg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/crevice-cleaning-brush'
+  },
+  {
     name: '126',
     podlink: '',
     usalink: '',
