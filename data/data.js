@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '131',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sb2daae3bebb143398ee64a670e124585T.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-in-1-metal-wireless-charger-fast'
+  },
+  {
     name: '130',
     podlink: '',
     usalink: '',
