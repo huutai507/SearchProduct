@@ -1,15 +1,5 @@
 export const data = [
   {
-    name: '16',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '',
-    shortlink: '',
-    gif: 'printer.webp',
-    customlink: 'https://hutaw.com/products/portable-printer-wireless'
-  },
-  {
     name: '132',
     podlink: '',
     usalink: '',
