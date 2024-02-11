@@ -1067,16 +1067,6 @@ export const data = [
     aliexpress: '',
     imglink: '',
     shortlink: '',
-    gif: 'printer.webp',
-    customlink: 'https://hutaw.com/products/portable-printer-wireless'
-  },
-  {
-    name: '16',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '',
-    shortlink: '',
     gif: 'vacuum.webp',
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
@@ -1090,6 +1080,15 @@ export const data = [
     shortlink: '',
     gif: 'printer.webp',
     customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
+  {
+    name: '16',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S5da76983e99047d78ff3ae7070d585a4I.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/home-cinema-mini-projetor'
   },
   {
     name: '15',
