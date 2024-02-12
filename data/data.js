@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '133',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sbb155f77ee8d44febc4ac9ba39fc646a9.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/peeler-3-in-1-stainless-steel'
+  },
+  {
     name: '132',
     podlink: '',
     usalink: '',
