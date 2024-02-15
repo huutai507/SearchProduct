@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '135',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S85ba0ab5c2e94dfd8ec385ea5757d940D/Antibacterial-Wall-Paint-Waterbased-Repair-Net-with-Rollinsmell-Household-Latex-Paint-White-Small-Roller.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/antibacterial-wall-paint-waterbased-repair'
+  },
+  {
+    name: '134',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S7e87e2cc0c6447a089e7f23cfffef04b2.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/shower-for-bathroom-toilet'
+  },
+  {
     name: '133',
     podlink: '',
     usalink: '',
