@@ -4,6 +4,15 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sfe2887d02cab4e23b7d030ede58a98d6R.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/silicone-scraper-broom-magic-wiper-high-place-glass-wiper-floor-mop'
+  },
+  {
+    name: '136',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S65838526e70f4cb8a9918a5309ed9d91x.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/1296p-hd-otoscope-wifi-visible-earwax'
