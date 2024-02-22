@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '139',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S9b321c2b969f4535a20567250b244db6f.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/squeeze-broom-sweeping-water-and-pet-hair'
+  },
+  {
     name: '138',
     podlink: '',
     usalink: '',
