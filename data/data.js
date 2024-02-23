@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '140',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S6b8d1d78a2414e70967a9aa7c93b91c0C.jpeg_350x350.jpeg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/mini-portable-herb-spice-nut-blender-grinder'
+  },
+  {
     name: '139',
     podlink: '',
     usalink: '',
