@@ -1148,7 +1148,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S5da76983e99047d78ff3ae7070d585a4I.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/Se60bac2d087e4ea2911cd368ed1992c6G.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/home-cinema-mini-projetor'
   },
