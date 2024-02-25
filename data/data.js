@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '141',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sbae23b4f7958435293b97babb08fb37ek.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/portable-folding-bluetooth-mini-keyboard'
+  },
+  {
     name: '140',
     podlink: '',
     usalink: '',
