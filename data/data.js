@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: '142',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S017f4cb72240458988891a71d1b366d7B/360-Foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink:
+      'https://hutaw.com/products/360-foot-air-pressure-leg-massager-promotes-blood-circulation-body-massager-muscle-relaxation-lymphatic-drainage-device-2022'
+  },
+  {
     name: '141',
     podlink: '',
     usalink: '',
