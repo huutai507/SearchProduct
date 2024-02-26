@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '143',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S6b6d28d456b54c7e9831fb423b94f0855/BOW-Foladable-Bluetooth-Keyboard-with-Touchpad-Pocket-Folding-Keyboard-for-Laptop-Phone-Tablet-Wireless-Rechargeable-Keyboard.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/foladable-bluetooth-keyboard-with-touchpad'
+  },
+  {
     name: '142',
     podlink: '',
     usalink: '',
