@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '144',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S65e61dfbb4c2432e862e175db9653eb7y.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/waterfall-kitchen-faucet'
+  },
+  {
     name: '143',
     podlink: '',
     usalink: '',
