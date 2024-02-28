@@ -1,12 +1,61 @@
 export const data = [
   {
-    name: '145',
+    name: '150',
     podlink: '',
     usalink: '',
     aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S6ddd0fb64a2048838e79cc130cd1685c9.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/car-interior-cleaning-tool'
+  },
+  {
+    name: '149',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
+  },
+  {
+    name: '148',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
+  {
+    name: '147',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se60bac2d087e4ea2911cd368ed1992c6G.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/home-cinema-mini-projetor'
+  },
+  {
+    name: '146',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S893d629baee142f79f35b24f70da8209N/Wireless-Mattress-Vacuum-Cleaner-Cordless-Handheld-UV-C-Bed-Dust-Remover-Indepth-Cleaning-Sofa-Specialist-12Kpa.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    gif: 'vacuum.webp',
+    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
+  },
+  {
+    name: '145',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sa299bdcce1ed49049c7f69acd7950f6e3/NiiMbot-B21-Mini-Thermal-Printer-Wireless-Barcode-Label-Maker-Bluetooth-Pocket-Portable-Printer-for-Home-Office.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/mini-portable-thermal-printer'
   },
   {
     name: '144',
