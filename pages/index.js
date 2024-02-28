@@ -167,7 +167,7 @@ export default function Home() {
       </Head>
       <div className='search-bar'>
         <div className='content-title'>
-          <p className='pb-05'>Enter the Reels product code in the search box</p>
+          <p className='pb-05'>Enter the Reels/Posts product code in the search box</p>
           <p className='pb-05-notify'>
             {/* Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos. */}
             <br />
