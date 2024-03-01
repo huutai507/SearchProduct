@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '153',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sc905a882563f449490c5290fd8af40d6I/Leather-Car-Sun-Visor-Glasses-Case-Holder-Sunglasses-Clip-Mount-Multifunction-Portable-Clip-Auto-Interior-Accessories.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/leather-car-sun-visor-glasses-case-holder-sunglasses'
+  },
+  {
     name: '152',
     podlink: '',
     usalink: '',
