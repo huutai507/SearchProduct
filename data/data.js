@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '156',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se8a9b0300eee46a38957f5c0c00b28e5J.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/kitchen-gadgets-2-modes-360-rotatable-bubbler-high-pressure-faucet'
+  },
+  {
+    name: '155',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sb77ee462073d425a813f70594972ef9ab/Manual-Rotary-Fruit-Peeler-Kitchen-Fruit-Apple-Peeler-Machine-Pear-Apple-Slicing-Shaving-Slicer-Kitchen-Accessories.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/manual-rotary-fruit-peeler'
+  },
+  {
     name: '154',
     podlink: '',
     usalink: '',
