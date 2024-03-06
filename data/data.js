@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '158',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sf7a84de4e0984f5da74ddebcd77fc9fdv.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/intelligent-atmosphere-lamp-bluetooth-speaker'
+  },
+  {
     name: '157',
     podlink: '',
     usalink: '',
