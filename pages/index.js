@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Image from 'next/image';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import styles from '../styles/Home.module.css';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
