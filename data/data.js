@@ -1,10 +1,19 @@
 export const data = [
   {
+    name: '159',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/precision-electric-screwdriver-multifunctional'
+  },
+  {
     name: '158',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sf7a84de4e0984f5da74ddebcd77fc9fdv.jpg_400x400.jpg',
+    imglink: '//ae01.alicdn.com/kf/Sf7a84de4e0984f5da74ddebcd77fc9fdv.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/intelligent-atmosphere-lamp-bluetooth-speaker'
   },
