@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '160',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/H5db6849962e245f5bdffbeb9e12ae6384.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/collections/alls/products/magnetic-rechargeable-touch-lamp'
+  },
+  {
     name: '159',
     podlink: '',
     usalink: '',
