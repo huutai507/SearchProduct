@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '161',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S65838526e70f4cb8a9918a5309ed9d91x.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/1296p-hd-otoscope-wifi-visible-earwax'
+  },
+  {
     name: '160',
     podlink: '',
     usalink: '',
