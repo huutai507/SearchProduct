@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '164',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se63d4efc49e44004bd82a3ae223a2d261.jpeg_350x350.jpeg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/rotating-1080-robotic-arm-faucet'
+  },
+  {
+    name: '163',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4215a9d0082f43a69ff22d8c1760ee557/Electric-Wine-Bottle-Opener-Automatic-Red-Wine-Corkscrew-Wine-Opener-with-Charging-Base-Wine-Lover-Rechargeable.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/electric-wine-openers-set'
+  },
+  {
     name: '162',
     podlink: '',
     usalink: '',
