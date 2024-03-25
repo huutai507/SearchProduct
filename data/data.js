@@ -4,7 +4,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sc619a1214eca49689b00dd489c7a2ce4l.png_350x350.png',
+    imglink: '//ae01.alicdn.com/kf/Sf278e1ecde3042818ebccea32f1bb3de5.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/outdoor-yard-rocket-splash-toy'
   },
