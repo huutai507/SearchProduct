@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '175',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S06303fae1f6f4b049459f54a5c5203016.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-in-1-charger-devices-phone-charger'
+  },
+  {
+    name: '174',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S366ed5da950d4d0db433b0e4e1127232I/courtyard-railing-solar-step-LED-outdoor-fence-lamp-waterproof-stair.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/led-solar-lamp-path-staircase-outdoor-waterproof-wall-light'
+  },
+  {
     name: '173',
     podlink: '',
     usalink: '',
