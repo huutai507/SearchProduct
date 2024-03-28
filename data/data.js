@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '176',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd5384b17e6504031869f9ef8693fd452B.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/electronic-kitchen-scale-500g-0-1g-lcd-digital-measuring-food'
+  },
+  {
     name: '175',
     podlink: '',
     usalink: '',
