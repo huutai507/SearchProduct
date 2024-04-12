@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '180',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S16d274e854ff416a87c47cc5567c9f2cP.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/new-36mm-wavy-hair-curlers'
+  },
+  {
     name: '179',
     podlink: '',
     usalink: '',
