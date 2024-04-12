@@ -4,7 +4,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S442c966370c84e5ea84dfe8a7ec01ff69.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S670b24b53ce14e18ab46796898d9b29a5.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/grand-canal-underwear-cleaning-soap'
   },
