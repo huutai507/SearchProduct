@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '186',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/H8bb882bab9ec4475b3086cbc0f79417dD.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/anti-thief-door-stop-alarm'
+  },
+  {
     name: '185',
     podlink: '',
     usalink: '',
