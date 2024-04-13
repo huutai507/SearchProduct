@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '187',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sa416b84a54254a2d81f2bb11a6147a25a.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/wireless-portable-juice-machine'
+  },
+  {
     name: '186',
     podlink: '',
     usalink: '',
