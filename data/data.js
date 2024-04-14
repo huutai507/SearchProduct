@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '188',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S9b4db7213a064128a85a91d19dfee4a7c.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/self-stirring-coffee-mug'
+  },
+  {
     name: '187',
     podlink: '',
     usalink: '',
