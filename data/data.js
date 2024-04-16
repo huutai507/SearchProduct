@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '189',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S679c4616d67d484d95a7cc3373a1f978A.png_350x350.png',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/automatic-scrolling-egg-rack-holder-storage-box'
+  },
+  {
     name: '188',
     podlink: '',
     usalink: '',
