@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '192',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S1560a579756140078343f86ed5575f72k.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/sun-side-window-shade-curtain'
+  },
+  {
     name: '191',
     podlink: '',
     usalink: '',
