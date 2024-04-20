@@ -1,14 +1,5 @@
 export const data = [
   {
-    name: '194',
-    podlink: '',
-    usalink: '',
-    aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S952dfcbdea444e89b5e0bbe3e2a3b6fbQ.jpg_350x350.jpg',
-    shortlink: '',
-    customlink: 'https://hutaw.com/products/4k-glasses-mini-camera-outdoor-sport'
-  },
-  {
     name: '193',
     podlink: '',
     usalink: '',
