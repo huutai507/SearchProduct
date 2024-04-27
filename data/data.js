@@ -1,12 +1,12 @@
 export const data = [
   {
-    name: '193',
+    name: '194',
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/Sb2daae3bebb143398ee64a670e124585T.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S4f7b00dd7afe40818ebccfd961617e110.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/3-in-1-metal-wireless-charger-fast'
+    customlink: 'https://hutaw.com/products/pedicure-knife-foot-dead-skin-remover'
   },
   {
     name: '192',
