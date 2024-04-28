@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '197',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Hd8d52e7b4a0240d0b21b51d2b981b38eZ/105-Degree-Angle-Screwdriver-Set-Holder-Adapter-Adjustable-Bits-Nozzles-Angle-Screw-Driver-Tool-1-4.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/angle-screw-driver-tool-1-4-inch-magnetic-angle-driver'
+  },
+  {
+    name: '196',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S031a9e6bc5394765b60cc1fe99d9a1baf.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/cute-owl-key-hook'
+  },
+  {
     name: '195',
     podlink: '',
     usalink: '',
