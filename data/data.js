@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '195',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S4c173cf284c04252a7dc406bca375031w.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/180-in-1-multifunctional-precision-screwdriver-tool-set'
+  },
+  {
     name: '194',
     podlink: '',
     usalink: '',
