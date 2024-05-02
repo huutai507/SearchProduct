@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '199',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S70738568f16e4e19b4ce4a025747ab0b7.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/car-sunshade-umbrella'
+  },
+  {
     name: '198',
     podlink: '',
     usalink: '',
