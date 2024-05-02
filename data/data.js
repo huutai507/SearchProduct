@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '198',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S36f01688cfbb401794de68aadde3c03d0/Electric-Shoe-Dryer-Boot-Warmer-Shoe-UV-Foot-Boot-Dryer-Eliminate-Odor-Fast-Drying-Boot-Deodorizer.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/smart-electric-shoe-drying-deodorizer'
+  },
+  {
     name: '197',
     podlink: '',
     usalink: '',
