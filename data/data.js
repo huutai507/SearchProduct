@@ -1,5 +1,34 @@
 export const data = [
   {
+    name: '203',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '',
+    shortlink: '',
+    gif: 'printer.webp',
+    customlink: 'https://hutaw.com/products/portable-printer-wireless'
+  },
+  {
+    name: '202',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S85ba0ab5c2e94dfd8ec385ea5757d940D/Antibacterial-Wall-Paint-Waterbased-Repair-Net-with-Rollinsmell-Household-Latex-Paint-White-Small-Roller.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/antibacterial-wall-paint-waterbased-repair'
+  },
+  {
+    name: '201',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S88499470d92342ff97398b7dbb6454524.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/knee-compression-sleeve-sport-band'
+  },
+  {
     name: '200',
     podlink: '',
     usalink: '',
