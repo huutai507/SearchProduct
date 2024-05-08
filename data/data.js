@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '206',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sedf2bbf02cdf43839255d5d7851ac73dR.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/kitchen-space-aluminum-sink-faucet-storage-rack'
+  },
+  {
     name: '205',
     podlink: '',
     usalink: '',
