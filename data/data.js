@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '208',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S3c706524a15441bebad0492af21fc04fQ.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/hand-lifting-tool-labor-saving-arm-jack'
+  },
+  {
     name: '207',
     podlink: '',
     usalink: '',
