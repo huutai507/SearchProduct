@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '209',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S5491c5de6a79491c8e1088f0a054e8e2U.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/portable-mini-fan-usb-rechargeable'
+  },
+  {
     name: '208',
     podlink: '',
     usalink: '',
