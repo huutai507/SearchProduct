@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '210',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Secbfecc4e5d34a4f945133140f359c8eQ/600ML-Juicer-Cup-High-Capacity-Portable-Blender-Mixer-Smoothie-Fruit-Juice-Extractor-Electric-Citrus-Press-Sport.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/juicer-cup-high-capacity-portable'
+  },
+  {
     name: '209',
     podlink: '',
     usalink: '',
