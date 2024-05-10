@@ -252,9 +252,9 @@ export default function Home() {
                       </a>
                       <div className='product-text'>
                         {item.sameproduct && <h6 className='mt-5'>Similar products</h6>}
-                        <p>
+                        {/* <p>
                           <span className='code'>{item.name}</span>
-                        </p>
+                        </p> */}
                         {item.customlink && (
                           <>
                             <a href={item.customlink} target='_blank' className='custom-button aliexpress'>

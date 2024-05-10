@@ -105,9 +105,10 @@ img {
 .product-text {
   display: flex;
   flex-direction: column;
+  font-weight: 600;
   font-size: 18px;
   align-items: center;
-  padding: 0 0.5rem;
+  padding: 0.5rem 0.5rem;
   line-height: 16px;
   overflow: hidden;
 }
