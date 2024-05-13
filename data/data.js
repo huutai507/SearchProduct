@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '213',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/electric-rechargeable-lint-remover'
+  },
+  {
     name: '212',
     podlink: '',
     usalink: '',
