@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '216',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S1c91b9522811447d902492750d18cc60B.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/lawn-swing-sprinkler-automatic'
+  },
+  {
+    name: '215',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sb0d62a21a28849ff8635e4862ce944d8D.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/led-40w-ceiling-fan-light-e27-with-remote-control-for-dimming'
+  },
+  {
     name: '214',
     podlink: '',
     usalink: '',
