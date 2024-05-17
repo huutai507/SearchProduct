@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '220',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sb90ad868f1274ed880ec2e88086df3984.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/car-windshield-sun-shade-cover'
+  },
+  {
     name: '219',
     podlink: '',
     usalink: '',
