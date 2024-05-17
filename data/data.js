@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: '219',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/Sc436e75225f74d9e987ae401dadfc267q/Remote-Control-Multifunctional-Dryer-Electric-Clothes-Home-Cabinet-Floor-Machine-Laundry-Dryers-Warm-Air-Dryer-With.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/multifunctional-dryer-electric-clothes-air-dryer-machine'
+  },
+  {
     name: '218',
     podlink: '',
     usalink: '',
