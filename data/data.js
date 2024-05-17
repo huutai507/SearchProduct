@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '218',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sdb694208aeca4cb49278dc0e89b5351bf.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-modles-adjustment-high-pressure-water'
+  },
+  {
     name: '217',
     podlink: '',
     usalink: '',
