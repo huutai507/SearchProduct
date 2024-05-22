@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '226',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable'
+  },
+  {
+    name: '225',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4215a9d0082f43a69ff22d8c1760ee557/Electric-Wine-Bottle-Opener-Automatic-Red-Wine-Corkscrew-Wine-Opener-with-Charging-Base-Wine-Lover-Rechargeable.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/electric-wine-openers-set'
+  },
+  {
     name: '224',
     podlink: '',
     usalink: '',
