@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '224',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S333c9cf7791a4e4f8a30a89b5f589b7bV.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/portable-usb-automatic-juicer'
+  },
+  {
     name: '223',
     podlink: '',
     usalink: '',
