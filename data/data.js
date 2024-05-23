@@ -4,6 +4,17 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S893d629baee142f79f35b24f70da8209N/Wireless-Mattress-Vacuum-Cleaner-Cordless-Handheld-UV-C-Bed-Dust-Remover-Indepth-Cleaning-Sofa-Specialist-12Kpa.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    gif: 'vacuum.webp',
+    customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
+  },
+  {
+    name: '999',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
     imglink: '//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/rehabilitation-robot-glove-hand'
