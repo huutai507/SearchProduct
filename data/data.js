@@ -20,6 +20,24 @@ export const data = [
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
+    name: '228',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sde1a4e73aa144041a48e97c59451c169L.png_350x350.png',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/2in1-500ml-plastic-spray-oil-sprayer-bottle'
+  },
+  {
+    name: '227',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Saae2a3c154b04193b901393b1f2ab45f2.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/intelligent-car-mount-mobile-phone-holder-magnetic'
+  },
+  {
     name: '226',
     podlink: '',
     usalink: '',

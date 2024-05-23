@@ -218,9 +218,9 @@ export default function Home() {
                     <img src={item.imglink || item.gif} className='imglink' />
                   </a>
                   <div className='product-text'>
-                    <p>
+                    {/* <p>
                       <span className='code'>{item.name}</span>
-                    </p>
+                    </p> */}
                     {item.customlink && (
                       <>
                         <a href={item.customlink} target='_blank' className='custom-button aliexpress'>
