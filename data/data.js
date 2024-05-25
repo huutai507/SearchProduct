@@ -19,6 +19,34 @@ export const data = [
     customlink: 'https://hutaw.com/products/wireless-mitter-division-artifact'
   },
   {
+    name: '233',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se0874ec27b8f4dbaa57ba2235b9321e53.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/household-multi-function-hook'
+  },
+  {
+    name: '232',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S7e7f2296dde94c2a81e27c69d5a3dd9bj/Nordic-LED-360-Rotation-Bird-Wall-Lights-Parlor-Bedside-Hanging-Light-Novelty-Rotatable-Wall-Lamp-Bedroom.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/creative-pendant-light-mo'
+  },
+  {
+    name: '231',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S32ba5bac40df474f9d3ca2b52da65b0dE.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/bird-led-golden-creative'
+  },
+  {
     name: '230',
     podlink: '',
     usalink: '',
