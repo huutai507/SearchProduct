@@ -1283,9 +1283,9 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S3e9d1743a2ce476b8717c057c41eab31z.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S333c9cf7791a4e4f8a30a89b5f589b7bV.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/automatic-multifunctional-detachable-juicer-cup'
+    customlink: 'https://hutaw.com/products/portable-usb-automatic-juicer'
   },
   {
     name: '94',
@@ -1998,9 +1998,9 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S3e9d1743a2ce476b8717c057c41eab31z.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S333c9cf7791a4e4f8a30a89b5f589b7bV.jpg_350x350.jpg',
     shortlink: '',
-    customlink: 'https://hutaw.com/products/automatic-multifunctional-detachable-juicer-cup'
+    customlink: 'https://hutaw.com/products/portable-usb-automatic-juicer'
   },
   {
     name: '16',
