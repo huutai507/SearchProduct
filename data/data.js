@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '236',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sedae74838b3341cc962beb864c8df3b1T.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/multifunctional-deep-cleaning-crevice-brush'
+  },
+  {
+    name: '235',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S6cfd7946720243139eaed4d364edc6586.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/winter-thick-plush-sofa-cushion'
+  },
+  {
     name: '234',
     podlink: '',
     usalink: '',
