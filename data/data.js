@@ -1,5 +1,24 @@
 export const data = [
   {
+    name: '238',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink:
+      'https://ae01.alicdn.com/kf/S4ebbe86da6b446dd96cb6546668794bdX/3-In-1-Glass-Cleaning-with-Spray-Bottle-Wipe-Shower-Screen-Clean-Window-Cleaning-Tool-Multi.jpg_350x350.jpg_.webp',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/3-in-1-glass-cleaning-with-spray-bottle'
+  },
+  {
+    name: '237',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/bathroom-suction-cup-storage-rack'
+  },
+  {
     name: '236',
     podlink: '',
     usalink: '',
