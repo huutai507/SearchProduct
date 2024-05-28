@@ -1,5 +1,23 @@
 export const data = [
   {
+    name: '240',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Se27674d83e5f481ab54687dc426cbc682.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/chicken-meat-shredder-kitchen-cutting-tool'
+  },
+  {
+    name: '239',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/H8bb882bab9ec4475b3086cbc0f79417dD.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/anti-thief-door-stop-alarm'
+  },
+  {
     name: '238',
     podlink: '',
     usalink: '',
