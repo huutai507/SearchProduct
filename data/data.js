@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '242',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/S49868cf8cdb84096bc31dde83e69e39fV.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/multi-functional-mini-mop'
+  },
+  {
     name: '241',
     podlink: '',
     usalink: '',
