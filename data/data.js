@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '241',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sf04b9ce3902a438bbaac6887b42cc84cZ.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/suction-mop-clamp-wall'
+  },
+  {
     name: '240',
     podlink: '',
     usalink: '',
