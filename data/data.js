@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: '245',
+    podlink: '',
+    usalink: '',
+    aliexpress: '',
+    imglink: '//ae01.alicdn.com/kf/Sc2b9f6bbc3f2447780fe373c722d452du.jpg_350x350.jpg',
+    shortlink: '',
+    customlink: 'https://hutaw.com/products/cleaning-brush-suede-deerskin-fabrics'
+  },
+  {
     name: '244',
     podlink: '',
     usalink: '',
