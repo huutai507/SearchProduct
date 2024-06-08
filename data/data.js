@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "248",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S377e863f8ac740be8f86b59d9e98b8c0R.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/sucker-soap-box-wall-mounted"
+  },
+  {
     name: "247",
     podlink: "",
     usalink: "",
