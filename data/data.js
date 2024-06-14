@@ -1,5 +1,35 @@
 export const data = [
   {
+    name: "254",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se60bac2d087e4ea2911cd368ed1992c6G.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/home-cinema-mini-projetor"
+  },
+  {
+    name: "253",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/Sc719966dc308434aa4e97106e5af1920E.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/5-1-all-purpose-versatile-tool-kit"
+  },
+  {
+    name: "252",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S91408e13f86c422bb31f42da41108364U.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/1-pair-foot-care-socks"
+  },
+  {
     name: "251",
     podlink: "",
     usalink: "",
