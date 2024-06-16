@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "257",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sc5e49b443b5647ee8e9586e3f9cb3659f.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-solar-lamp-outdoor-waterproof-intelligent-induction"
+  },
+  {
     name: "256",
     podlink: "",
     usalink: "",
