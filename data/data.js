@@ -7,7 +7,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sbfc99746981748d6a9b84d52a27f04b0e.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/wooden-essential-oil-aromatherapy"
+    customlink: "https://hutaw.com/products/travel-soap-dish-with-water-drain"
   },
   {
     name: "258",
