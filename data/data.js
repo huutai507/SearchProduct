@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "260",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1a3221e3deb64babb3bfc406437cf11fj.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/home-wall-mounted-underwear-storage-box"
+  },
+  {
     name: "259",
     podlink: "",
     usalink: "",
