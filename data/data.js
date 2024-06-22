@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "263",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+  },
+  {
     name: "262",
     podlink: "",
     usalink: "",
