@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "267",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2b610dac157f415da93a033d9df5d343F.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/reuable-hair-removal"
+  },
+  {
+    name: "266",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+  },
+  {
     name: "265",
     podlink: "",
     usalink: "",
