@@ -5,9 +5,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae01.alicdn.com/kf/Secbfecc4e5d34a4f945133140f359c8eQ/600ML-Juicer-Cup-High-Capacity-Portable-Blender-Mixer-Smoothie-Fruit-Juice-Extractor-Electric-Citrus-Press-Sport.jpg_350x350.jpg_.webp",
+      "//ae01.alicdn.com/kf/S333c9cf7791a4e4f8a30a89b5f589b7bV.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/juicer-cup-high-capacity-portable"
+    customlink: "https://hutaw.com/products/portable-usb-automatic-juicer"
   },
   {
     name: "267",
