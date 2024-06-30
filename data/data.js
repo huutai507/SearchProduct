@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "270",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Scefdf4fc260c4b1f8f8093e9cd358044D.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/brass-water-saving-faucet-aerator-360-swivel-tap"
+  },
+  {
     name: "269",
     podlink: "",
     usalink: "",
