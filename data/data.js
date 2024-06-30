@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "271",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S4914ed4b0326410f9c3746ecb7092a81R.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/detachable-anti-scalding-pan-handle-clip"
+  },
+  {
     name: "270",
     podlink: "",
     usalink: "",
