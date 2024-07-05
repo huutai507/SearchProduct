@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "278",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sb22c6810dfaa4a9d9777c9af32bd44a7O.jpg_350x350.jpg",
+    shortlink: "",
+    gif: "",
+    customlink: "https://hutaw.com/products/cherry-core-seed-remover"
+  },
+  {
+    name: "277",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink: "",
+    shortlink: "",
+    gif: "printer.webp",
+    customlink: "https://hutaw.com/products/portable-printer-wireless"
+  },
+  {
     name: "276",
     podlink: "",
     usalink: "",
