@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "279",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+  },
+  {
+    name: "279",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sad797f3214cc4de6a67353ca78a2002eH.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/vacuum-suction-cup-bathroom-corner-shelf"
+  },
+  {
     name: "278",
     podlink: "",
     usalink: "",
