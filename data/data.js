@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "290",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2d5c2153532d43c59c0add8ea68a9dfcZ.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://s.click.aliexpress.com/e/_DBQPmwr"
+  },
+  {
+    name: "289",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sdff2b0fb0e97412b87419f4397697ee6S.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/high-pressure-5-mode-water-saving-black-shower-head"
+  },
+  {
     name: "288",
     podlink: "",
     usalink: "",
