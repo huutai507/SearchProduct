@@ -1,5 +1,27 @@
 export const data = [
   {
+    name: "299",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9c3ba01a1f8e433e84e9c2904fa048eeF.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/camping-gas-stove-2670w-portable-folding"
+  },
+  {
+    name: "298",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2848524911374ce2aed775fce874e103h.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/vacuum-sealing-machine-with-30cm-sealing"
+  },
+  {
     name: "297",
     podlink: "",
     usalink: "",
