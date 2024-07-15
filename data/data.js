@@ -152,7 +152,8 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S60577d1e1d8d4fc1a87dc7bd9bb55816b.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_De993dZ"
+    customlink:
+      "https://hutaw.com/products/multi-function-basin-faucet-4-modes-360-rotation-hot-cold"
   },
   {
     name: "285",
