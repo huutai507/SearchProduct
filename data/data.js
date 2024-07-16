@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "301",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9efa27845e2544549c796606de86e1f2A.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/magnetic-hand-couple-creative-funny-socks"
+  },
+  {
     name: "300",
     podlink: "",
     usalink: "",
