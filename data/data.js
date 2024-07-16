@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "303",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6f1f39b8d3794de4b3a409c8bf7e2e3eg.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3d-magnetic-eyelashes-with-magnets-makeup"
+  },
+  {
     name: "302",
     podlink: "",
     usalink: "",
@@ -151,17 +162,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S91409f6f620948609d1a8679e23f51f7O.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_DepXap5"
-  },
-  {
-    name: "288",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S3c4d392ec9c4440c8a92809d501f87e3R.jpg_350x350.jpg",
+      "//ae01.alicdn.com/kf/S689cddc6e7d14bea8db32118dbbb5f9aI.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://s.click.aliexpress.com/e/_Dm7tjOx"
   },
