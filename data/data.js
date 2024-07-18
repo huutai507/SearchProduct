@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "306",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1c91b9522811447d902492750d18cc60B.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/lawn-swing-sprinkler-automatic"
+  },
+  {
+    name: "305",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1a3221e3deb64babb3bfc406437cf11fj.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/home-wall-mounted-underwear-storage-box"
+  },
+  {
     name: "304",
     podlink: "",
     usalink: "",
