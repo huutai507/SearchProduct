@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "307",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S23b5ebb66423460da854f618ebc67f87K.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/a-tool-for-changing-mattress"
+  },
+  {
     name: "306",
     podlink: "",
     usalink: "",
