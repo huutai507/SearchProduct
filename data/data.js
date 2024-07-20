@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "309",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2b963c987be84d36b80e5d5974f5ff62E.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/retractable-gap-dust-cleaner"
+  },
+  {
     name: "308",
     podlink: "",
     usalink: "",
