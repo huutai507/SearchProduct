@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "310",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se554b850b306446993b31ca4b1f5d9f60.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/smart-boxing-trainer-bluetooth-with-light-modes"
+  },
+  {
     name: "309",
     podlink: "",
     usalink: "",
@@ -269,7 +280,8 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Se554b850b306446993b31ca4b1f5d9f60.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_DeK1QWr"
+    customlink:
+      "https://hutaw.com/products/smart-boxing-trainer-bluetooth-with-light-modes"
   },
   {
     name: "283",
