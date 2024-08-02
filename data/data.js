@@ -35,6 +35,16 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
+      "//ae01.alicdn.com/kf/S54792bba273b419bb77851d291841f2b5.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://bit.ly/3LL3XWK"
+  },
+  {
+    name: "313",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
       "//ae01.alicdn.com/kf/Se6f48fdc35af4ba4acf3b37794fefe67X.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://s.click.aliexpress.com/e/_DmZXDCj"
