@@ -560,8 +560,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
   },
   {
     name: "265",
@@ -1567,8 +1566,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
   },
   {
     name: "168",
@@ -2347,8 +2345,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
   },
   {
     name: "96",
@@ -2765,8 +2762,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
   },
   {
     name: "57",
@@ -3228,8 +3224,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-drain-basket-drain-bowl-household-sink-vegetable-basin-kitchen-washing-fruit-plate-plastic"
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
   },
   {
     name: "14",
