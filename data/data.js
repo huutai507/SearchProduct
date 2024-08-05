@@ -1,6 +1,17 @@
 export const data = [
   {
-    name: "321s",
+    name: "322",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2b633e5d1afa4dd990e20bf34ea0581dC.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/rechargeable-uv-toothbrush-sterilizer-box"
+  },
+  {
+    name: "321",
     podlink: "",
     usalink: "",
     aliexpress: "",
