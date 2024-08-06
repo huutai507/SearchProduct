@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "323",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se63d4efc49e44004bd82a3ae223a2d261.jpeg_350x350.jpeg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/rotating-1080-robotic-arm-faucet"
+  },
+  {
     name: "322",
     podlink: "",
     usalink: "",
