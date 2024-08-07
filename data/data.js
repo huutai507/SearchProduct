@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "326",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2f89d058f14248a09c1e0014c326706aE.jpg_400x400.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/smart-sensor-dispenser-for-sanitizer-soap-shampoo"
+  },
+  {
     name: "325",
     podlink: "",
     usalink: "",
