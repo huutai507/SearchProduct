@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "327",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2f8986321c4a4671b097d14f991f4b19A.jpg_400x400.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/led-night-light-with-smart-sensor"
+  },
+  {
     name: "326",
     podlink: "",
     usalink: "",
