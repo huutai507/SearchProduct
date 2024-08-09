@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "329",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf97438ce77aa45638361496ef4cef206h.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/food-grade-leak-proof-oil-bottle-stopper"
+  },
+  {
     name: "328",
     podlink: "",
     usalink: "",
