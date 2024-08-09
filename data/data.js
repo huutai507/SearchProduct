@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "328",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sf04f3dcb5cb34d1685d7b59bf5d9262cT.jpg_400x400.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/electric-nail-clipper-pro"
+  },
+  {
     name: "327",
     podlink: "",
     usalink: "",
