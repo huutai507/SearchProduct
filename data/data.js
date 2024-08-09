@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "330",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S59c5ca957f564f3f98acb7ef333e3612V.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multi-purpose-hanging-net-filter-bag-for-kitchen-sink"
+  },
+  {
     name: "329",
     podlink: "",
     usalink: "",
