@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "331",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S024b7b73974b40119787309bfa461f51z.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/2in1-500ml-glass-spray-oil-sprayer-bottle"
+  },
+  {
     name: "330",
     podlink: "",
     usalink: "",
