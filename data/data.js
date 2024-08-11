@@ -5,7 +5,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "/ae01.alicdn.com/kf/S511655426bd4419bb24f20e3f594471cg.jpg_350x350.jpg",
+      "//ae01.alicdn.com/kf/S511655426bd4419bb24f20e3f594471cg.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/3-speed-pressurized-faucet-extender"
   },
