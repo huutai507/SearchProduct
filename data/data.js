@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "334",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6cfd7946720243139eaed4d364edc6586.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/winter-thick-plush-sofa-cushion"
+  },
+  {
     name: "333",
     podlink: "",
     usalink: "",
