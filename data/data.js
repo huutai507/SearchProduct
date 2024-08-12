@@ -5,7 +5,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "/ae01.alicdn.com/kf/Se3b036c8f3954da8baada9888eaa31130.jpg_350x350.jpg",
+      "//ae01.alicdn.com/kf/Se3b036c8f3954da8baada9888eaa31130.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/car-seat-suede-hook"
   },
