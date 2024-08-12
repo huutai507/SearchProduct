@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "335",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se60bac2d087e4ea2911cd368ed1992c6G.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/home-cinema-mini-projetor"
+  },
+  {
     name: "334",
     podlink: "",
     usalink: "",
