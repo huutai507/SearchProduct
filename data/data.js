@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "336",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S7c258537b7004b67b5230724c1834963Q.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/4pcs-wooden-tree-design-coasters"
+  },
+  {
     name: "335",
     podlink: "",
     usalink: "",
