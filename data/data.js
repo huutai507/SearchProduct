@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "339",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S91408e13f86c422bb31f42da41108364U.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/1-pair-foot-care-socks"
+  },
+  {
+    name: "339",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S3abb98745b0c485398ccb38c94be5d21y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/spa-silicone-socks-moisturizing-gel-socks"
+  },
+  {
     name: "338",
     podlink: "",
     usalink: "",
