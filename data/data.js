@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "338",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se4a4747362034a3d841fe0b0c6b9d5f1v.png_350x350.png",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/5pcs-crevice-cleaning-brush"
+  },
+  {
     name: "337",
     podlink: "",
     usalink: "",
