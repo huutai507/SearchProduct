@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "340",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9a1768d9327b425b97a14b7f11edc0b0A.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/the-mini-pixel"
+  },
+  {
     name: "339",
     podlink: "",
     usalink: "",
