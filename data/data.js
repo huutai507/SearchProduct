@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "342",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S3120cf880b264de99be03808b6cf4d39C.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/tongue-kiss-slippers-big-eye-dog-slippers"
+  },
+  {
     name: "341",
     podlink: "",
     usalink: "",
