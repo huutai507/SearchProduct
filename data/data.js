@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "341",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S55e0a5d6decb4e4a8cf4b1d9f132f6a1d.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/silicone-non-slip-foot-massage-mat"
+  },
+  {
     name: "340",
     podlink: "",
     usalink: "",
