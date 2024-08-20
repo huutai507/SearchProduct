@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "360",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S60577d1e1d8d4fc1a87dc7bd9bb55816b.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multi-function-basin-faucet-4-modes-360-rotation-hot-cold"
+  },
+  {
     name: "345",
     podlink: "",
     usalink: "",
