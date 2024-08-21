@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "348",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S630f8a9d990b4403b1ae96ae75fe9affG.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/portable-washing-machine"
+  },
+  {
     name: "347",
     podlink: "",
     usalink: "",
