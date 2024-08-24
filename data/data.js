@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "351",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+  },
+  {
     name: "350",
     podlink: "",
     usalink: "",
