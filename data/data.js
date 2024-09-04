@@ -5,10 +5,20 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/Sf1183bc55a7a46b39a2035bd1e183891B.jpg_350x350.jpg_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S0be2d31d2d19497183fa6ae2b2b62d2bZ.jpg_350x350.jpg_.webp",
     shortlink: "",
     customlink:
       "https://hutaw.com/products/wall-mounted-retractable-clothes-hanger"
+  },
+  {
+    name: "361",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S03be261fa5a1492cae19ea0cf53104683.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/aluminum-alloy-folding-drying-rack"
   },
   {
     name: "360",
