@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "361",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sf1183bc55a7a46b39a2035bd1e183891B.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/wall-mounted-retractable-clothes-hanger"
+  },
+  {
     name: "360",
     podlink: "",
     usalink: "",
