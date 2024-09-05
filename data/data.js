@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "363",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S456141dd986940678463a66f17f4f6a06.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/safety-door-lock"
+  },
+  {
+    name: "362",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S7d9e10e984f447c2ab9c69fe028509e6S.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-self-stirring-shaker-cup-usb-rechargeable"
+  },
+  {
     name: "361",
     podlink: "",
     usalink: "",
