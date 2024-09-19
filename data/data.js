@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "372",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf1d0f281bad743a3a0d4fa303693d29cY.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/12pcs-magnetic-hooks-wall-mount-strong-magnet-holder"
+  },
+  {
     name: "371",
     podlink: "",
     usalink: "",
