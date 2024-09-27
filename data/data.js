@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "378",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S78111e57aaad48379d43f132415a052e0.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/transparent-hair-dryer-holder-wall-mounted-punch-free"
+  },
+  {
     name: "377",
     podlink: "",
     usalink: "",
