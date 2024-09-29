@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "379",
+    name: "381",
     podlink: "",
     usalink: "",
     aliexpress: "",
@@ -9,6 +9,17 @@ export const data = [
     shortlink: "",
     customlink: "https://hutaw.com/products/gun-muscle-massager-relax-body"
   },
+  {
+    name: "380",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6ddd0fb64a2048838e79cc130cd1685c9.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-interior-cleaning-tool"
+  },
+
   {
     name: "378",
     podlink: "",
