@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "385",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S55e8f3e4dd7b4315b115833a3e309f390/Phomemo-M08F-A4-Portable-Thermal-Printer-Supports-8-26-x11-69-A4-Thermal-Paper-Wireless-Mobile.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    gif: "",
+    customlink: "https://hutaw.com/products/portable-printer-wireless"
+  },
+  {
     name: "384",
     podlink: "",
     usalink: "",
