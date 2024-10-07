@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "387",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S3c4d392ec9c4440c8a92809d501f87e3R.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/stainless-steel-household-ice-cream-pan"
+  },
+  {
     name: "386",
     podlink: "",
     usalink: "",
