@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "389",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sa1b71f9b0a764abba36620531720d4ca1.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/solar-outdoor-light-122-333-led"
+  },
+  {
     name: "388",
     podlink: "",
     usalink: "",
