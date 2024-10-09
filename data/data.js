@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "390",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S46c986d9f8394ced9ec78ee699eda552P.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/round-spiral-quilt-sheets-hanger"
+  },
+  {
     name: "389",
     podlink: "",
     usalink: "",
