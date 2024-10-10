@@ -1,5 +1,27 @@
 export const data = [
   {
+    name: "293",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S893d629baee142f79f35b24f70da8209N/Wireless-Mattress-Vacuum-Cleaner-Cordless-Handheld-UV-C-Bed-Dust-Remover-Indepth-Cleaning-Sofa-Specialist-12Kpa.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    gif: "vacuum.webp",
+    customlink: "https://hutaw.com/products/wireless-mitter-division-artifact"
+  },
+  {
+    name: "392",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf97438ce77aa45638361496ef4cef206h.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/food-grade-leak-proof-oil-bottle-stopper"
+  },
+  {
     name: "391",
     podlink: "",
     usalink: "",
