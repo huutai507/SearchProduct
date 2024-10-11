@@ -1,5 +1,17 @@
 export const data = [
   {
+    name: "294",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "/ae01.alicdn.com/kf/S5b9aa99e26fc4a37a68b43c6e00d03bc6.jpg_350x350.jpg",
+    shortlink: "",
+    gif: "vacuum.webp",
+    customlink:
+      "https://hutaw.com/products/magic-double-sided-steel-wire-cleaning-cloth"
+  },
+  {
     name: "293",
     podlink: "",
     usalink: "",
