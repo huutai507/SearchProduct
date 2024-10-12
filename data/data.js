@@ -1,5 +1,17 @@
 export const data = [
   {
+    name: "395",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf0a7441383f24ea7b547c1ffc263c979t.jpg_350x350.jpg",
+    shortlink: "",
+    gif: "vacuum.webp",
+    customlink:
+      "https://hutaw.com/products/10pcs-black-orange-grey-multifunctional-wet-and-dry-household-hanger-suitable-for-hanging-clothes-bedroom-wardrobe-anti-slip"
+  },
+  {
     name: "394",
     podlink: "",
     usalink: "",
