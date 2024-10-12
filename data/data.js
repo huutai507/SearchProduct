@@ -1,5 +1,17 @@
 export const data = [
   {
+    name: "396",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Scd2d88cb73d34635b19f213d7abda19e0.jpg_350x350.jpg",
+    shortlink: "",
+    gif: "vacuum.webp",
+    customlink:
+      "https://hutaw.com/products/interesting-bread-toast-phone-case-for-iphone"
+  },
+  {
     name: "395",
     podlink: "",
     usalink: "",
