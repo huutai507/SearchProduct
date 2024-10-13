@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "398",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2dea4a8989b244e8909a8126face46f8W.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/rehabilitation-robot-glove-hand"
+  },
+  {
+    name: "397",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd6bafc19b29445dd83cd216a8b812b4dY.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/15w-fast-wireless-car-charger-phone-mount-automatic-rotation"
+  },
+  {
     name: "396",
     podlink: "",
     usalink: "",
