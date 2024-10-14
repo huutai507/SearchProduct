@@ -203,7 +203,17 @@ export const data = [
     shortlink: "",
     customlink: "https://hutaw.com/products/car-interior-cleaning-tool"
   },
-
+  {
+    name: "378",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd6bafc19b29445dd83cd216a8b812b4dY.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/15w-fast-wireless-car-charger-phone-mount-automatic-rotation"
+  },
   {
     name: "378",
     podlink: "",
