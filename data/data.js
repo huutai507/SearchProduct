@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "402",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S98f6f0559904496cb7ad5b737fab764f5.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/stainless-steel-food-storage-box-with-lid"
+  },
+  {
     name: "401",
     podlink: "",
     usalink: "",
