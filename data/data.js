@@ -5,10 +5,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/Sead86dc904ec49488d8dac87f0c778e28.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S269dfaa7bb524a208214a1583fee5a83i.jpg_350x350.jpg_.webp",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/folding-mini-wireless-bluetooth-keyboard-with-magnetic-stand-aluminum-alloy"
+    customlink: "https://hutaw.com/products/aluminum-alloy-folding-drying-rack"
   },
   {
     name: "405",
