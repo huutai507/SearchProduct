@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "408",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S101bb7e505f949148bfcc2bb94a2ae71R.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multi-functional-draining-basket"
+  },
+  {
+    name: "407",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sedf2bbf02cdf43839255d5d7851ac73dR.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/kitchen-space-aluminum-sink-faucet-storage-rack"
+  },
+  {
     name: "406",
     podlink: "",
     usalink: "",
