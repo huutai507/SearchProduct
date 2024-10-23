@@ -1,25 +1,5 @@
 export const data = [
   {
-    name: "410",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "https://img.kwcdn.com/product/fancy/1604add0-ca22-4b4f-8321-78329f108340.jpg?imageView2/2/w/800/q/70/format/webp",
-    shortlink: "",
-    customlink: "https://temu.to/k/u9n4p6ha4xl"
-  },
-  {
-    name: "409",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "https://img.kwcdn.com/product/fancy/1604add0-ca22-4b4f-8321-78329f108340.jpg?imageView2/2/w/800/q/70/format/webp",
-    shortlink: "",
-    customlink: "https://app.temu.com/m/mimxg75dsan"
-  },
-  {
     name: "409",
     podlink: "",
     usalink: "",
