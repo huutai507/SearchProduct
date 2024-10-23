@@ -170,11 +170,11 @@ export default function Home() {
           <p className="pb-05">
             Enter the Reels/Posts product code in the search box
           </p>
-          <p className="pb-05-notify">
-            {/* Some special products such as too large, fragile, high shipping costs, ... will not have a code in videos. */}
+          {/* <p className="pb-05-notify">
+            Since some products are out of stock, we suggest similar products.
             <br />
-            {/* Hope you sympathize. Thank you! */}
-          </p>
+            Hope you sympathize. Thank you!
+          </p> */}
         </div>
         <div className="input-content">
           <input
@@ -218,6 +218,13 @@ export default function Home() {
       <div className="container-list">
         {inputSearch ? (
           <div className="product-list">
+            <a
+              className="banner custom-button temu"
+              href="https://temu.to/k/us2xgvdw5bx"
+              target="_blank"
+            >
+              Earn Up to $75 for Each Affiliate You Invite
+            </a>
             <a
               className="banner custom-button temu"
               href="https://app.temu.com/m/m5otat3w56s"
@@ -277,6 +284,14 @@ export default function Home() {
                 loader={<div className="dashed-loading"></div>}
                 className="product-list"
               >
+                <a
+                  className="banner custom-button temu"
+                  href="https://temu.to/k/us2xgvdw5bx"
+                  target="_blank"
+                >
+                  Earn Up to $75 for Each Affiliate You Invite. Click here or
+                  search for inm87241 on Temu
+                </a>
                 <a
                   className="banner custom-button temu"
                   href="https://app.temu.com/m/m5otat3w56s"
