@@ -253,8 +253,8 @@ img {
 
 .custom-button.banner {
   padding: 16px 8px;
-  width: 350px;
-  max-width: 350px;
+  /* width: 350px; */
+  /* max-width: 350px; */
   margin-bottom: 16px;
 }
 
