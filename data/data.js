@@ -5,26 +5,6 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://img.kwcdn.com/product/fancy/1604add0-ca22-4b4f-8321-78329f108340.jpg?imageView2/2/w/800/q/70/format/webp",
-    shortlink: "",
-    customlink: "https://app.temu.com/m/mimxg75dsan"
-  },
-  {
-    name: "409",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "https://img.kwcdn.com/product/fancy/1604add0-ca22-4b4f-8321-78329f108340.jpg?imageView2/2/w/800/q/70/format/webp",
-    shortlink: "",
-    customlink: "https://temu.to/k/ufji7abeaqt"
-  },
-  {
-    name: "409",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
       "//ae01.alicdn.com/kf/S27bf8a74b1b7420398f6295ac8e8fef0q.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/fruit-drain-basket-with-lid"
