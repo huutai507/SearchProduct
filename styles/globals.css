@@ -2,8 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
-    Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   background-color: #f2f2f2;
   margin-bottom: 10rem;
 }
@@ -79,7 +79,7 @@ img {
   height: 1.5rem;
 }
 .container-list {
-  padding-top: 9rem;
+  padding-top: 10rem;
 }
 
 .product-list {
@@ -255,7 +255,7 @@ img {
   padding: 16px 8px;
   width: 350px;
   max-width: 350px;
-  margin: 16px auto;
+  margin-bottom: 16px;
 }
 
 .check {
@@ -263,7 +263,7 @@ img {
 }
 
 .custom-button.check {
-  background-image: url('https://www.patriotgoldenfoundation.com/hosted/images/65/6128d07b7f43c1bdd7ac9307fbcb13/BG-3.jpg');
+  background-image: url("https://www.patriotgoldenfoundation.com/hosted/images/65/6128d07b7f43c1bdd7ac9307fbcb13/BG-3.jpg");
   color: #fff;
   font-weight: 400;
 }
@@ -279,6 +279,10 @@ img {
 
 .custom-button.aliexpress {
   background-color: #f13434;
+  color: #fff;
+}
+.custom-button.temu {
+  background-color: #fb7701;
   color: #fff;
 }
 
@@ -317,7 +321,7 @@ img {
   padding: 16px 10px;
   border-radius: 5px;
   text-align: center;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 500;
   color: #2e2f35;
   background-color: white;
