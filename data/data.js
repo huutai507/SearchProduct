@@ -5,9 +5,10 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/Scf13c48182704ee985e3e8f3fcc7fc87m.jpg_350x350.jpg",
+      "//ae01.alicdn.com/kf/S9efa27845e2544549c796606de86e1f2A.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/cute-cat-plush-one-shoulder-bag"
+    customlink:
+      "https://hutaw.com/products/magnetic-hand-couple-creative-funny-socks"
   },
   {
     name: "411",
