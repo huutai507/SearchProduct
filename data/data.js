@@ -7,7 +7,7 @@ export const data = [
     imglink:
       "https://img.kwcdn.com/product/open/2024-04-22/1713769832220-a90cc49c7c754f768b2d5ee6a75c2432-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
     shortlink: "",
-    customlink: "https://temu.to/k/uvzw8jzwebr"
+    customlink: "https://app.temu.com/m/mjl3i7pp94l"
   },
   {
     name: "413",
