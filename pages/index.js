@@ -220,25 +220,25 @@ export default function Home() {
           <div className="product-list">
             <a
               className="banner custom-button temu"
-              href="https://temu.to/k/us2xgvdw5bx"
+              href="https://app.temu.com/m/mhqbgm3eive"
               target="_blank"
             >
-              Earn Up to $75 for Each Affiliate You Invite. Click here or search
-              for inm87241 on Temu
+              ⭐️ Earn Up to $75 for Each Affiliate You Invite. Click here or
+              search for acj716285 on Temu ⭐️
+            </a>
+            <a
+              className="banner custom-button temu"
+              href="https://app.temu.com/m/mm81kwg4ivj"
+              target="_blank"
+            >
+              ⭐️ Get a free gift. ⭐️
             </a>
             <a
               className="banner custom-button temu"
               href="https://app.temu.com/m/m5otat3w56s"
               target="_blank"
             >
-              ⭐️ Download Temu Get $100 Coupon Bundle ⭐️
-            </a>
-            <a
-              className="banner custom-button temu"
-              href="https://app.temu.com/m/m5otat3w56s"
-              target="_blank"
-            >
-              ⭐️ Search act870127 on the Temu App to get 💰30% off discount!
+              ⭐️ Search acj716285 on the Temu App to get 💰30% off discount!
               ⭐️
             </a>
             <div className="banner-search"></div>
@@ -287,25 +287,25 @@ export default function Home() {
               >
                 <a
                   className="banner custom-button temu"
-                  href="https://temu.to/k/us2xgvdw5bx"
+                  href="https://app.temu.com/m/mhqbgm3eive"
                   target="_blank"
                 >
-                  Earn Up to $75 for Each Affiliate You Invite. Click here or
-                  search for inm87241 on Temu
+                  ⭐️ Earn Up to $75 for Each Affiliate You Invite. Click here
+                  or search for acj716285 on Temu ⭐️
+                </a>
+                <a
+                  className="banner custom-button temu"
+                  href="https://app.temu.com/m/mm81kwg4ivj"
+                  target="_blank"
+                >
+                  ⭐️ Get a free gift. ⭐️
                 </a>
                 <a
                   className="banner custom-button temu"
                   href="https://app.temu.com/m/m5otat3w56s"
                   target="_blank"
                 >
-                  ⭐️ Download Temu Get $100 Coupon Bundle ⭐️
-                </a>
-                <a
-                  className="banner custom-button temu"
-                  href="https://app.temu.com/m/m5otat3w56s"
-                  target="_blank"
-                >
-                  ⭐️ Search act870127 on the Temu App to get 💰30% off
+                  ⭐️ Search acj716285 on the Temu App to get 💰30% off
                   discount! ⭐️
                 </a>
 
