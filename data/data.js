@@ -5,6 +5,16 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
+      "https://img.kwcdn.com/product/open/2024-04-22/1713769832220-a90cc49c7c754f768b2d5ee6a75c2432-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+    shortlink: "",
+    customlink: "https://temu.to/k/uvzw8jzwebr"
+  },
+  {
+    name: "413",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
       "//ae01.alicdn.com/kf/S9efa27845e2544549c796606de86e1f2A.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/one-shoulder-bag-female-design"
