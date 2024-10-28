@@ -218,12 +218,13 @@ export default function Home() {
       <div className="container-list">
         {inputSearch ? (
           <div className="product-list">
-            {/* <a
+            <a
               className="banner custom-button temu"
               href="https://temu.to/k/us2xgvdw5bx"
               target="_blank"
             >
-              Earn Up to $75 for Each Affiliate You Invite
+              Earn Up to $75 for Each Affiliate You Invite. Click here or search
+              for inm87241 on Temu
             </a>
             <a
               className="banner custom-button temu"
@@ -239,7 +240,7 @@ export default function Home() {
             >
               ⭐️ Search act870127 on the Temu App to get 💰30% off discount!
               ⭐️
-            </a> */}
+            </a>
             <div className="banner-search"></div>
             {filterData.reverse().map((item, index) => (
               <div className="product-item" key={index}>
@@ -284,7 +285,7 @@ export default function Home() {
                 loader={<div className="dashed-loading"></div>}
                 className="product-list"
               >
-                {/* <a
+                <a
                   className="banner custom-button temu"
                   href="https://temu.to/k/us2xgvdw5bx"
                   target="_blank"
@@ -306,7 +307,7 @@ export default function Home() {
                 >
                   ⭐️ Search act870127 on the Temu App to get 💰30% off
                   discount! ⭐️
-                </a> */}
+                </a>
 
                 {listProduct.map((item, index) => (
                   <div className="product-item" key={index}>
