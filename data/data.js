@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "416",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://img.kwcdn.com/product/fancy/bafcdf8d-0136-45f5-b750-389ab5913eae.jpg?imageView2/2/w/800/q/70/format/webp",
+    shortlink: "",
+    customlink: "https://app.temu.com/m/mneglh8f02s"
+  },
+  {
     name: "415",
     podlink: "",
     usalink: "",
