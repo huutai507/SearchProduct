@@ -1,23 +1,12 @@
 export const data = [
   {
-    name: "416",
-    podlink: "",
+    name: "417",
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://img.kwcdn.com/product/fancy/bafcdf8d-0136-45f5-b750-389ab5913eae.jpg?imageView2/2/w/800/q/70/format/webp",
+      "//ae01.alicdn.com/kf/Sd1086d78d27245d0b152a7b89b6f2d12L.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://app.temu.com/m/mneglh8f02s"
-  },
-  {
-    name: "415",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/5e186e4314797a1173e728d1ff01f95b.jpg?imageView2/2/w/800/q/70/format/webp",
-    shortlink: "",
-    customlink: "https://app.temu.com/m/migesc5h2ev"
+    customlink: "https://hutaw.com/products/electric-rechargeable-lint-remover"
   },
   {
     name: "414",
