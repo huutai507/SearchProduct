@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "418",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S85ba0ab5c2e94dfd8ec385ea5757d940D/Antibacterial-Wall-Paint-Waterbased-Repair-Net-with-Rollinsmell-Household-Latex-Paint-White-Small-Roller.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/antibacterial-wall-paint-waterbased-repair"
+  },
+  {
     name: "417",
     usalink: "",
     aliexpress: "",
