@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "420",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S0288e19510ed48c698a596f2539990f3R.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/stainless-steel-finger-protector-anti-cut-finger"
+  },
+  {
     name: "419",
     podlink: "",
     usalink: "",
