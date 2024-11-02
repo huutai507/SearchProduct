@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "424",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
+  },
+  {
     name: "423",
     podlink: "",
     usalink: "",
