@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "425",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S528014e2a0f54aad8550ed51d8af21db7.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multi-functional-folding-clothes-hanger"
+  },
+  {
     name: "424",
     podlink: "",
     usalink: "",
