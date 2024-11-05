@@ -15,7 +15,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S5bb8ee98b5984a15bfd6c43b401a1fd5P.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S423b94caf60b4d49860e4bd5545a3e9ev.jpg_350x350.jpg_.webp",
     shortlink: "",
     customlink: "https://hutaw.com/products/automatic-touchless-soap-dispenser"
   },
