@@ -152,8 +152,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
   },
   {
     name: "418",
@@ -966,8 +965,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
   },
   {
     name: "350",
@@ -1390,8 +1388,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
   },
   {
     name: "310",
@@ -2286,8 +2283,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
   },
   {
     name: "225",
@@ -3738,8 +3734,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/silicone-faucet-splash-pad-kitchen-foldable"
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
   },
   {
     name: "87",
