@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "440",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S954fd43c977046aca17d991b1def8013W.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/creative-dora-the-cat-night-light"
+  },
+  {
+    name: "439",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S25366cc3da4b43148f59c187531d677eh.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/cordless-led-desk-lamp-rechargeable-touch-sensitive-3-level-dimmable"
+  },
+  {
     name: "438",
     podlink: "",
     usalink: "",
