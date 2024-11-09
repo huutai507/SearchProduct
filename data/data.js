@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "441",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S3c289a0fbc6d4966bd7ea0754238b013X.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/men-half-hand-led-flashlight-glove"
+  },
+  {
     name: "440",
     podlink: "",
     usalink: "",
