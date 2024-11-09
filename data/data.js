@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "442",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/A16560b9a45a746ffbdee85ee58648b10I.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/professional-multifunctional-pet-hair-remover-window-cleaner"
+  },
+  {
     name: "441",
     podlink: "",
     usalink: "",
