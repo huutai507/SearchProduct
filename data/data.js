@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "449",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sde116de358304490988893b489f54886c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/electric-makeup-brush-cleaner-super-fast"
+  },
+  {
     name: "448",
     podlink: "",
     usalink: "",
