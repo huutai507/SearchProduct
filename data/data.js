@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "450",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1ac02a7df82f46d9a746ca3778636642Q.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-version-induction-cooker-heat-diffuser-plate"
+  },
+  {
     name: "449",
     podlink: "",
     usalink: "",
