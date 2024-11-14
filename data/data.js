@@ -50,7 +50,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sa39aff6eb7744dd4898f6b4c87c18185Z.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://bit.ly/40L6KYt"
+    customlink: "https://hutaw.com/products/manual-meat-food-slicer-2mm-4mm"
   },
   {
     name: "446",
