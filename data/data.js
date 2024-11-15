@@ -1,5 +1,14 @@
 export const data = [
   {
+    name: "452",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink: "https://m.media-amazon.com/images/I/51VlZj46PWS._SS340_.jpg",
+    shortlink: "",
+    customlink: "https://bit.ly/3CvgM63"
+  },
+  {
     name: "451",
     podlink: "",
     usalink: "",
