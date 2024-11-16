@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "455",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S40a370d1b6b04a2f8380f90591f76056e.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/car-armrest-cushion-with-cup-holder-and-tissue-box-organizer"
+  },
+  {
     name: "454",
     podlink: "",
     usalink: "",
