@@ -119,7 +119,8 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sa39aff6eb7744dd4898f6b4c87c18185Z.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/manual-meat-food-slicer-2mm-4mm"
+    customlink:
+      "https://hutaw.com/products/once-for-all-meat-slicer-and-cleaver-kitchen-knife-set"
   },
   {
     name: "446",
