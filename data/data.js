@@ -4,7 +4,7 @@ export const data = [
     podlink: '',
     usalink: '',
     aliexpress: '',
-    imglink: '//ae01.alicdn.com/kf/S7e87e2cc0c6447a089e7f23cfffef04b2.jpg_350x350.jpg',
+    imglink: '//ae01.alicdn.com/kf/S66bdc65cb19c4a05bb50fc2b4c29dc46y.jpg_350x350.jpg',
     shortlink: '',
     customlink: 'https://hutaw.com/products/2-in-1-needle-threader'
   },
