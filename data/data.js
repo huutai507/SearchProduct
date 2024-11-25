@@ -243,7 +243,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S0af2de707f2c43199c4095beedb8617fk.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
     shortlink: "",
     customlink:
       "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
