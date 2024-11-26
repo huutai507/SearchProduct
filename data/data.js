@@ -4,7 +4,7 @@ export const data = [
     podlink: "",
     usalink: "",
     aliexpress: "",
-    title: "( New Version )",
+    title: "New Version",
     imglink:
       "//ae01.alicdn.com/kf/Se554b850b306446993b31ca4b1f5d9f60.jpg_350x350.jpg",
     shortlink: "",
