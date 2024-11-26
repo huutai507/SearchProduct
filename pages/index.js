@@ -259,7 +259,7 @@ export default function Home() {
                           target="_blank"
                           className="custom-button aliexpress"
                         >
-                          {item.name}
+                          {item.name} {item.title}
                         </a>
                       </>
                     )}
@@ -319,9 +319,7 @@ export default function Home() {
                         />
                       </a>
                       <div className="product-text">
-                        {item.sameproduct && (
-                          <h6 className="mt-5">Similar products</h6>
-                        )}
+                        {/* {item.title && <h5 className="mt-5">{item.title}</h5>} */}
                         {/* <p>
                           <span className='code'>{item.name}</span>
                         </p> */}
@@ -332,7 +330,7 @@ export default function Home() {
                               target="_blank"
                               className="custom-button aliexpress"
                             >
-                              {item.name}
+                              {item.name} {item.title}
                             </a>
                           </>
                         )}
