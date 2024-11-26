@@ -319,7 +319,7 @@ export default function Home() {
                         />
                       </a>
                       <div className="product-text">
-                        {item.title && <h5 className="mt-5">{item.title}</h5>}
+                        {/* {item.title && <h5 className="mt-5">{item.title}</h5>} */}
                         {/* <p>
                           <span className='code'>{item.name}</span>
                         </p> */}
