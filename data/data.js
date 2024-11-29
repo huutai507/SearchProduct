@@ -7,8 +7,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sc2e9414b4c314051a0ffa769681d8cb7X.jpg_350x350.jpg",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/closet-organizer-storage-box-for-clothes"
+    customlink: "https://hutaw.com/products/tidy-home-closet-storage-box"
   },
   {
     name: "474",
