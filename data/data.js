@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "478",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/H396d2242edc2402595acdb951cff1514J.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/warm-and-stylish-over-the-knee-knit-socks"
+  },
+  {
     name: "477",
     podlink: "",
     usalink: "",
