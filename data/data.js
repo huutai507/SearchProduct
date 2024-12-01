@@ -5,10 +5,10 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/Sead86dc904ec49488d8dac87f0c778e28.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S07c3c19683484f32b198adc0e724542aU.jpg_350x350.jpg_.webp",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/folding-mini-wireless-bluetooth-keyboard-with-magnetic-stand-aluminum-alloy"
+      "https://hutaw.com/products/foladable-bluetooth-keyboard-with-touchpad"
   },
   {
     name: "478",
