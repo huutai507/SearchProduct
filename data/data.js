@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "482",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd40c347e44eb40369e021e6e7721bcdag.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/cartoon-multi-functional-stogare-bag"
+  },
+  {
     name: "481",
     podlink: "",
     usalink: "",
