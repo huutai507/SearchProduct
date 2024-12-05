@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "485",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9c3ba01a1f8e433e84e9c2904fa048eeF.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/camping-gas-stove-2670w-portable-folding"
+  },
+  {
+    name: "484",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se3b036c8f3954da8baada9888eaa31130.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-seat-suede-hook"
+  },
+  {
     name: "483",
     podlink: "",
     usalink: "",
