@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "490",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+  },
+  {
     name: "489",
     podlink: "",
     usalink: "",
