@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "493",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/Sd22beb493f38447db4c23281f2b8d536p/LED-Night-Light-Dimmable-Night-Light-2-Mode-USB-Rechargeable-Adjustable-Brightness-Nightlight-Baby-Night-Light.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/led-night-light-dimmable"
+  },
+  {
     name: "492",
     podlink: "",
     usalink: "",
