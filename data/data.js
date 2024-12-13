@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "495",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S25366cc3da4b43148f59c187531d677eh.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/cordless-led-desk-lamp-rechargeable-touch-sensitive-3-level-dimmable"
+  },
+  {
     name: "494",
     podlink: "",
     usalink: "",
