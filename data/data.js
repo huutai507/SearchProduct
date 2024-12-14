@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "496",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S8fae47df394e469996fee147a888630dH.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/2l-oil-filter-pot-with-strainer-and-basket"
+  },
+  {
     name: "495",
     podlink: "",
     usalink: "",
