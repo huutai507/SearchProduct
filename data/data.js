@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "499",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6757ff34a3cb427bb39fd00c3346155bz.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-upgrade-multi-purpose-professional-wire-stripping-tool-1"
+  },
+  {
     name: "498",
     podlink: "",
     usalink: "",
