@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "498",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S36eade63211b4819a4e3d9e1d9127be2J.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/washable-portable-hair-dust-removal-roller-for-pet-hair"
+  },
+  {
     name: "497",
     podlink: "",
     usalink: "",
