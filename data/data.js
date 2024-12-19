@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "502",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9bc1c8b3be4940a2878574e028a83185g.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/2-in-1-soft-plush-pet-bed"
+  },
+  {
     name: "501",
     podlink: "",
     usalink: "",
