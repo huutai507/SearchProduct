@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "501",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S456141dd986940678463a66f17f4f6a06.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/safety-door-lock"
+  },
+  {
     name: "500",
     podlink: "",
     usalink: "",
