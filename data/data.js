@@ -1,15 +1,5 @@
 export const data = [
   {
-    name: "503",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/Se0874ec27b8f4dbaa57ba2235b9321e53.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://hutaw.com/products/household-multi-function-hook"
-  },
-  {
     name: "502",
     podlink: "",
     usalink: "",
