@@ -145,7 +145,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "489",
@@ -875,7 +875,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "420",
@@ -2312,7 +2312,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "293",
@@ -3120,7 +3120,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "216",
@@ -3733,7 +3733,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "158",
@@ -4345,7 +4345,7 @@ export const data = [
       "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
     shortlink: "",
     customlink:
-      "https://hutaw.com/products/precision-electric-screwdriver-multifunctional"
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
   },
   {
     name: "100",
