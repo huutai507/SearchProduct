@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "505",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S7e87e2cc0c6447a089e7f23cfffef04b2.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/handheld-bidet-sprayer-toilet"
+  },
+  {
     name: "504",
     podlink: "",
     usalink: "",
