@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "510",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sce07cb75ed7f40c28c5b510387f397e6m.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/digging-planting-waterproof-garden-gloves-with-claws"
+  },
+  {
     name: "509",
     podlink: "",
     usalink: "",
