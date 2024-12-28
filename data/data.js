@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "511",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/H74a04c7700fe4878830d2bed06a8d178W.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/usb-rechargeable-glowing-collar"
+  },
+  {
     name: "510",
     podlink: "",
     usalink: "",
