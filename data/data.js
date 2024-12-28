@@ -5,7 +5,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S3be32bd318b34ef0b58c79dffa754b8fN.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/Scbb53655ea0b4d39b2ee92984d8fb6ae6.jpg_350x350q75.jpg_.avif",
     shortlink: "",
     customlink: "https://hutaw.com/products/mini-portable-video-recorder-camera"
   },
@@ -3167,7 +3167,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S3be32bd318b34ef0b58c79dffa754b8fN.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/Scbb53655ea0b4d39b2ee92984d8fb6ae6.jpg_350x350q75.jpg_.avif",
     shortlink: "",
     customlink: "https://hutaw.com/products/mini-portable-video-recorder-camera"
   },
