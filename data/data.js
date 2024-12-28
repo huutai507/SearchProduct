@@ -5,7 +5,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/H74a04c7700fe4878830d2bed06a8d178W.jpg_350x350q75.jpg_.avif",
+      "//ae01.alicdn.com/kf/S401819b4afe440588d36711b05520209A.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/usb-rechargeable-glowing-collar"
   },
