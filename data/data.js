@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "517",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb9bcef57b1414727b4aeae0d4a4757afp.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    gif: "",
+    customlink: "https://hutaw.com/products/portable-printer-wireless"
+  },
+  {
+    name: "516",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1c91b9522811447d902492750d18cc60B.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/lawn-swing-sprinkler-automatic"
+  },
+  {
     name: "515",
     podlink: "",
     usalink: "",
