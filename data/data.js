@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "521",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6ddd0fb64a2048838e79cc130cd1685c9.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-interior-cleaning-tool"
+  },
+  {
+    name: "520",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6cfd7946720243139eaed4d364edc6586.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/winter-thick-plush-sofa-cushion"
+  },
+  {
     name: "519",
     podlink: "",
     usalink: "",
