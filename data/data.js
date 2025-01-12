@@ -507,7 +507,8 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/H1a974dbce3a24b518c0a6bd469d8fd0da.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/faucet-shower-extension"
+    customlink:
+      "https://hutaw.com/products/universal-360-rotating-bathroom-faucet"
   },
   {
     name: "472",
@@ -4437,7 +4438,8 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/H1a974dbce3a24b518c0a6bd469d8fd0da.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/faucet-shower-extension"
+    customlink:
+      "https://hutaw.com/products/universal-360-rotating-bathroom-faucet"
   },
   {
     name: "108",
