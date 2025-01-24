@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "526",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
+  },
+  {
     name: "525",
     podlink: "",
     usalink: "",
@@ -517,7 +527,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "475",
@@ -1408,7 +1418,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "399",
@@ -1666,7 +1676,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "375",
@@ -2222,7 +2232,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "323",
@@ -2690,7 +2700,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "278",
@@ -2856,7 +2866,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "262",
@@ -3125,7 +3135,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "236",
@@ -3821,7 +3831,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "169",
@@ -4321,7 +4331,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "123",
@@ -4870,7 +4880,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/S607278a28b884a80ba37e8efff6d04840.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/bathroom-suction-cup-storage-rack"
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
   },
   {
     name: "71",
