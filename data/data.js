@@ -295,7 +295,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "496",
@@ -1122,7 +1122,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "418",
@@ -1934,7 +1934,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "350",
@@ -2356,7 +2356,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "310",
@@ -3250,7 +3250,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "225",
@@ -4701,7 +4701,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sfdac0d04cb544b53a412001abfa9154bI.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
   },
   {
     name: "87",
