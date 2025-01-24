@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "525",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb54f6e74294b46dd9444f47079d0dc34D.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/automatic-domino-laying-train"
+  },
+  {
     name: "524",
     podlink: "",
     usalink: "",
