@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "528",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S02ba0e588fb24bf5ad38a782e67e7d70h.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/diy-garden-sprayer-kit-20m"
+  },
+  {
+    name: "527",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Saddd7365685e43e3bc7b7df89293084fK.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/ice-cream-maker-pan"
+  },
+  {
     name: "526",
     podlink: "",
     usalink: "",
