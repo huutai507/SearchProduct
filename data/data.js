@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "529",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb50da0519c314e9e94cf0e158af985987.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/customizable-car-led-display"
+  },
+  {
     name: "528",
     podlink: "",
     usalink: "",
