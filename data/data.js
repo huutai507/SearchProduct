@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "530",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S347215d937064de2b5b81a7ed4f44862G.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/v17-jet-fighter-stunt-rc-airplane"
+  },
+  {
     name: "529",
     podlink: "",
     usalink: "",
