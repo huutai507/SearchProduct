@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "531",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+  },
+  {
     name: "530",
     podlink: "",
     usalink: "",
