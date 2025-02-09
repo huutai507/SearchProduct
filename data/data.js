@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "533",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sbebeb43bc70b462784446eec91959d04x.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3-in-1-multifunctional-cleaning-brush"
+  },
+  {
     name: "532",
     podlink: "",
     usalink: "",
