@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "532",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S0f36dbc80246405e86068b8db04077a94.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/levitating-moon-lamp"
+  },
+  {
     name: "531",
     podlink: "",
     usalink: "",
