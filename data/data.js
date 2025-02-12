@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "536",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S4147e6f9e0004c208bf6292763e42b5aS.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/plush-toy-organizer"
+  },
+  {
     name: "535",
     podlink: "",
     usalink: "",
