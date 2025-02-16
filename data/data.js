@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "541",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9931f87e8e304821b4c9f04169984376i.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/led-motion-sensor-cabinet-light"
+  },
+  {
     name: "540",
     podlink: "",
     usalink: "",
