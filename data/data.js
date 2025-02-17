@@ -1,26 +1,5 @@
 export const data = [
   {
-    name: "543",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S23c42ba1d798416aa816b6c5e0f78062t.jpg_350x350.jpg",
-    shortlink: "",
-    customlink:
-      "https://hutaw.com/products/large-foldable-laundry-basket-with-wheels-multifunctional-organizer"
-  },
-  {
-    name: "542",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S511655426bd4419bb24f20e3f594471cg.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://hutaw.com/products/3-speed-pressurized-faucet-extender"
-  },
-  {
     name: "541",
     podlink: "",
     usalink: "",
