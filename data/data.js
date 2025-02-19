@@ -1,5 +1,27 @@
 export const data = [
   {
+    name: "544",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6757ff34a3cb427bb39fd00c3346155bz.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-upgrade-multi-purpose-professional-wire-stripping-tool-1"
+  },
+  {
+    name: "543",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S679c4616d67d484d95a7cc3373a1f978A.png_350x350.png",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/automatic-scrolling-egg-rack-holder-storage-box"
+  },
+  {
     name: "542",
     podlink: "",
     usalink: "",
