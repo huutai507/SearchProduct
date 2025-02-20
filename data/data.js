@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "546",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S8b8987fdaf3642d99625f0f2121c5000G.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/portable-lint-remover-manual-clothes-brush-tool"
+  },
+  {
     name: "545",
     podlink: "",
     usalink: "",
