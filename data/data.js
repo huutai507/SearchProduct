@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "552",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd301192d50cc48bf9ce5c8dd1cf3f5893.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://s.click.aliexpress.com/e/_oEYtzey"
+  },
+  {
+    name: "551",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6b808e6f4e9d4c928f19677be8d299b1h.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://s.click.aliexpress.com/e/_olNNvxW"
+  },
+  {
     name: "550",
     podlink: "",
     usalink: "",
