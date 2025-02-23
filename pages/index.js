@@ -285,11 +285,15 @@ export default function Home() {
                 loader={<div className="dashed-loading"></div>}
                 className="product-list"
               >
-                <p className="banner custom-button temu" href="" target="">
+                <a
+                  className="banner custom-button temu"
+                  href="https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd"
+                  target=""
+                >
                   ⭐️ To purchase the product, please download the AliExpress
                   app on Play Store or App Store on your phone. Get up to 90%
                   off for new users!⭐️
-                </p>
+                </a>
 
                 {listProduct.map((item, index) => (
                   <div className="product-item" key={index}>
