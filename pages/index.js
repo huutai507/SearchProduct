@@ -299,14 +299,14 @@ export default function Home() {
                   href="https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029"
                   target=""
                 >
-                  Download Aliexpress For IOS
+                  Download AliExpress For IOS
                 </a>
                 <a
                   className="banner custom-button temu"
                   href="https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd"
                   target=""
                 >
-                  Download Aliexpress For Android
+                  Download AliExpress For Android
                 </a>
 
                 {listProduct.map((item, index) => (
