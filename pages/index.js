@@ -294,6 +294,20 @@ export default function Home() {
                   app on Play Store or App Store on your phone. Get up to 90%
                   off for new users!⭐️
                 </a>
+                <a
+                  className="banner custom-button temu"
+                  href="https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029"
+                  target=""
+                >
+                  Download Aliexpress For IOS
+                </a>
+                <a
+                  className="banner custom-button temu"
+                  href="https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd"
+                  target=""
+                >
+                  Download Aliexpress For Android
+                </a>
 
                 {listProduct.map((item, index) => (
                   <div className="product-item" key={index}>
