@@ -1,45 +1,5 @@
 export const data = [
   {
-    name: "559",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S13c4a8c96f1243a698fd0d7a813c0ed5l.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_opWxxsM"
-  },
-  {
-    name: "558",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S0587699f39804db9a0feaadd9cd6b1cd2.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oCdEnVe"
-  },
-  {
-    name: "557",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S39e7eadb05764d08a3b911bf9a0a92f7e.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_omjHGug"
-  },
-  {
-    name: "556",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S0f3460afc8844d1b8bbc4545bc251b2fO.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oCaGDZI"
-  },
-  {
     name: "555",
     podlink: "",
     usalink: "",
@@ -47,88 +7,9 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sd481788f9ebf47b39b9a4a37dcdf59adF.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oBzcLQk"
+    customlink: "https://hutaw.com/products/rc-spray-car-2-4g-stunt-tank"
   },
-  {
-    name: "554",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/Sed9a68df788d441682f0cf0734029659w.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oEhgQeg"
-  },
-  {
-    name: "553",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S665be8382e5a4ce4aa8ac9adf2f6c88bs.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oogeFrw"
-  },
-  {
-    name: "552",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/Sd301192d50cc48bf9ce5c8dd1cf3f5893.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oEYtzey"
-  },
-  {
-    name: "551",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S6b808e6f4e9d4c928f19677be8d299b1h.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_olNNvxW"
-  },
-  {
-    name: "550",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S2e260970830e4ec8b4bfbd5b83e2262db.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oEOY9U8"
-  },
-  {
-    name: "549",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S74cbe72c48064d2db047c67e2d33bd0bR.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oBzjhaW"
-  },
-  {
-    name: "548",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/Sbe7cae26b7b14c458492241d3a375d86p.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oEhOMHs"
-  },
-  {
-    name: "547",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S8edb4b335d444c16b0ed7dbb33602a280.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://s.click.aliexpress.com/e/_oDA5IaS"
-  },
+
   {
     name: "546",
     podlink: "",
