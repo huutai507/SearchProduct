@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "559",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9f986e9059ea4e92b207ef2bba9afd5cT.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/time-saver-lint-roller"
+  },
+  {
     name: "558",
     podlink: "",
     usalink: "",
