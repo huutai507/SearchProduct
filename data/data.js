@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "561",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S21bc7a00c0c04ea3a577518173dba60dY.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/3-in-1-magnetic-wireless-charging"
+  },
+  {
     name: "560",
     podlink: "",
     usalink: "",
