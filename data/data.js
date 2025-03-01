@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "562",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S39a5c80cb3e648aca9d678e702a7ec15j.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/mini-intelligent-automatic-electric-water-pump"
+  },
+  {
     name: "561",
     podlink: "",
     usalink: "",
