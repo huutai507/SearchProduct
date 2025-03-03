@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "564",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9b4db7213a064128a85a91d19dfee4a7c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/self-stirring-coffee-mug"
+  },
+  {
+    name: "563",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S3f177ccf5c1d46f3b4342ea3335cf8ca7.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/universal-360-rotating-bathroom-faucet"
+  },
+  {
     name: "562",
     podlink: "",
     usalink: "",
