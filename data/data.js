@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "568",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S645e7155f7db4c8ab0cab86f35c3c686I.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/knee-high-fuzzy-cozy-socks"
+  },
+  {
     name: "567",
     podlink: "",
     usalink: "",
