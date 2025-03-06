@@ -5,9 +5,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
+      "//ae01.alicdn.com/kf/Sc058d7dc5624413d9c5043e955fa166fP.jpg_350x350.jpg",
     shortlink: "",
-    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
+    customlink: "https://hutaw.com/products/smart-shoulder-and-neck-massager"
   },
   {
     name: "569",
