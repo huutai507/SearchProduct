@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "571",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S794fd002d64c4d62896edd4aa0a892ddj.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multifunctional-vegetable-and-fruit-slicer-and-grater"
+  },
+  {
     name: "570",
     podlink: "",
     usalink: "",
