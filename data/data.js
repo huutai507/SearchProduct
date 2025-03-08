@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "573",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S8fae47df394e469996fee147a888630dH.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/2l-oil-filter-pot-with-strainer-and-basket"
+  },
+  {
+    name: "572",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S70e98c43ab0a4824954448cd79a4c54dR.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/pet-food-measuring-scoop-electronic"
+  },
+  {
     name: "571",
     podlink: "",
     usalink: "",
