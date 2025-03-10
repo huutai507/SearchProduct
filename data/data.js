@@ -15,7 +15,7 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "/ae01.alicdn.com/kf/Sc0eb4148bf0749cbb5e590f0198561bdd.jpg_350x350.jpg",
+      "//ae01.alicdn.com/kf/Sc0eb4148bf0749cbb5e590f0198561bdd.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://hutaw.com/products/kids-dinosaur-onesie-costume"
   },
