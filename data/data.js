@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "577",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb1dce3fd4dac4ff5a70cb88855f62657Z.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/2-in-1-soap-infused-bath-ball"
+  },
+  {
     name: "576",
     podlink: "",
     usalink: "",
