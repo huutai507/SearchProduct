@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "592",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/Sb77ee462073d425a813f70594972ef9ab/Manual-Rotary-Fruit-Peeler-Kitchen-Fruit-Apple-Peeler-Machine-Pear-Apple-Slicing-Shaving-Slicer-Kitchen-Accessories.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/manual-rotary-fruit-peeler"
+  },
+  {
+    name: "591",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S91408e13f86c422bb31f42da41108364U.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/1-pair-foot-care-socks"
+  },
+  {
     name: "590",
     podlink: "",
     usalink: "",
