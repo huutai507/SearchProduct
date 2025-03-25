@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "590",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Se3b036c8f3954da8baada9888eaa31130.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-seat-suede-hook"
+  },
+  {
+    name: "589",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf1d0f281bad743a3a0d4fa303693d29cY.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/12pcs-magnetic-hooks-wall-mount-strong-magnet-holder"
+  },
+  {
     name: "588",
     podlink: "",
     usalink: "",
