@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "595",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S4e34987dba3b49cc8c0b4b05a01c496f5.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/super-absorption-phone-holder"
+  },
+  {
     name: "594",
     podlink: "",
     usalink: "",
