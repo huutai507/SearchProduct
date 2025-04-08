@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "597",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sa2042b12664648c8b85ba01cae7d317fl.png_350x350.png_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/high-pressure-chassis-nozzle-brush"
+  },
+  {
     name: "596",
     podlink: "",
     usalink: "",
