@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "596",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sc619a1214eca49689b00dd489c7a2ce4l.png_350x350.png",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/magnetic-levitation-lamp-creativity"
+  },
+  {
     name: "595",
     podlink: "",
     usalink: "",
