@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "599",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9b027dc7bd524f408917c0236112ba9fV.jpg_450x450q75.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/digital-hot-tub-temperature-monitor"
+  },
+  {
+    name: "598",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://img.btdmp.com/10395/10395860/products/1744168022c7fd9580a3.jpeg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/household-kneecap-heating-massager"
+  },
+  {
     name: "597",
     podlink: "",
     usalink: "",
