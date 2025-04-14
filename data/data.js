@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "603",
+    name: "601",
     podlink: "",
     usalink: "",
     aliexpress: "",
