@@ -1,5 +1,27 @@
 export const data = [
   {
+    name: "605",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6f1f39b8d3794de4b3a409c8bf7e2e3eg.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3d-magnetic-eyelashes-with-magnets-makeup"
+  },
+  {
+    name: "604",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sbebeb43bc70b462784446eec91959d04x.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3-in-1-multifunctional-cleaning-brush"
+  },
+  {
     name: "603",
     podlink: "",
     usalink: "",
