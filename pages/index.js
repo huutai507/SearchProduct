@@ -7,105 +7,6 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 import axios from "axios";
 import { data } from "../data/data";
 
-const COUNTRIES = [
-  {
-    area: "amazon.com",
-    name: "USA",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.ca",
-    name: "Canada",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.com.br",
-    name: "Brazil",
-    checked: false,
-    paragraph: "Compre agora na Amazon"
-  },
-  {
-    area: "amazon.com.mx",
-    name: "Mexico",
-    checked: false,
-    paragraph: "Comprar ahora en Amazon"
-  },
-  {
-    area: "amazon.in",
-    name: "India",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.co.jp",
-    name: "Japan",
-    checked: false,
-    paragraph: "今すぐ購入 Amazon"
-  },
-  {
-    area: "amazon.sg",
-    name: "Singapore",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.com.au",
-    name: "Australia",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.co.uk",
-    name: "UK",
-    checked: false,
-    paragraph: "Buy Now on Amazon"
-  },
-  {
-    area: "amazon.de",
-    name: "Germany",
-    checked: false,
-    paragraph: "Kaufen Sie jetzt auf Amazon"
-  },
-  {
-    area: "amazon.it",
-    name: "Italia",
-    checked: false,
-    paragraph: "Acquista ora su Amazon"
-  },
-  {
-    area: "amazon.fr",
-    name: "France",
-    checked: false,
-    paragraph: "Achetez maintenant sur Amazon"
-  },
-  {
-    area: "amazon.es",
-    name: "Spain",
-    checked: false,
-    paragraph: "Compra ahora en Amazon"
-  },
-  {
-    area: "amazon.se",
-    name: "Sweden",
-    checked: false,
-    paragraph: "Köp nu på Amazon"
-  },
-  {
-    area: "amazon.com.tr",
-    name: "Turkey",
-    checked: false,
-    paragraph: "Şimdi Satın Al Amazon"
-  },
-  {
-    area: "amazon.nl",
-    name: "Netherlands",
-    checked: false,
-    paragraph: "Koop nu op Amazon"
-  }
-];
-
 export default function Home() {
   const [inputSearch, setInputSearch] = useState("");
   const [listProduct, setListProduct] = useState(data);
@@ -136,6 +37,9 @@ export default function Home() {
   const fetchMoreData = () => {
     setListProduct(data.slice(0, listProduct.length + 10));
   };
+
+  const fixedImageLink = (url) =>
+    url?.startsWith("//") ? "https:" + url : url;
 
   const handleChangeSelected = (e) => {
     const prevCountry = "amazon.com";
@@ -170,11 +74,6 @@ export default function Home() {
           <p className="pb-05">
             Enter the Reels/Posts product code in the search box
           </p>
-          {/* <p className="pb-05-notify">
-            Since some products are out of stock, we suggest similar products.
-            <br />
-            Hope you sympathize. Thank you!
-          </p> */}
         </div>
         <div className="input-content">
           <input
@@ -218,29 +117,6 @@ export default function Home() {
       <div className="container-list">
         {inputSearch ? (
           <div className="product-list">
-            {/* <a
-              className="banner custom-button temu"
-              href="https://app.temu.com/m/mhqbgm3eive"
-              target="_blank"
-            >
-              ⭐️ Earn Up to $75 for Each Affiliate You Invite. Click here or
-              search for acj716285 on Temu ⭐️
-            </a>
-            <a
-              className="banner custom-button temu"
-              href="https://app.temu.com/m/mm81kwg4ivj"
-              target="_blank"
-            >
-              ⭐️ Get a free gift. ⭐️
-            </a>
-            <a
-              className="banner custom-button temu"
-              href="https://app.temu.com/m/m5otat3w56s"
-              target="_blank"
-            >
-              ⭐️ Search acj716285 on the Temu App to get 💰30% off discount!
-              ⭐️
-            </a> */}
             <div className="banner-search"></div>
             {filterData.reverse().map((item, index) => (
               <div className="product-item" key={index}>
@@ -249,9 +125,6 @@ export default function Home() {
                     <img src={item.imglink || item.gif} className="imglink" />
                   </a>
                   <div className="product-text">
-                    {/* <p>
-                      <span className='code'>{item.name}</span>
-                    </p> */}
                     {item.customlink && (
                       <>
                         <a
@@ -285,36 +158,12 @@ export default function Home() {
                 loader={<div className="dashed-loading"></div>}
                 className="product-list"
               >
-                {/* <a
-                  className="banner custom-button temu"
-                  href="https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd"
-                  target=""
-                >
-                  ⭐️ To purchase the product, please download the AliExpress
-                  app on Play Store or App Store on your phone. Get up to 90%
-                  off for new users!⭐️
-                </a>
-                <a
-                  className="banner custom-button temu"
-                  href="https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029"
-                  target=""
-                >
-                  Download AliExpress For IOS
-                </a>
-                <a
-                  className="banner custom-button temu"
-                  href="https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd"
-                  target=""
-                >
-                  Download AliExpress For Android
-                </a> */}
-
                 {listProduct.map((item, index) => (
                   <div className="product-item" key={index}>
                     <a href={item.customlink} target="_blank">
                       <a href={item.customlink} target="_blank">
                         <img
-                          src={item.imglink || item.gif}
+                          src={fixedImageLink(item.imglink)}
                           className="imglink"
                         />
                       </a>
