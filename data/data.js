@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "609",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S69d47f09f45b414e9a05eb6618cfa3e0y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multifunctional-4-in-1-bottle-opener"
+  },
+  {
     name: "608",
     podlink: "",
     usalink: "",
