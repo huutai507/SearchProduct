@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "608",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S10a35f7e87684814bb3df60659152de0F.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/multifunctional-penguin-bottle-opener"
+  },
+  {
     name: "607",
     podlink: "",
     usalink: "",
