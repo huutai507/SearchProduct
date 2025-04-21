@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "610",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
+  },
+  {
     name: "609",
     podlink: "",
     usalink: "",
