@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "612",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S071512d899a9454cb4c4da3ca492886a2.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/water-fountain-auto-filter"
+  },
+  {
     name: "611",
     podlink: "",
     usalink: "",
