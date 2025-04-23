@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "614",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sbf7952c3a213491ca0680994cfed0fc69.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/mirror-bathroom-organizer"
+  },
+  {
+    name: "613",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sbccc683703234289abdefc4288a8a6c0F.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/drone-mini-remote-control-aircraft"
+  },
+  {
     name: "612",
     podlink: "",
     usalink: "",
