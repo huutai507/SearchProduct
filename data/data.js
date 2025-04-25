@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "617",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S893d629baee142f79f35b24f70da8209N/Wireless-Mattress-Vacuum-Cleaner-Cordless-Handheld-UV-C-Bed-Dust-Remover-Indepth-Cleaning-Sofa-Specialist-12Kpa.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/wireless-mitter-division-artifact"
+  },
+  {
     name: "616",
     podlink: "",
     usalink: "",
@@ -673,7 +683,6 @@ export const data = [
     imglink:
       "https://ae01.alicdn.com/kf/S893d629baee142f79f35b24f70da8209N/Wireless-Mattress-Vacuum-Cleaner-Cordless-Handheld-UV-C-Bed-Dust-Remover-Indepth-Cleaning-Sofa-Specialist-12Kpa.jpg_350x350.jpg_.webp",
     shortlink: "",
-    gif: "vacuum.webp",
     customlink: "https://hutaw.com/products/wireless-mitter-division-artifact"
   },
   {
