@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "615",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1a182f0f01234b65b36d9138fc50913e7.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/portable-travel-hanger"
+  },
+  {
     name: "614",
     podlink: "",
     usalink: "",
