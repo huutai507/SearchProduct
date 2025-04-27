@@ -1,15 +1,5 @@
 export const data = [
   {
-    name: "621",
-    podlink: "",
-    usalink: "",
-    aliexpress: "",
-    imglink:
-      "//ae01.alicdn.com/kf/S6ddd0fb64a2048838e79cc130cd1685c9.jpg_350x350.jpg",
-    shortlink: "",
-    customlink: "https://hutaw.com/products/car-interior-cleaning-tool"
-  },
-  {
     name: "620",
     usalink: "",
     aliexpress: "",
