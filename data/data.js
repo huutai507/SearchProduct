@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "621",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd118748d538b41b2901cad824a2bef5fH.jpg_350x235q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-interior-cleaning-tool-1"
+  },
+  {
     name: "620",
     usalink: "",
     aliexpress: "",
@@ -971,9 +981,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "//ae01.alicdn.com/kf/S6ddd0fb64a2048838e79cc130cd1685c9.jpg_350x350.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd118748d538b41b2901cad824a2bef5fH.jpg_350x235q75.jpg_.avif",
     shortlink: "",
-    customlink: "https://hutaw.com/products/car-interior-cleaning-tool"
+    customlink: "https://hutaw.com/products/car-interior-cleaning-tool-1"
   },
   {
     name: "520",
