@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "622",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6e5c6262abd14748b4ae16c5d5aed747e.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/indoor-lcd-temperature-and-humidity-meter"
+  },
+  {
     name: "621",
     podlink: "",
     usalink: "",
