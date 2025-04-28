@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "624",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S70e98c43ab0a4824954448cd79a4c54dR.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/pet-food-measuring-scoop-electronic"
+  },
+  {
+    name: "623",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S7e87e2cc0c6447a089e7f23cfffef04b2.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/handheld-bidet-sprayer-toilet"
+  },
+  {
     name: "622",
     podlink: "",
     usalink: "",
