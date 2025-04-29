@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "627",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sc058d7dc5624413d9c5043e955fa166fP.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/smart-shoulder-and-neck-massager"
+  },
+  {
     name: "626",
     podlink: "",
     usalink: "",
