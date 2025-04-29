@@ -255,10 +255,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
   },
   {
     name: "599",
@@ -587,10 +586,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
   },
   {
     name: "568",
@@ -910,10 +908,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
   },
   {
     name: "530",
@@ -1312,10 +1309,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
   },
   {
     name: "491",
@@ -1813,10 +1809,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S81d9abea41f24d8991c0cb8ff7b23b784.png_350x350.png_.webp",
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/multifunctional-prone-sleeping-pillow"
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
   },
   {
     name: "444",
