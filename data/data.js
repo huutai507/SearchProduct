@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "626",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S75d2802f226d45098e9b6b5e707165a9z.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/visual-countdown-timer-kitchen-classroom-use"
+  },
+  {
     name: "625",
     podlink: "",
     usalink: "",
