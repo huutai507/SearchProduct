@@ -296,9 +296,9 @@ export const data = [
     usalink: "",
     aliexpress: "",
     imglink:
-      "https://ae-pic-a1.aliexpress-media.com/kf/S9b027dc7bd524f408917c0236112ba9fV.jpg_450x450q75.jpg",
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sc7d8e41db3e84bceb1b18dedbeda8debI.jpeg_350x350q75.jpeg_.avif",
     shortlink: "",
-    customlink: "https://hutaw.com/products/digital-hot-tub-temperature-monitor"
+    customlink: "https://hutaw.com/products/smart-led-shower-thermometer"
   },
   {
     name: "598",
