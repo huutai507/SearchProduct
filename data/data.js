@@ -1,5 +1,36 @@
 export const data = [
   {
+    name: "630",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6266b3606ed24a80b62dc57c055adb31d.jpg_80x80.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/bedsheet-fixing-clips"
+  },
+  {
+    name: "629",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2d15efc4496249319a20c15e029d8745c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/anti-overflow-and-dustproof-silicone-pot-cover"
+  },
+  {
+    name: "628",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S38554930da604a8eaf082dcd1399eccaF.jpeg_350x350.jpeg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multi-functional-drain-basket"
+  },
+  {
     name: "627",
     podlink: "",
     usalink: "",
