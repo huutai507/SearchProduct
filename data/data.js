@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "634",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S83c0f9d2a1274c5e96656b57ea1a0d25n.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/drink-holder-for-cars"
+  },
+  {
     name: "633",
     podlink: "",
     usalink: "",
