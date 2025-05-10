@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "636",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Ae374322c6f134df5b9528adf145932c5o.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/double-layer-waterproof-cat-litter-mat"
+  },
+  {
     name: "635",
     podlink: "",
     usalink: "",
