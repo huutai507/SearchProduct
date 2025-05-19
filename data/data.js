@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "638",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S69e46d0947aa4860897b84f51f6d5a1fh.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/travel-toothbrush-protector-cap"
+  },
+  {
     name: "637",
     podlink: "",
     usalink: "",
