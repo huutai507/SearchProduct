@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "640",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sa5308d666e454e7d890fbc82171a6bdav.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/foldable-silicone-dish-drying-mat"
+  },
+  {
     name: "639",
     podlink: "",
     usalink: "",
