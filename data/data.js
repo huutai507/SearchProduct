@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "639",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S988eea6c75914920961014ab08889caaI.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/magnetic-washer-door-prop-stabilizer"
+  },
+  {
     name: "638",
     podlink: "",
     usalink: "",
