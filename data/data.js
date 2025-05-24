@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "640",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sf895c49ca7db4eee97ca6dd287467fa3e.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
+  },
+  {
     name: "639",
     podlink: "",
     usalink: "",
