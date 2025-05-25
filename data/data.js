@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "641",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2b610dac157f415da93a033d9df5d343F.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/reuable-hair-removal"
+  },
+  {
     name: "640",
     podlink: "",
     usalink: "",
