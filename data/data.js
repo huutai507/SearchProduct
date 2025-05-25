@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "642",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S0fccf190987b434d999c18a4d4404609I.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multifunctional-foot-scrubber-brush"
+  },
+  {
     name: "641",
     podlink: "",
     usalink: "",
