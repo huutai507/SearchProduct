@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "643",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb9bcef57b1414727b4aeae0d4a4757afp.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    gif: "",
+    customlink: "https://hutaw.com/products/portable-printer-wireless"
+  },
+  {
     name: "642",
     podlink: "",
     usalink: "",
