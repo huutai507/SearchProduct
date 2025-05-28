@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "647",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6757ff34a3cb427bb39fd00c3346155bz.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/new-upgrade-multi-purpose-professional-wire-stripping-tool-1"
+  },
+  {
+    name: "646",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae01.alicdn.com/kf/S91408e13f86c422bb31f42da41108364U.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/1-pair-foot-care-socks"
+  },
+  {
     name: "645",
     podlink: "",
     usalink: "",
