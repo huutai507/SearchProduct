@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "652",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2d049202d6d741819283b780e86ba7c2J.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/portable-foldable-multi-slot-travel-eyeglasses-organizer"
+  },
+  {
     name: "651",
     podlink: "",
     usalink: "",
