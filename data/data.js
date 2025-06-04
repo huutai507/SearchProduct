@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "654",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6b1a54eac8db412c8e9870c5ecba8c22o.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/travel-glasses-case"
+  },
+  {
     name: "653",
     podlink: "",
     usalink: "",
