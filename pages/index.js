@@ -143,7 +143,9 @@ export default function Home() {
             ))}
             <div>
               {!filterData.length ? (
-                <p>No matching results. Please search again</p>
+                <p className="not-found">
+                  Sorry, we couldn't find a match. Please try another code!
+                </p>
               ) : (
                 <p></p>
               )}
