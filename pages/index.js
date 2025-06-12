@@ -72,14 +72,15 @@ export default function Home() {
       <div className="search-bar">
         <div className="content-title">
           <p className="pb-05">
-            Enter the Reels/Posts product code in the search box
+            As an affiliate, I earn a small commission from qualifying
+            purchases!
           </p>
         </div>
         <div className="input-content">
           <input
             className="input-search"
             type="text"
-            placeholder="Enter code here"
+            placeholder="Enter product code here"
             onChange={inputHandler}
             value={inputSearch}
             autoFocus
