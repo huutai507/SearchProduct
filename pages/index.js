@@ -72,8 +72,7 @@ export default function Home() {
       <div className="search-bar">
         <div className="content-title">
           <p className="pb-05">
-            As an affiliate, I earn a small commission from qualifying
-            purchases!
+            As an affiliate, I may earn from qualifying purchases.
           </p>
         </div>
         <div className="input-content">
