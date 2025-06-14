@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "667",
+    name: "668",
     podlink: "",
     usalink: "",
     aliexpress: "",
@@ -8,6 +8,16 @@ export const data = [
       "//ae01.alicdn.com/kf/Se0fc9d9e6c2c45db91e441394debf2353.jpg_350x350.jpg",
     shortlink: "",
     customlink: "https://s.click.aliexpress.com/e/_oDhCYOQ"
+  },
+  {
+    name: "667",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S11c74fac82664562bb858cd203df258fs.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://s.click.aliexpress.com/e/_omqBoH0"
   },
   {
     name: "666",
