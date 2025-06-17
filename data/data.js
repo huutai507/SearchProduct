@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "659",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S43b189d7942f45189defb69ad36203ee0.png_350x350.png",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/wheeled-laundry-basket"
+  },
+  {
     name: "658",
     podlink: "",
     usalink: "",
