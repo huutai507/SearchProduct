@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "660",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/A60d6c5e3d0874d7e89d3485a42a54df5X.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/suction-cup-corner-bathroom-shelf"
+  },
+  {
     name: "659",
     podlink: "",
     usalink: "",
