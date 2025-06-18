@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "662",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S40134a48a81c43e1a5bda9809d19e4d1a.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/car-headlight-key-holder"
+  },
+  {
+    name: "661",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sde116de358304490988893b489f54886c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/makeup-brush-cleaner-machine"
+  },
+  {
     name: "660",
     podlink: "",
     usalink: "",
