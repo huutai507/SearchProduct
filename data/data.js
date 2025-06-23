@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "667",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6eac1ead6f0e4e03bd471e272b590409Q.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/silicone-charger-cable-guard"
+  },
+  {
     name: "666",
     podlink: "",
     usalink: "",
