@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "670",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb50da0519c314e9e94cf0e158af985987.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/customizable-car-led-display"
+  },
+  {
+    name: "669",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S19ece73d2baa4c1caa2062eb8579466cM.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/water-filter-basket"
+  },
+  {
     name: "668",
     podlink: "",
     usalink: "",
