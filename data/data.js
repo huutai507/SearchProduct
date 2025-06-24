@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "668",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S80fe2f07d5994a189166272c0ec325c3G.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/toothbrush-storage-cover"
+  },
+  {
     name: "667",
     podlink: "",
     usalink: "",
