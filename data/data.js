@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "671",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6fef3660d1c4443cbb90551fbfa7c9b1Y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/bubble-machine-for-kids"
+  },
+  {
     name: "670",
     podlink: "",
     usalink: "",
