@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "672",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2ea9fe3597ac4a7c8d10d46c79ce31caK.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/donut-cat-bed-tunnel-interactive-pet-toy"
+  },
+  {
     name: "671",
     podlink: "",
     usalink: "",
