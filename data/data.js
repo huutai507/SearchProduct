@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "674",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S8b46edf7e3ad424fa6d6a0776ba9b60bW.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/comfortable-multifunctional-shower-head"
+  },
+  {
     name: "673",
     podlink: "",
     usalink: "",
