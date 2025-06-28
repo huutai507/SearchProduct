@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "676",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S071512d899a9454cb4c4da3ca492886a2.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/water-fountain-auto-filter"
+  },
+  {
+    name: "675",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S743c1ef2e9d14680a1c208eac161e25de.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/electric-hand-massager"
+  },
+  {
     name: "674",
     podlink: "",
     usalink: "",
