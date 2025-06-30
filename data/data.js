@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "680",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sde116de358304490988893b489f54886c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/makeup-brush-cleaner-machine"
+  },
+  {
+    name: "679",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sa39aff6eb7744dd4898f6b4c87c18185Z.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/once-for-all-meat-slicer-and-cleaver-kitchen-knife-set"
+  },
+  {
     name: "678",
     podlink: "",
     usalink: "",
