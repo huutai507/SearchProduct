@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "682",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd52d88c2595747c4ba389e568114b490n.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/appliance-cord-winder"
+  },
+  {
     name: "681",
     podlink: "",
     usalink: "",
