@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "683",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S3f177ccf5c1d46f3b4342ea3335cf8ca7.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/universal-360-rotating-bathroom-faucet"
+  },
+  {
     name: "682",
     podlink: "",
     usalink: "",
