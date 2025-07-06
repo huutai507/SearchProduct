@@ -1,5 +1,27 @@
 export const data = [
   {
+    name: "685",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sce07cb75ed7f40c28c5b510387f397e6m.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/digging-planting-waterproof-garden-gloves-with-claws"
+  },
+
+  {
+    name: "684",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S8e18bd29352a49dbbd1b0b1caccb8131b.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/magnetic-charger-cable"
+  },
+  {
     name: "683",
     podlink: "",
     usalink: "",
