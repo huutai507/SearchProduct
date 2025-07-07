@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "687",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S2d15efc4496249319a20c15e029d8745c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/anti-overflow-and-dustproof-silicone-pot-cover"
+  },
+  {
     name: "686",
     podlink: "",
     usalink: "",
