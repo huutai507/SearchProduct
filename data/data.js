@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "692",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S281aa810e5f04b549d9c285ce495b02az.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/stainless-steel-pop-up-sink-strainer-stopper"
+  },
+  {
     name: "691",
     podlink: "",
     usalink: "",
