@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "697",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sc7d8e41db3e84bceb1b18dedbeda8debI.jpeg_350x350q75.jpeg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/smart-led-shower-thermometer"
+  },
+  {
     name: "696",
     podlink: "",
     usalink: "",
