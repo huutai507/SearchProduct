@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "698",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sde1a4e73aa144041a48e97c59451c169L.png_350x350.png",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/2-in-1-oil-spray-bottle"
+  },
+  {
     name: "697",
     podlink: "",
     usalink: "",
@@ -461,8 +471,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sde1a4e73aa144041a48e97c59451c169L.png_350x350.png",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/glass-oil-spray-bottle-kitchen-bbq-tool"
+    customlink: "https://hutaw.com/products/2-in-1-oil-spray-bottle"
   },
   {
     name: "652",
@@ -2295,8 +2304,7 @@ export const data = [
     imglink:
       "//ae01.alicdn.com/kf/Sde1a4e73aa144041a48e97c59451c169L.png_350x350.png",
     shortlink: "",
-    customlink:
-      "https://hutaw.com/products/glass-oil-spray-bottle-kitchen-bbq-tool"
+    customlink: "https://hutaw.com/products/2-in-1-oil-spray-bottle"
   },
   {
     name: "470",
