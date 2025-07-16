@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "699",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S83d1ca84e471489e8878798aa9760b346.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/invisible-strapless-backless-lifting-sticky-bra"
+  },
+  {
     name: "698",
     podlink: "",
     usalink: "",
