@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "701",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sf895c49ca7db4eee97ca6dd287467fa3e.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/faucet-silicone-draining-mat"
+  },
+  {
+    name: "700",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S93063a00d77b4399825b0f7ae0b3e158T.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multi-functional-bra-tie-hanger"
+  },
+  {
     name: "699",
     podlink: "",
     usalink: "",
