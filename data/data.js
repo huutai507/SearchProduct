@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "696",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S1916896ec302430aaf9163d444204659W.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/4pcs-wooden-tree-design-coasters"
+  },
+  {
+    name: "695",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S0757ed91662a4bc0baff5c18aef8f3bdw.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/portable-sunglasses-bag"
+  },
+  {
     name: "694",
     podlink: "",
     usalink: "",
