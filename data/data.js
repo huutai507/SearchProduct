@@ -1,5 +1,36 @@
 export const data = [
   {
+    name: "704",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2ae08ce53afb4df6adf4034f6d01a806w.png_350x350.png_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/20-in-1-cleaning-kit"
+  },
+  {
+    name: "703",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd6aade1579dc47c6bf06920e89975369U.png_350x350.png_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/mini-washing-machine"
+  },
+  {
+    name: "702",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sead86dc904ec49488d8dac87f0c778e28.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/folding-mini-wireless-bluetooth-keyboard-with-magnetic-stand-aluminum-alloy"
+  },
+  {
     name: "701",
     podlink: "",
     usalink: "",
