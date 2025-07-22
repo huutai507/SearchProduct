@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "706",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S664d733b2dc84727b67975d3a7d3f35bD.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/sunglasses-case-portable"
+  },
+  {
+    name: "705",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sdf55aaeb72de46758cf90b05782e4901z.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/easy-release-ice-cube-tray"
+  },
+  {
     name: "704",
     podlink: "",
     usalink: "",
