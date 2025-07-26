@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "714",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S131a587cf4224a39a437dee26a901e0d9.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/adjustable-bunion-corrector-brace"
+  },
+  {
     name: "713",
     podlink: "",
     usalink: "",
