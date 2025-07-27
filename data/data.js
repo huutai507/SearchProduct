@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "715",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9efb49b018fd49a6a1a227099291830eO.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/adjustable-neck-support"
+  },
+  {
     name: "714",
     podlink: "",
     usalink: "",
