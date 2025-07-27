@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "716",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S263438f8c81c485cbbd83c6b80a51435Z.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/cute-cat-socks"
+  },
+  {
     name: "715",
     podlink: "",
     usalink: "",
