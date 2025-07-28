@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "719",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S632ea9193e744d67a3ceb90ed8a91ecaU.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3-in-1-charger-devices-phone-charger"
+  },
+  {
     name: "718",
     podlink: "",
     usalink: "",
