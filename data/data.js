@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "718",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sb546ccde71524c4fa971b81f5537a14ab.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/portable-alarm-door-stopper"
+  },
+  {
     name: "717",
     podlink: "",
     usalink: "",
