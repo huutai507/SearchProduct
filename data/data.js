@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "722",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/See239e8253554e57b6855c33524c1ab2E.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/electric-lint-remover"
+  },
+  {
     name: "721",
     podlink: "",
     usalink: "",
