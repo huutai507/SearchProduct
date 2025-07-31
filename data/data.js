@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "720",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S7bf137b758ca4a778ec782011986e16fE.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/adjustable-fridge-washer-stand-with-wheels"
+  },
+  {
     name: "719",
     podlink: "",
     usalink: "",
