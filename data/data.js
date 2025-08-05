@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "724",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf5c48689da88442e94bbbd0c86dffbacK.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/automatic-domino-laying-train"
+  },
+  {
+    name: "723",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S6f1f39b8d3794de4b3a409c8bf7e2e3eg.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/3d-magnetic-eyelashes-with-magnets-makeup"
+  },
+  {
     name: "722",
     podlink: "",
     usalink: "",
