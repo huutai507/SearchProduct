@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "725",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9d09921794cf4762aa295618536852bd7.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/multifunctional-pillow-cushion"
+  },
+  {
     name: "724",
     podlink: "",
     usalink: "",
