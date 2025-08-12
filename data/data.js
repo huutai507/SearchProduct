@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "726",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S743c1ef2e9d14680a1c208eac161e25de.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/electric-hand-massager"
+  },
+  {
     name: "725",
     podlink: "",
     usalink: "",
