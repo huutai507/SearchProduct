@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "730",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sb67545017c0b4961ae2f3f0adf7cebaaw.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/twist-seal-clip"
+  },
+  {
     name: "729",
     podlink: "",
     usalink: "",
