@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "729",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Scdc9c6f05dc247a581aa5bbc1b2ca38dQ.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/mini-folding-handheld-sponge-mop"
+  },
+  {
     name: "728",
     podlink: "",
     usalink: "",
