@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "731",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S9ecf1ceb00f1441ca96f60817469b99bz.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/5-1-all-purpose-versatile-tool-kit"
+  },
+  {
     name: "730",
     podlink: "",
     usalink: "",
