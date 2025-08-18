@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "733",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sbae9f6bb1ab045f98ca6526aeca0c958u.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/automatic-stirring-cup-mug-rechargeable"
+  },
+  {
     name: "732",
     podlink: "",
     usalink: "",
