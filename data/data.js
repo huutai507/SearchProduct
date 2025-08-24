@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "744",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sbad9ec6fea124f8eaf0622c5a43dd8e1G.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/automatic-150cm-60-inch-telescopic-tape-measure-self-retracting-ruler"
+  },
+  {
     name: "743",
     podlink: "",
     usalink: "",
