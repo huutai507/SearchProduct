@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "751",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sfa0f1fc62cd44fb1b39ae50e61e7e4d5d.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/magnetic-fill-light-mini-selfie"
+  },
+  {
+    name: "750",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S8e18bd29352a49dbbd1b0b1caccb8131b.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/magnetic-charger-cable"
+  },
+  {
     name: "749",
     podlink: "",
     usalink: "",
