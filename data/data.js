@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "753",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Saddd7365685e43e3bc7b7df89293084fK.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/ice-cream-maker-pan"
+  },
+  {
     name: "752",
     podlink: "",
     usalink: "",
