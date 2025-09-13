@@ -1,5 +1,25 @@
 export const data = [
   {
+    name: "755",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S954fd43c977046aca17d991b1def8013W.jpg_350x350.jpg_.webp",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/creative-dora-the-cat-night-light"
+  },
+  {
+    name: "754",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sde116de358304490988893b489f54886c.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/makeup-brush-cleaner-machine"
+  },
+  {
     name: "753",
     podlink: "",
     usalink: "",
