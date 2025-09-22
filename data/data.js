@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "760",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd481788f9ebf47b39b9a4a37dcdf59adF.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/rc-spray-car-2-4g-stunt-tank"
+  },
+  {
     name: "759",
     podlink: "",
     usalink: "",
