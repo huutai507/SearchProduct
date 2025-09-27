@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "762",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd6aade1579dc47c6bf06920e89975369U.png_350x350.png_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/mini-washing-machine"
+  },
+  {
     name: "761",
     podlink: "",
     usalink: "",
