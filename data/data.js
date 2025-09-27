@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "763",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S8e18bd29352a49dbbd1b0b1caccb8131b.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/magnetic-charger-cable"
+  },
+  {
     name: "762",
     podlink: "",
     usalink: "",
