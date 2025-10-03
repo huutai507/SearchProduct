@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "782",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S5b1f4d51ee8c4bd098a33949c590bf6bI.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/gun-muscle-massager-relax-body"
+  },
+  {
     name: "781",
     podlink: "",
     usalink: "",
