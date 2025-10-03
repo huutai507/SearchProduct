@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "784",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S05501c2d2444458ca76ea03e008cd7aai.jpg_350x350.jpg",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/42-head-muscle-massage-gun"
+  },
+  {
     name: "783",
     podlink: "",
     usalink: "",
