@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "786",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S57aea0c27c97458fb19a1d50241bb74cj.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/2-in-1-automatic-interactive-pet-toy"
+  },
+  {
     name: "785",
     podlink: "",
     usalink: "",
