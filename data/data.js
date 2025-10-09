@@ -1,5 +1,15 @@
 export const data = [
   {
+    name: "790",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "https://ae-pic-a1.aliexpress-media.com/kf/S1dd2b1bd53e24cdfaa38c996d23ef215X.jpg_350x350q75.jpg_.avif",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/kitchen-sink-silicone-splash-guard"
+  },
+  {
     name: "789",
     podlink: "",
     usalink: "",
