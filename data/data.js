@@ -1,5 +1,16 @@
 export const data = [
   {
+    name: "793",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sead86dc904ec49488d8dac87f0c778e28.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/folding-mini-wireless-bluetooth-keyboard-with-magnetic-stand-aluminum-alloy"
+  },
+  {
     name: "792",
     podlink: "",
     usalink: "",
