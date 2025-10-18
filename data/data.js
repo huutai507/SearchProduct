@@ -1,5 +1,26 @@
 export const data = [
   {
+    name: "798",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/S43b189d7942f45189defb69ad36203ee0.png_350x350.png",
+    shortlink: "",
+    customlink: "https://hutaw.com/products/wheeled-laundry-basket"
+  },
+  {
+    name: "797",
+    podlink: "",
+    usalink: "",
+    aliexpress: "",
+    imglink:
+      "//ae01.alicdn.com/kf/Sd4d0de461e254b54bb9fc1644c223ba2Y.jpg_350x350.jpg",
+    shortlink: "",
+    customlink:
+      "https://hutaw.com/products/51-in-1-precision-electric-screwdriver-set"
+  },
+  {
     name: "796",
     podlink: "",
     usalink: "",
